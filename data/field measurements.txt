@@ -1,0 +1,1000 @@
+date	survey_number	season	habitat	Species	species_code	photoID	bill_length_mm	wing_length_mm	tarsus_length_mm	body_length_mm	position_quality	bird_species	photoID	corr_bill_length_mm	corr_wing_length_mm	corr_tarsus_length_mm	corr_body_length_mm
+18-7-24	1	winter	native	Zonotrichia_capensis	zoncap	_MG_013	6.3	45.4	NA	103.8	baja	zoncap	_MG_013	6.3	45.5	NA	104.1
+18-7-24	1	winter	native	Zonotrichia_capensis	zoncap	_MG_020	3.6	27.6	6.8	70.6	baja	zoncap	_MG_020	3.6	27.7	6.8	70.9
+18-7-24	1	winter	native	Icterus_cayanensis	ictpyr	_MG_024	15.7	83.4	NA	187.4	baja	ictpyr	_MG_024	15.8	83.7	NA	188.0
+18-7-24	1	winter	native	Serpophaga_subcristata	sersub	_MG_031	NA	35.8	11.9	NA	baja	sersub	_MG_031	NA	35.9	11.9	NA
+18-7-24	1	winter	native	Serpophaga_subcristata	sersub	_MG_035	12.5	82.3	NA	180.4	media	sersub	_MG_035	12.6	82.6	NA	181.0
+18-7-24	1	winter	native	Serpophaga_subcristata	sersub	_MG_040	3.2	43.7	NA	89.8	media	sersub	_MG_040	3.2	43.8	NA	90.1
+18-7-24	1	winter	native	Leptasthenura_platensis	leppla	_MG_047	5.5	50.7	NA	185.7	media	leppla	_MG_047	5.5	50.9	NA	186.3
+18-7-24	1	winter	native	Aratinga_leucophthalma	psileu	_MG_056	15.4	99.3	NA	288.8	alta	psileu	_MG_056	15.4	99.6	NA	289.7
+18-7-24	1	winter	native	Zonotrichia_capensis	zoncap	_MG_059	7.4	67.9	13.7	135.4	baja	zoncap	_MG_059	7.5	68.1	13.8	135.8
+18-7-24	1	winter	native	Agelaioides_badius	agebad	_MG_062	15.9	79.9	27.0	186.9	media	agebad	_MG_062	15.9	80.1	27.1	187.5
+18-7-24	1	winter	native	Zonotrichia_capensis	zoncap	_MG_064	8.4	60.8	NA	187.2	alta	zoncap	_MG_064	8.5	61.0	NA	187.8
+26-7-24	2	winter	invaded	Basileuterus_culicivorus	bascul	_MG_077	4.4	NA	NA	117.3	media	bascul	_MG_077	4.4	NA	NA	117.7
+26-7-24	2	winter	invaded	Turdus_rufiventris	turruf	_MG_078	18.0	125.8	39.9	254.3	alta	turruf	_MG_078	18.1	126.2	40.0	255.1
+26-7-24	2	winter	invaded	Basileuterus_culicivorus	bascul	_MG_085	7.3	70.4	14.0	161.3	alta	bascul	_MG_085	7.3	70.7	14.1	161.8
+26-7-24	2	winter	invaded	Turdus_amaurochalinus	turama	_MG_086	16.2	110.0	37.5	220.4	alta	turama	_MG_086	16.3	110.3	37.6	221.1
+26-7-24	2	winter	invaded	Thraupis_bonariensis	pipbon	_MG_093	9.0	86.1	17.3	181.2	alta	pipbon	_MG_093	9.0	86.3	17.3	181.8
+26-7-24	2	winter	invaded	Zonotrichia_capensis	zoncap	_MG_094	5.7	48.0	20.5	106.0	alta	zoncap	_MG_094	5.7	48.1	20.6	106.4
+26-7-24	2	winter	invaded	Serpophaga_subcristata	sersub	_MG_099	5.4	47.1	NA	105.5	alta	sersub	_MG_099	5.4	47.3	NA	105.8
+26-7-24	2	winter	invaded	Turdus_rufiventris	turruf	_MG_123	12.9	101.8	NA	NA	media	turruf	_MG_123	13.0	102.2	NA	NA
+26-7-24	2	winter	native	Zonotrichia_capensis	zoncap	_MG_0344	9.7	63.1	16.4	131.9	alta	zoncap	_MG_0344	9.7	63.3	16.5	132.3
+17-8-24	3	winter	native	Zenaida_auriculata	zenaur	_MG_0346	14.4	133.9	NA	252.3	alta	zenaur	_MG_0346	14.4	134.4	NA	253.1
+17-8-24	3	winter	native	Patagioenas_picazuro	patpic	_MG_0347	20.7	NA	NA	419.4	alta	patpic	_MG_0347	20.7	NA	NA	420.8
+17-8-24	3	winter	native	Furnarius_rufus	furruf	_MG_0350	15.8	79.1	18.3	179.9	media	furruf	_MG_0350	15.8	79.4	18.3	180.4
+17-8-24	3	winter	native	Furnarius_rufus	furruf	_MG_0351	18.1	71.0	32.2	153.4	alta	furruf	_MG_0351	18.1	71.2	32.3	153.9
+17-8-24	3	winter	native	Pitangus_sulphuratus	pitsul	_MG_0352	24.7	124.9	NA	258.8	alta	pitsul	_MG_0352	24.8	125.3	NA	259.7
+17-8-24	3	winter	native	Zonotrichia_capensis	zoncap	_MG_0353	9.6	NA	22.0	158.9	alta	zoncap	_MG_0353	9.7	NA	22.0	159.4
+17-8-24	3	winter	invaded	Basileuterus_culicivorus	bascul	_MG_0563	NA	63.5	17.2	126.5	alta	bascul	_MG_0563	NA	63.7	17.2	126.9
+14-9-24	4	winter	invaded	Leucochloris_albicollis	leualb	_MG_0565	14.2	38.1	NA	70.2	media	leualb	_MG_0565	14.2	38.2	NA	70.4
+14-9-24	4	winter	invaded	Parula_pitiayumi	parpit	_MG_0571	7.6	39.0	11.7	78.1	alta	parpit	_MG_0571	7.6	39.1	11.8	78.3
+14-9-24	4	winter	invaded	Stephanophorus_diadematus	stedia	_MG_0572	9.6	69.2	NA	170.1	alta	stedia	_MG_0572	9.7	69.4	NA	170.7
+14-9-24	4	winter	invaded	Buteo_magnirostris	rupmag	_MG_0575	29.7	NA	NA	452.9	alta	rupmag	_MG_0575	29.8	NA	NA	454.4
+14-9-24	4	winter	invaded	Turdus_amaurochalinus	turama	_MG_0578	15.3	84.4	30.3	211.0	alta	turama	_MG_0578	15.3	84.6	30.4	211.6
+14-9-24	4	winter	invaded	Turdus_amaurochalinus	turama	_MG_0581	14.5	111.1	26.6	210.9	alta	turama	_MG_0581	14.6	111.4	26.7	211.6
+14-9-24	4	winter	invaded	Turdus_rufiventris	turruf	_MG_0583	13.2	NA	NA	195.8	alta	turruf	_MG_0583	13.2	NA	NA	196.4
+14-9-24	4	winter	invaded	Turdus_amaurochalinus	turama	_MG_0586	15.5	113.7	28.6	213.5	alta	turama	_MG_0586	15.5	114.1	28.7	214.2
+14-9-24	4	spring	native	Zonotrichia_capensis	zoncap	_MG_0592	8.3	54.9	NA	123.0	baja	zoncap	_MG_0592	8.3	55.1	NA	123.3
+21-9-24	5	spring	native	Zonotrichia_capensis	zoncap	_MG_0595	9.2	NA	NA	144.1	media	zoncap	_MG_0595	9.2	NA	NA	144.6
+21-9-24	5	spring	native	Zonotrichia_capensis	zoncap	_MG_0598	7.0	51.4	15.7	113.7	alta	zoncap	_MG_0598	7.0	51.6	15.8	114.1
+21-9-24	5	spring	native	Phytotoma_rutila	phyrut	_MG_0600	10.7	59.8	NA	165.9	baja	phyrut	_MG_0600	10.8	59.9	NA	166.5
+21-9-24	5	spring	native	Hylocharis_chrysura	hylchr	_MG_0606	14.0	55.8	NA	93.9	media	hylchr	_MG_0606	14.1	56.0	NA	94.2
+21-9-24	5	spring	native	Zonotrichia_capensis	zoncap	_MG_0605	6.7	NA	NA	140.5	media	zoncap	_MG_0605	6.7	NA	NA	141.0
+21-9-24	5	spring	native	Zonotrichia_capensis	zoncap	_MG_0608	9.5	58.7	14.1	157.9	media	zoncap	_MG_0608	9.5	58.8	14.1	158.4
+21-9-24	5	spring	native	Zonotrichia_capensis	zoncap	_MG_0611	7.8	NA	NA	132.0	media	zoncap	_MG_0611	7.8	NA	NA	132.4
+21-9-24	5	spring	native	Polioptila_dumicola	poldum	_MG_0613	7.3	45.3	14.9	102.9	media	poldum	_MG_0613	7.3	45.5	14.9	103.3
+21-9-24	5	spring	native	Leptotila_verreauxi	lepver	_MG_0620	12.8	78.0	NA	217.2	baja	lepver	_MG_0620	12.9	78.3	NA	217.9
+21-9-24	5	spring	native	Hylocharis_chrysura	hylchr	_MG_0623	17.5	40.8	NA	78.5	alta	hylchr	_MG_0623	17.6	40.9	NA	78.7
+21-9-24	5	spring	native	Patagioenas_picazuro	patpic	_MG_0625	13.0	129.3	NA	244.8	baja	patpic	_MG_0625	13.0	129.7	NA	245.6
+21-9-24	5	spring	native	Basileuterus_culicivorus	bascul	_MG_0629	5.7	51.6	21.0	117.9	media	bascul	_MG_0629	5.7	51.8	21.1	118.3
+21-9-24	5	spring	native	Agelaioides_badius	agebad	_MG_0630	16.2	NA	21.4	221.5	alta	agebad	_MG_0630	16.3	NA	21.4	222.2
+21-9-24	5	spring	native	Furnarius_rufus	furruf	_MG_0638	16.4	95.0	NA	208.1	media	furruf	_MG_0638	16.5	95.3	NA	208.8
+9-10-24	6	spring	native	Guira_guira	guigui	_MG_0823	22.4	111.0	NA	344.7	baja	guigui	_MG_0823	22.4	111.3	NA	345.8
+9-10-24	6	spring	native	Serpophaga_subcristata	sersub	_MG_0826	6.7	54.6	14.8	129.4	media	sersub	_MG_0826	6.7	54.8	14.9	129.8
+9-10-24	6	spring	native	Zonotrichia_capensis	zoncap	_MG_0831	8.3	60.3	NA	144.4	media	zoncap	_MG_0831	8.3	60.5	NA	144.9
+9-10-24	6	spring	native	Polioptila_dumicola	poldum	_MG_0833	8.7	63.8	18.0	152.2	media	poldum	_MG_0828	8.7	64.0	18.1	152.7
+9-10-24	6	spring	native	Polioptila_dumicola	poldum	_MG_0848	7.2	43.0	NA	100.9	media	poldum	_MG_0848	7.2	43.2	NA	101.2
+9-10-24	6	spring	native	Troglodytes_aedon	troaed	_MG_0850	9.4	57.3	17.8	123.9	media	troaed	_MG_0850	9.4	57.5	17.9	124.3
+9-10-24	6	spring	native	Suiriri_suiriri	suisui	_MG_0859	7.1	52.0	NA	122.9	media	suisui	_MG_0859	7.1	52.2	NA	123.3
+9-10-24	6	spring	native	Myiopsitta_monachus	myimon	_MG_0863	18.9	114.3	15.6	225.9	media	myimon	_MG_0863	18.9	114.7	15.6	226.6
+9-10-24	6	spring	native	Paroaria_coronata	parcor	_MG_0872	12.3	83.9	NA	208.1	media	parcor	_MG_0872	12.4	84.2	NA	208.8
+9-10-24	6	spring	native	Zonotrichia_capensis	zoncap	_MG_0880	9.7	68.9	21.0	162.3	alta	zoncap	_MG_0880	9.8	69.1	21.1	162.9
+9-10-24	6	spring	native	Pyrocephalus_rubinus	pyrrub	_MG_0883	7.3	57.8	NA	110.2	baja	pyrrub	_MG_0883	7.3	58.0	NA	110.5
+9-10-24	6	spring	invaded	Basileuterus_culicivorus	bascul	_MG_0885	5.9	53.6	20.1	101.8	baja	bascul	_MG_0885	5.9	53.8	20.2	102.2
+19-10-24	7	spring	invaded	Basileuterus_culicivorus	bascul	_MG_0886	2.9	22.8	NA	45.6	media	bascul	_MG_0886	2.9	22.8	NA	45.8
+19-10-24	7	spring	invaded	Phylloscartes_ventralis	phyven	_MG_0896	3.8	34.2	NA	53.6	media	phyven	_MG_0896	3.8	34.4	NA	53.8
+19-10-24	7	spring	invaded	Lepidocolaptes_angustirostris	lepang	_MG_0905	29.9	90.1	NA	200.1	alta	lepang	_MG_0905	30.0	90.3	NA	200.7
+19-10-24	7	spring	invaded	Basileuterus_culicivorus	bascul	_MG_0906	4.3	28.9	8.8	66.2	alta	bascul	_MG_0906	4.3	29.0	8.8	66.4
+19-10-24	7	spring	invaded	Leucochloris_albicollis	leualb	_MG_0909	12.9	48.0	NA	84.9	baja	leualb	_MG_0909	12.9	48.2	NA	85.1
+19-10-24	7	spring	invaded	Stephanophorus_diadematus	stedia	_MG_0919	6.8	45.8	9.1	120.3	media	stedia	_MG_0919	6.8	46.0	9.1	120.7
+19-10-24	7	spring	invaded	Turdus_rufiventris	turruf	_MG_0929	18.3	92.7	NA	NA	baja	turruf	_MG_0929	18.4	93.0	NA	NA
+19-10-24	7	spring	invaded	Turdus_rufiventris	turruf	_MG_0953	15.6	61.3	NA	162.4	baja	turruf	_MG_0953	15.7	61.5	NA	162.9
+26-10-24	8	spring	invaded	Leucochloris_albicollis	leualb	_MG_0954	17.1	41.1	NA	85.9	media	leualb	_MG_0954	17.1	41.2	NA	86.2
+26-10-24	8	spring	invaded	Hylocharis_chrysura	hylchr	_MG_0958	13.4	39.3	NA	69.1	alta	hylchr	_MG_0958	13.4	39.4	NA	69.4
+26-10-24	8	spring	invaded	Zonotrichia_capensis	zoncap	_MG_0968	7.7	34.0	NA	102.7	baja	zoncap	_MG_0968	7.8	34.1	NA	103.1
+26-10-24	8	spring	invaded	Turdus_rufiventris	turruf	_MG_0970	15.3	86.2	36.3	205.1	media	turruf	_MG_0970	15.3	86.5	36.4	205.8
+26-10-24	8	spring	invaded	Turdus_rufiventris	turruf	_MG_0971	14.0	96.0	NA	NA	baja	turruf	_MG_0971	14.1	96.3	NA	NA
+26-10-24	8	spring	invaded	Basileuterus_culicivorus	bascul	_MG_0975	5.5	34.8	11.2	69.0	alta	bascul	_MG_0975	5.5	34.9	11.3	69.2
+26-10-24	8	spring	invaded	Vireo_olivaceus	viroli	_MG_0979	7.4	51.9	NA	116.9	baja	viroli	_MG_0979	7.4	52.1	NA	117.3
+26-10-24	8	spring	invaded	Elaenia_parvirostris	elapar	_MG_1003	6.2	39.5	NA	103.6	alta	elapar	_MG_1003	6.2	39.7	NA	103.9
+26-10-24	8	spring	invaded	Saltator_similis	salsim	_MG_1006	14.8	87.9	18.8	209.4	alta	salsim	_MG_1006	14.9	88.2	18.8	210.1
+9-11-24	9	spring	native	Chlorostilbon_lucidus	chlluc	_MG_1170	13.3	36.3	NA	75.8	media	chlluc	_MG_1170	13.4	36.4	NA	76.0
+9-11-24	9	spring	native	Zonotrichia_capensis	zoncap	_MG_1172	19.2	NA	NA	128.3	baja	zoncap	_MG_1172	19.3	NA	NA	128.7
+9-11-24	9	spring	native	Serpophaga_subcristata	sersub	_MG_1174	5.5	35.9	13.2	81.4	media	sersub	_MG_1174	5.5	36.0	13.2	81.6
+9-11-24	9	spring	native	Zonotrichia_capensis	zoncap	_MG_1177	6.6	NA	10.3	129.2	media	zoncap	_MG_1177	6.6	NA	10.4	129.6
+9-11-24	9	spring	native	Sicalis_luteola	siclut	_MG_1178	5.9	NA	NA	112.8	media	siclut	_MG_1178	6.0	NA	NA	113.2
+9-11-24	9	spring	native	Serpophaga_subcristata	sersub	_MG_1180	3.7	NA	NA	91.9	baja	sersub	_MG_1180	3.7	NA	NA	92.2
+9-11-24	9	spring	native	Geothlypis_aequinoctialis	geoaeq	_MG_1182	9.8	72.0	NA	NA	alta	geoaeq	_MG_1182	9.8	72.2	NA	NA
+9-11-24	9	spring	native	Patagioenas_picazuro	patpic	_MG_1185	16.4	123.4	NA	NA	baja	patpic	_MG_1185	16.5	123.8	NA	NA
+19-11-24	10	spring	native	Molothrus_rufoaxillaris	molruf	_MG_9972	12.2	NA	NA	NA	baja	molruf	_MG_9972	12.2	NA	NA	NA
+19-11-24	10	spring	native	Parula_pitiayumi	parpit	_MG_9973	9.0	46.5	16.0	114.6	baja	parpit	_MG_9973	9.0	46.6	16.1	115.0
+19-11-24	10	spring	native	Zonotrichia_capensis	zoncap	_MG_9975	8.8	NA	16.3	NA	baja	zoncap	_MG_9975	8.8	NA	16.4	NA
+19-11-24	10	spring	native	Zenaida_auriculata	zenaur	_MG_9976	16.7	144.6	NA	276.6	media	zenaur	_MG_9976	16.7	145.1	NA	277.5
+19-11-24	10	spring	native	Elaenia_parvirostris	elapar	_MG_9977	6.0	59.5	14.6	174.8	alta	elapar	_MG_9977	6.0	59.7	14.7	175.4
+19-11-24	10	spring	native	Zonotrichia_capensis	zoncap	_MG_9980	4.9	NA	NA	112.1	media	zoncap	_MG_9980	4.9	NA	NA	112.4
+19-11-24	10	spring	native	Zonotrichia_capensis	zoncap	_MG_9987	9.6	64.6	20.9	154.1	alta	zoncap	_MG_9987	9.7	64.8	21.0	154.5
+19-11-24	10	spring	native	Guira_guira	guigui	_MG_9989	19.7	145.8	31.4	365.2	alta	guigui	_MG_9989	19.7	146.3	31.5	366.4
+19-11-24	10	spring	native	Myiodynastes_maculatus	myimac	_MG_9990	16.1	75.1	NA	171.0	baja	myimac	_MG_9990	16.2	75.4	NA	171.6
+19-11-24	10	spring	native	Furnarius_rufus	furruf	_MG_9996	NA	133.0	NA	NA	media	furruf	_MG_9996	NA	133.4	NA	NA
+19-11-24	10	spring	native	Hylocharis_chrysura	hylchr	_MG_0006	22.0	56.1	4.2	116.4	alta	hylchr	_MG_0006	22.1	56.3	4.2	116.7
+19-11-24	10	spring	native	Colaptes_melanochloros	colmel	_MG_0012	17.0	97.3	NA	227.3	media	colmel	_MG_0012	17.1	97.6	NA	228.1
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	

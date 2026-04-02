@@ -1,0 +1,8 @@
+"0",""
+"0","ggplot(data = means_measures, aes(x = Wing.Length, "
+"0","                                  y = Wing.Length.1)) +"
+"0","  geom_point() + xlab(""Mean wing length (AVONET) (mm)"") +"
+"0","  geom_abline(slope = 1, intercept = 0, "
+"0","              color = ""red"", linetype = ""dashed"") +"
+"0","  ylab(""Mean wing length (photographs) (mm)"") +"
+"0","  ylim(0,100)"

@@ -1,0 +1,7 @@
+"0","# Field measures"
+"0","field_measures <- read.table(here(""data"", ""field measurements.txt""), head = T)"
+"0","sp <- unique(field_measures$Species)"
+"0",""
+"0","# AVONET database"
+"0","avo <- read.delim(here(""data"", ""AVONET_birdtree.txt""))"
+"0","avo.sp <- avo[avo$Species %in% sp, ]"
