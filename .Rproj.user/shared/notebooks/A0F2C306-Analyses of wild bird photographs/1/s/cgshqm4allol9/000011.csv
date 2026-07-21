@@ -1,8 +1,0 @@
-"0",""
-"0","ggplot(data = mean_measures, aes(x = tarsus_length_mm, "
-"0","                                  y = tarsus_length_mm.1)) +"
-"0","  geom_point() + "
-"0","  geom_abline(slope = 1, intercept = 0, "
-"0","              color = ""red"", linetype = ""dashed"") +"
-"0","  xlab(""Mean tarsus length (museum) (mm)"") +"
-"0","  ylab(""Mean tarsus length (photographs) (mm)"")"
