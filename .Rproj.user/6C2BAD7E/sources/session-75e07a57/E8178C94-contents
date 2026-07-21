@@ -439,9 +439,8 @@ traits <- c("bill_length_mm", "wing_length_mm",
             "tarsus_length_mm", "body_length_mm")
 
 # Function to estimate bias (obs = trait, true = true value, est = data frame with covariates)
-output <- vector("list", 7)
 bias <- function(obs_values, true, est){
-  output <- vector("list", 5)
+  output <- vector("list", 7)
   
   obs <- est[[obs_values]]
   
@@ -545,7 +544,7 @@ run_bias <- function(df, trait, species_name){
               obs_values = trait,
               true = true_val)
   
-  angle_summary <- res[[4]]  # 👈 esto sí es data.frame
+  angle_summary <- res[[4]]
   
   angle_summary$species <- species_name
   angle_summary$trait <- trait
