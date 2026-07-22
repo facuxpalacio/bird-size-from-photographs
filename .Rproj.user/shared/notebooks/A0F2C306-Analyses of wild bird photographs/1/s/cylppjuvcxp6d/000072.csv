@@ -1,0 +1,13 @@
+"0","vif_results <- purrr::imap_dfr(species_list, function(df, sp){
+  purrr::map_dfr(traits,
+                 function(tr){
+                   run_vif(df, tr, sp)
+                 })
+})
+"
+"0","vif_results <- purrr::imap_dfr(species_list, function(df, sp){"
+"0","  purrr::map_dfr(traits,"
+"0","                 function(tr){"
+"0","                   run_vif(df, tr, sp)"
+"0","                 })"
+"0","})"

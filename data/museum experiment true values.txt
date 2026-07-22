@@ -1,0 +1,5 @@
+bird_species	measurement	bill_length_mm	wing_length_mm	tarsus_length_mm	body_length_mm
+Colaptes_campestris	true	31.216	178.845	45	464.982
+Milvago_chimango	true	22.384	290.589	57.059	408.836
+Passer_domesticus	true	9.792	71.514	13.713	139.276
+Turdus_rufiventris	true	17.301	107.836	39.883	276.465

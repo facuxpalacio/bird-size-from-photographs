@@ -374,19 +374,56 @@ length(FD[,2][FD[,2]<FDiv_obs])/nsim
 # Experimental setup: 4 species, 4 angles relative to the focal plane, 3 horizonal distances
 ```{r experiment}
 museum <- read.table(here("data", "museum experiment.txt"), head = T)
+true_values <- read.table(here("data", "museum experiment true values.txt"),  head = T)
 
 # Pinhole camera model
-museum$uncorrected_bill_length_mm <- museum$bill_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+museum$uncorrected_bill_length_mm <-
+  museum$bill_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+
 museum$bill_length_mm <- museum$uncorrected_bill_length_mm/cos(museum$angle_degrees*pi/180)
 
-museum$uncorrected_tarsus_length_mm <- museum$tarsus_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
-museum$tarsus_length_mm <- museum$uncorrected_tarsus_length_mm/cos(museum$angle_degrees*pi/180)
+idx <- museum$measurement == "true"
 
-museum$uncorrected_wing_length_mm <- museum$wing_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+museum$bill_length_mm[idx] <-
+  true_values$bill_length_mm[
+    match(museum$bird_species[idx], true_values$bird_species)
+  ]
+
+museum$uncorrected_wing_length_mm <-
+  museum$wing_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+
+idx <- museum$measurement == "true"
+
 museum$wing_length_mm <- museum$uncorrected_wing_length_mm/cos(museum$angle_degrees*pi/180)
 
-museum$uncorrected_body_length_mm <- museum$body_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+museum$wing_length_mm[idx] <-
+  true_values$wing_length_mm[
+    match(museum$bird_species[idx], true_values$bird_species)
+  ]
+
+idx <- museum$measurement == "true"
+
+museum$uncorrected_tarsus_length_mm <-
+  museum$tarsus_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+
+museum$tarsus_length_mm <- museum$uncorrected_tarsus_length_mm/cos(museum$angle_degrees*pi/180)
+
+museum$tarsus_length_mm[idx] <-
+  true_values$tarsus_length_mm[
+    match(museum$bird_species[idx], true_values$bird_species)
+  ]
+
+idx <- museum$measurement == "true"
+
+museum$uncorrected_body_length_mm <-
+  museum$body_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+
 museum$body_length_mm <- museum$uncorrected_body_length_mm/cos(museum$angle_degrees*pi/180)
+
+museum$body_length_mm[idx] <-
+  true_values$body_length_mm[
+    match(museum$bird_species[idx], true_values$bird_species)
+  ]
 
 museum$dist_bird_m <- museum$dist_bird_mm/1000 # in meters
 estimated <- subset(museum, measurement == "scaled_photograph")
@@ -483,6 +520,7 @@ est$bias_signed <- bias_signed
                                           "angle_height")]), ]
   
   # GLS model
+  
   bias_model <- nlme::gls(
     bias_trait ~ dist_bird_m + angle_degrees + angle_height,
     data = est_model,
@@ -629,6 +667,8 @@ gls_results <- purrr::imap_dfr(species_list, function(df, sp){
                    run_bias_gls(df, tr, sp)
                  })
 })
+
+gls_results
 
 # VIF values
 run_vif <- function(df, trait, species_name){
