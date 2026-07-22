@@ -1,581 +1,581 @@
-bird_species	photoID	horiz_dist_mm	escalon	measurement	height_mm	camera_height_mm	angle_degrees	angle_height	bill_length_sensor	wing_length_sensor	tarsus_length_sensor	body_length_sensor	focal_dist_mm	measuredBy	dist_bird_mm	bill_length_mm	wing_length_mm	tarsus_length_mm	body_length_mm
-Colaptes_campestris	car_escala	NA	NA	true	NA	NA	NA	NA	NA	NA	NA	NA	NA	Flor	NA	31.216	178.845	45	464.982
-Colaptes_campestris	car_3m_suelo_0gr	3000	0	scaled_photograph	0	1340	0	24.07	1.159	6.038	NA	14.077	100	Flor	3285.67	38.081	198.419	NA	462.594
-Colaptes_campestris	car_3m_suelo_20gr	3000	0	scaled_photograph	0	1340	20	24.07	1.118	5.825	1.151	13.594	100	Flor	3285.67	36.734	191.419	37.824	446.721
-Colaptes_campestris	car_3m_suelo_40gr	3000	0	scaled_photograph	0	1340	40	24.07	0.889	5.41	1.152	12.402	100	Flor	3285.67	29.21	177.782	37.857	407.55
-Colaptes_campestris	car_3m_suelo_60gr	3000	0	scaled_photograph	0	1340	60	24.07	0.799	4.863	1.266	11.687	100	Flor	3285.67	26.252	159.806	41.603	384.054
-Colaptes_campestris	car_3m_1esc_0gr	3000	1	scaled_photograph	480	1340	0	16	1.213	6.841	NA	15.968	100	Flor	3120.83	37.856	213.529	NA	498.411
-Colaptes_campestris	car_3m_1esc_20gr	3000	1	scaled_photograph	480	1340	20	16	1.171	7.168	1.167	14.519	96	Flor	3120.83	38.068	233.058	37.943	472.065
-Colaptes_campestris	car_3m_1esc_40gr	3000	1	scaled_photograph	480	1340	40	16	1.062	7.268	1.194	13.733	96	Flor	3120.83	45.068	236.309	38.821	446.51
-Colaptes_campestris	car_3m_1esc_60gr	3000	1	scaled_photograph	480	1340	60	16	0.904	5.471	1.24	13.114	96	Flor	3120.83	58.776	177.882	40.317	426.384
-Colaptes_campestris	car_3m_2esc_0gr	3000	2	scaled_photograph	770	1340	0	10.76	1.24	6.661	NA	15.838	96	Flor	3053.67	39.443	211.912	NA	503.869
-Colaptes_campestris	car_3m_2esc_20gr	3000	2	scaled_photograph	770	1340	20	10.76	1.224	6.556	1.287	15.674	96	Flor	3053.67	41.433	208.572	40.944	498.651
-Colaptes_campestris	car_3m_2esc_40gr	3000	2	scaled_photograph	770	1340	40	10.76	1.089	6.328	1.315	14.427	96	Flor	3053.67	45.219	201.318	41.835	458.979
-Colaptes_campestris	car_3m_2esc_60gr	3000	2	scaled_photograph	770	1340	60	10.76	0.826	5.871	1.296	13.769	96	Flor	3053.67	52.549	186.779	41.231	438.046
-Colaptes_campestris	car_3m_3esc_0gr	3000	3	scaled_photograph	1060	1340	0	5.33	1.225	6.671	NA	15.823	96	Flor	3013.04	38.448	209.407	NA	496.693
-Colaptes_campestris	car_3m_3esc_20gr	3000	3	scaled_photograph	1060	1340	20	5.33	1.208	6.857	1.331	15.623	96	Flor	3013.04	40.347	215.245	41.781	490.415
-Colaptes_campestris	car_3m_3esc_40gr	3000	3	scaled_photograph	1060	1340	40	5.33	0.988	6.496	1.359	14.576	96	Flor	3013.04	40.48	203.913	42.66	457.549
-Colaptes_campestris	car_3m_3esc_60gr	3000	3	scaled_photograph	1060	1340	60	5.33	0.691	6.254	1.359	13.621	96	Flor	3013.04	43.375	196.317	42.66	427.571
-Colaptes_campestris	car_3m_4esc_0gr	3000	4	scaled_photograph	1350	1340	0	0.19	1.188	6.746	NA	15.949	96	Flor	3000.02	37.125	210.846	NA	498.485
-Colaptes_campestris	car_3m_4esc_20gr	3000	4	scaled_photograph	1350	1340	20	0.19	1.084	6.828	1.22	15.627	96	Flor	3000.02	36.049	213.409	38.131	488.421
-Colaptes_campestris	car_3m_4esc_40gr	3000	4	scaled_photograph	1350	1340	40	0.19	0.9	6.664	1.36	14.444	96	Flor	3000.02	36.715	208.283	42.507	451.446
-Colaptes_campestris	car_3m_4esc_60gr	3000	4	scaled_photograph	1350	1340	60	0.19	0.602	6.356	1.439	14.414	96	Flor	3000.02	37.625	198.656	44.976	450.509
-Colaptes_campestris	car_3m_5esc_0gr	3000	5	scaled_photograph	1640	1340	0	5.71	1.161	6.88	NA	18	96	Flor	3014.96	36.462	216.105	NA	575.6
-Colaptes_campestris	car_3m_5esc_20gr	3000	5	scaled_photograph	1640	1340	20	5.71	1	6.774	1.526	15.704	96	Flor	3014.96	33.421	212.776	47.933	493.273
-Colaptes_campestris	car_3m_5esc_40gr	3000	5	scaled_photograph	1640	1340	40	5.71	1.036	6.675	1.498	14.167	96	Flor	3014.96	42.473	209.666	47.053	444.995
-Colaptes_campestris	car_3m_5esc_60gr	3000	5	scaled_photograph	1640	1340	60	5.71	0.488	6.495	1.434	14.625	96	Flor	3014.96	30.652	204.012	45.043	459.381
-Colaptes_campestris	car_3m_6esc_0gr	3000	6	scaled_photograph	1930	1340	0	11.13	1.079	6.225	NA	16.647	96	Flor	3057.47	34.365	198.288	NA	530.265
-Colaptes_campestris	car_3m_6esc_20gr	3000	6	scaled_photograph	1930	1340	20	11.13	0.964	6.344	NA	16.177	96	Flor	3057.47	32.672	202.078	NA	515.293
-Colaptes_campestris	car_3m_6esc_40gr	3000	6	scaled_photograph	1930	1340	40	11.13	0.849	6.332	1.343	14.242	96	Flor	3057.47	35.298	201.696	42.779	453.657
-Colaptes_campestris	car_3m_6esc_60gr	3000	6	scaled_photograph	1930	1340	60	11.13	0.476	6.112	1.236	12.25	96	Flor	3057.47	30.32	194.688	39.371	390.205
-Colaptes_campestris	car_3m_7esc_0gr	3000	7	scaled_photograph	2220	1340	0	16.35	1.072	5.417	NA	17.151	109	Flor	3126.4	30.748	155.397	NA	492.01
-Colaptes_campestris	car_3m_7esc_20gr	3000	7	scaled_photograph	2220	1340	20	16.35	1.077	5.848	1.117	13.799	109	Flor	3126.4	32.874	167.761	32.043	395.852
-Colaptes_campestris	car_3m_7esc_40gr	3000	7	scaled_photograph	2220	1340	40	16.35	0.828	6.055	1.262	14.506	109	Flor	3126.4	31.002	173.7	36.203	416.133
-Colaptes_campestris	car_3m_7esc_60gr	3000	7	scaled_photograph	2220	1340	60	16.35	0.698	6.087	1.286	12.161	109	Flor	3126.4	40.041	174.618	36.891	348.862
-Colaptes_campestris	car_3m_8esc_0gr	3000	8	scaled_photograph	2510	1340	0	21.31	1.007	5.267	NA	13.068	109	Flor	3220.08	29.749	155.621	NA	386.114
-Colaptes_campestris	car_3m_8esc_20gr	3000	8	scaled_photograph	2510	1340	20	21.31	0.964	5.734	NA	13.793	109	Flor	3220.08	30.306	169.42	NA	407.535
-Colaptes_campestris	car_3m_8esc_40gr	3000	8	scaled_photograph	2510	1340	40	21.31	0.746	5.855	1.24	12.48	109	Flor	3220.08	28.769	172.995	36.638	368.74
-Colaptes_campestris	car_3m_8esc_60gr	3000	8	scaled_photograph	2510	1340	60	21.31	0.442	5.704	1.294	11.826	109	Flor	3220.08	26.115	168.533	38.233	349.417
-Colaptes_campestris	car_3m_9esc_0gr	3000	9	scaled_photograph	2800	1340	0	25.95	0.97	5.046	NA	11.932	109	Flor	3336.41	29.691	154.478	NA	365.285
-Colaptes_campestris	car_3m_9esc_20gr	3000	9	scaled_photograph	2800	1340	20	25.95	0.958	5.154	0.968	12.213	109	Flor	3336.41	31.206	157.784	29.634	373.887
-Colaptes_campestris	car_3m_9esc_40gr	3000	9	scaled_photograph	2800	1340	40	25.95	0.761	5.504	1.208	11.927	109	Flor	3336.41	30.408	168.499	36.982	365.132
-Colaptes_campestris	car_3m_9esc_60gr	3000	9	scaled_photograph	2800	1340	60	25.95	0.772	5.512	1.223	12.241	109	Flor	3336.41	47.261	168.744	37.441	374.745
-Colaptes_campestris	car_3m_10esc_0gr	3000	10	scaled_photograph	3090	1340	0	30.26	0.983	5.054	NA	12.287	109	Flor	3473.11	31.322	161.062	NA	391.565
-Colaptes_campestris	car_3m_10esc_20gr	3000	10	scaled_photograph	3090	1340	20	30.26	0.897	5.237	1.066	11.073	109	Flor	3473.11	30.416	166.894	33.972	352.877
-Colaptes_campestris	car_3m_10esc_40gr	3000	10	scaled_photograph	3090	1340	40	30.26	0.764	5.451	1.223	11.749	109	Flor	3473.11	31.778	173.714	38.975	374.42
-Colaptes_campestris	car_3m_10esc_60gr	3000	10	scaled_photograph	3090	1340	60	30.26	0.695	5.603	1.183	10.127	109	Flor	3473.11	44.29	178.558	37.7	322.73
-Colaptes_campestris	car_3m_11esc_0gr	3000	11	scaled_photograph	3380	1340	0	34.22	0.933	4.557	NA	10.889	109	Flor	3627.89	31.053	151.696	NA	362.478
-Colaptes_campestris	car_3m_11esc_20gr	3000	11	scaled_photograph	3380	1340	20	34.22	0.896	4.453	NA	NA	109	Flor	3627.89	31.736	148.234	NA	NA
-Colaptes_campestris	car_3m_11esc_40gr	3000	11	scaled_photograph	3380	1340	40	34.22	0.874	4.818	1.016	9.545	109	Flor	3627.89	37.974	160.384	33.821	317.739
-Colaptes_campestris	car_3m_11esc_60gr	3000	11	scaled_photograph	3380	1340	60	34.22	0.731	5.254	1.128	9.457	109	Flor	3627.89	48.66	174.898	37.549	314.809
-Colaptes_campestris	car_5m_suelo_0gr	5000	0	scaled_photograph	0	1340	0	15	0.847	5.037	NA	11.748	154	Flor	5176.45	28.47	169.336	NA	394.949
-Colaptes_campestris	car_5m_suelo_20gr	5000	0	scaled_photograph	0	1340	20	15	0.861	4.876	1.001	11.12	154	Flor	5176.45	30.798	163.923	33.652	373.837
-Colaptes_campestris	car_5m_suelo_40gr	5000	0	scaled_photograph	0	1340	40	15	0.743	4.699	1.046	10.492	154	Flor	5176.45	32.602	157.973	35.165	352.724
-Colaptes_campestris	car_5m_suelo_60gr	5000	0	scaled_photograph	0	1340	60	15	0.526	4.342	1.088	10.01	154	Flor	5176.45	35.361	145.971	36.577	336.52
-Colaptes_campestris	car_5m_1esc_0gr	5000	1	scaled_photograph	480	1340	0	9.76	0.931	5.216	NA	12.342	154	Flor	5073.42	30.671	171.864	NA	406.66
-Colaptes_campestris	car_5m_1esc_20gr	5000	1	scaled_photograph	480	1340	20	9.76	0.942	5.178	0.898	12.196	154	Flor	5073.42	33.025	170.612	29.588	401.85
-Colaptes_campestris	car_5m_1esc_40gr	5000	1	scaled_photograph	480	1340	40	9.76	0.916	5.281	1.118	11.794	154	Flor	5073.42	39.393	174.005	36.837	388.604
-Colaptes_campestris	car_5m_1esc_60gr	5000	1	scaled_photograph	480	1340	60	9.76	0.725	5.119	1.096	11.106	154	Flor	5073.42	47.769	168.668	36.112	365.935
-Colaptes_campestris	car_5m_2esc_0gr	5000	2	scaled_photograph	770	1340	0	6.5	0.93	5.241	NA	12.415	154	Flor	5032.39	30.39	171.291	NA	405.757
-Colaptes_campestris	car_5m_2esc_20gr	5000	2	scaled_photograph	770	1340	20	6.5	0.945	5.195	NA	12.231	154	Flor	5032.39	32.862	169.787	NA	399.743
-Colaptes_campestris	car_5m_2esc_40gr	5000	2	scaled_photograph	770	1340	40	6.5	0.919	5.305	1.023	11.973	154	Flor	5032.39	39.203	173.382	33.435	391.311
-Colaptes_campestris	car_5m_2esc_60gr	5000	2	scaled_photograph	770	1340	60	6.5	0.728	5.16	1.1	11.231	154	Flor	5032.39	47.579	168.643	35.951	367.061
-Colaptes_campestris	car_5m_3esc_0gr	5000	3	scaled_photograph	1060	1340	0	3.21	1.011	5.515	NA	12.989	154	Flor	5007.83	32.876	179.366	NA	422.446
-Colaptes_campestris	car_5m_3esc_20gr	5000	3	scaled_photograph	1060	1340	20	3.21	0.89	5.098	0.788	11.978	154	Flor	5007.83	30.799	165.804	25.628	389.565
-Colaptes_campestris	car_5m_3esc_40gr	5000	3	scaled_photograph	1060	1340	40	3.21	0.839	5.21	0.966	11.668	154	Flor	5007.83	35.615	169.447	31.418	379.483
-Colaptes_campestris	car_5m_3esc_60gr	5000	3	scaled_photograph	1060	1340	60	3.21	0.632	5.259	1.053	10.928	154	Flor	5007.83	41.103	171.04	34.247	355.415
-Colaptes_campestris	car_5m_4esc_0gr	5000	4	scaled_photograph	1350	1340	0	0.11	0.981	5.411	NA	12.959	154	Flor	5000.01	31.851	175.709	NA	420.812
-Colaptes_campestris	car_5m_4esc_20gr	5000	4	scaled_photograph	1350	1340	20	0.11	0.991	5.495	NA	12.75	154	Flor	5000.01	34.24	178.437	NA	414.025
-Colaptes_campestris	car_5m_4esc_40gr	5000	4	scaled_photograph	1350	1340	40	0.11	0.911	5.556	1.099	12.124	154	Flor	5000.01	38.611	180.417	35.687	393.697
-Colaptes_campestris	car_5m_4esc_60gr	5000	4	scaled_photograph	1350	1340	60	0.11	0.723	5.385	1.127	11.722	154	Flor	5000.01	46.948	174.865	36.597	380.643
-Colaptes_campestris	car_5m_5esc_0gr	5000	5	scaled_photograph	1640	1340	0	3.43	0.995	5.325	NA	12.938	154	Flor	5008.99	32.363	173.227	NA	420.884
-Colaptes_campestris	car_5m_5esc_20gr	5000	5	scaled_photograph	1640	1340	20	3.43	0.977	5.443	NA	12.79	154	Flor	5008.99	33.817	177.066	NA	416.07
-Colaptes_campestris	car_5m_5esc_40gr	5000	5	scaled_photograph	1640	1340	40	3.43	0.916	5.481	1.059	12.465	154	Flor	5008.99	38.893	178.302	34.45	405.497
-Colaptes_campestris	car_5m_5esc_60gr	5000	5	scaled_photograph	1640	1340	60	3.43	0.745	5.439	1.142	11.678	154	Flor	5008.99	48.464	176.935	37.15	379.896
-Colaptes_campestris	car_5m_6esc_0gr	5000	6	scaled_photograph	1930	1340	0	6.73	0.922	5.069	NA	12.252	154	Flor	5034.69	30.143	165.745	NA	400.613
-Colaptes_campestris	car_5m_6esc_20gr	5000	6	scaled_photograph	1930	1340	20	6.73	0.954	5.208	NA	12.334	154	Flor	5034.69	33.191	170.29	NA	403.294
-Colaptes_campestris	car_5m_6esc_40gr	5000	6	scaled_photograph	1930	1340	40	6.73	0.814	5.313	1.088	11.72	154	Flor	5034.69	34.739	173.723	35.575	383.218
-Colaptes_campestris	car_5m_6esc_60gr	5000	6	scaled_photograph	1930	1340	60	6.73	0.618	5.336	1.011	11.135	154	Flor	5034.69	40.408	174.475	33.057	364.09
-Colaptes_campestris	car_5m_7esc_0gr	5000	7	scaled_photograph	2220	1340	0	9.98	0.904	4.983	NA	12.395	154	Flor	5076.85	29.802	164.297	NA	408.683
-Colaptes_campestris	car_5m_7esc_20gr	5000	7	scaled_photograph	2220	1340	20	9.98	1.15	6.293	NA	14.886	194	Flor	5076.85	32.026	164.709	NA	389.616
-Colaptes_campestris	car_5m_7esc_40gr	5000	7	scaled_photograph	2220	1340	40	9.98	0.995	6.484	1.294	14.085	194	Flor	5076.85	33.991	169.708	33.868	368.651
-Colaptes_campestris	car_5m_7esc_60gr	5000	7	scaled_photograph	2220	1340	60	9.98	0.742	6.405	1.277	13.466	194	Flor	5076.85	38.835	167.64	33.423	352.45
-Colaptes_campestris	car_5m_8esc_0gr	5000	8	scaled_photograph	2510	1340	0	13.17	1.104	5.906	NA	15.222	194	Flor	5135.07	29.222	156.352	NA	402.979
-Colaptes_campestris	car_5m_8esc_20gr	5000	8	scaled_photograph	2510	1340	20	13.17	1.077	6.348	1.159	14.849	194	Flor	5135.07	30.337	168.053	30.683	393.104
-Colaptes_campestris	car_5m_8esc_40gr	5000	8	scaled_photograph	2510	1340	40	13.17	1.026	6.554	1.347	14.356	194	Flor	5135.07	35.452	173.507	35.66	380.053
-Colaptes_campestris	car_5m_8esc_60gr	5000	8	scaled_photograph	2510	1340	60	13.17	0.944	6.519	1.298	13.729	194	Flor	5135.07	49.974	172.58	34.363	363.454
-Colaptes_campestris	car_5m_9esc_0gr	5000	9	scaled_photograph	2800	1340	0	16.28	1.123	5.826	NA	15.044	194	Flor	5208.8	30.152	156.449	NA	403.985
-Colaptes_campestris	car_5m_9esc_20gr	5000	9	scaled_photograph	2800	1340	20	16.28	1.132	6.186	1.16	14.814	194	Flor	5208.8	32.344	166.116	31.15	397.809
-Colaptes_campestris	car_5m_9esc_40gr	5000	9	scaled_photograph	2800	1340	40	16.28	0.88	6.521	1.269	13.584	194	Flor	5208.8	30.844	175.112	34.077	364.779
-Colaptes_campestris	car_5m_9esc_60gr	5000	9	scaled_photograph	2800	1340	60	16.28	0.719	6.468	1.315	13.088	194	Flor	5208.8	38.61	173.689	35.312	351.46
-Colaptes_campestris	car_5m_10esc_0gr	5000	10	scaled_photograph	3090	1340	0	19.29	1.15	6.138	NA	16.355	214	Flor	5297.41	28.467	151.965	NA	404.917
-Colaptes_campestris	car_5m_10esc_20gr	5000	10	scaled_photograph	3090	1340	20	19.29	1.264	6.874	NA	16.236	214	Flor	5297.41	33.297	170.186	NA	401.971
-Colaptes_campestris	car_5m_10esc_40gr	5000	10	scaled_photograph	3090	1340	40	19.29	1.069	6.995	1.47	14.924	214	Flor	5297.41	34.544	173.182	36.394	369.488
-Colaptes_campestris	car_5m_10esc_60gr	5000	10	scaled_photograph	3090	1340	60	19.29	0.914	7.112	1.529	15.019	214	Flor	5297.41	45.251	176.079	37.855	371.84
-Colaptes_campestris	car_5m_11esc_0gr	5000	11	scaled_photograph	3380	1340	0	22.2	1.237	6.626	NA	16.382	214	Flor	5400.15	31.215	167.228	NA	413.452
-Colaptes_campestris	car_5m_11esc_20gr	5000	11	scaled_photograph	3380	1340	20	22.2	1.251	6.921	1.339	16.303	214	Flor	5400.15	33.594	174.673	33.794	411.458
-Colaptes_campestris	car_5m_11esc_40gr	5000	11	scaled_photograph	3380	1340	40	22.2	1.151	6.972	1.483	15.47	214	Flor	5400.15	37.915	175.961	37.428	390.435
-Colaptes_campestris	car_5m_11esc_60gr	5000	11	scaled_photograph	3380	1340	60	22.2	0.953	7.08	1.382	14.708	214	Flor	5400.15	48.097	178.686	34.879	371.203
-Colaptes_campestris	car_7m_suelo_0gr	7000	0	scaled_photograph	0	1340	0	10.84	0.967	5.229	NA	12.251	208	Flor	7127.1	33.134	179.199	NA	419.843
-Colaptes_campestris	car_7m_suelo_20gr	7000	0	scaled_photograph	0	1340	20	10.84	0.911	5.181	1.052	11.743	208	Flor	7127.1	33.219	177.554	36.052	402.434
-Colaptes_campestris	car_7m_suelo_40gr	7000	0	scaled_photograph	0	1340	40	10.84	0.749	5.017	1.154	11.161	208	Flor	7127.1	33.503	171.933	39.548	382.489
-Colaptes_campestris	car_7m_suelo_60gr	7000	0	scaled_photograph	0	1340	60	10.84	0.542	4.67	1.129	10.505	208	Flor	7127.1	37.143	160.042	38.691	360.008
-Colaptes_campestris	car_7m_1esc_0gr	7000	1	scaled_photograph	480	1340	0	7	0.937	4.984	NA	11.948	208	Flor	7052.63	31.771	169.018	NA	405.181
-Colaptes_campestris	car_7m_1esc_20gr	7000	1	scaled_photograph	480	1340	20	7	0.911	5.083	1.042	11.741	208	Flor	7052.63	32.872	172.375	35.336	398.161
-Colaptes_campestris	car_7m_1esc_40gr	7000	1	scaled_photograph	480	1340	40	7	0.724	5.187	1.101	11.149	208	Flor	7052.63	32.046	175.902	37.337	378.085
-Colaptes_campestris	car_7m_1esc_60gr	7000	1	scaled_photograph	480	1340	60	7	0.426	5.044	1.075	10.263	208	Flor	7052.63	28.889	171.052	36.455	348.039
-Colaptes_campestris	car_7m_2esc_0gr	7000	2	scaled_photograph	770	1340	0	4.66	0.979	5.024	NA	12.338	208	Flor	7023.17	33.056	169.662	NA	416.659
-Colaptes_campestris	car_7m_2esc_20gr	7000	2	scaled_photograph	770	1340	20	4.66	0.939	5.213	NA	12.645	208	Flor	7023.17	33.74	176.045	NA	427.026
-Colaptes_campestris	car_7m_2esc_40gr	7000	2	scaled_photograph	770	1340	40	4.66	0.768	5.353	1.099	11.724	208	Flor	7023.17	33.851	180.773	37.114	395.924
-Colaptes_campestris	car_7m_2esc_60gr	7000	2	scaled_photograph	770	1340	60	4.66	0.592	5.282	1.212	11.057	208	Flor	7023.17	39.978	178.375	40.93	373.399
-Colaptes_campestris	car_7m_3esc_0gr	7000	3	scaled_photograph	1060	1340	0	2.29	0.974	5.355	NA	15.245	208	Flor	7005.6	32.805	180.388	NA	513.541
-Colaptes_campestris	car_7m_3esc_20gr	7000	3	scaled_photograph	1060	1340	20	2.29	0.961	5.362	NA	14.974	208	Flor	7005.6	34.444	180.624	NA	504.413
-Colaptes_campestris	car_7m_3esc_40gr	7000	3	scaled_photograph	1060	1340	40	2.29	0.815	6.087	1.263	13.542	208	Flor	7005.6	35.833	205.046	42.545	456.174
-Colaptes_campestris	car_7m_3esc_60gr	7000	3	scaled_photograph	1060	1340	60	2.29	0.861	5.36	1.265	13.201	208	Flor	7005.6	57.998	180.556	42.613	444.687
-Colaptes_campestris	car_7m_4esc_0gr	7000	4	scaled_photograph	1350	1340	0	0.08	0.963	5.34	NA	14.531	208	Flor	7000.01	32.409	179.739	NA	489.099
-Colaptes_campestris	car_7m_4esc_20gr	7000	4	scaled_photograph	1350	1340	20	0.08	0.949	5.352	0.678	16.12	208	Flor	7000.01	33.987	180.143	22.821	542.583
-Colaptes_campestris	car_7m_4esc_40gr	7000	4	scaled_photograph	1350	1340	40	0.08	0.889	5.392	1.155	13.436	208	Flor	7000.01	39.056	181.489	38.876	452.242
-Colaptes_campestris	car_7m_4esc_60gr	7000	4	scaled_photograph	1350	1340	60	0.08	0.683	5.258	1.153	13.521	208	Flor	7000.01	45.971	176.979	38.809	455.103
-Colaptes_campestris	car_7m_5esc_0gr	7000	5	scaled_photograph	1640	1340	0	2.45	0.948	5.274	NA	14.715	208	Flor	7006.43	31.933	177.68	NA	495.746
-Colaptes_campestris	car_7m_5esc_20gr	7000	5	scaled_photograph	1640	1340	20	2.45	0.956	5.293	NA	14.154	208	Flor	7006.43	34.269	178.32	NA	476.846
-Colaptes_campestris	car_7m_5esc_40gr	7000	5	scaled_photograph	1640	1340	40	2.45	0.86	5.463	1.233	13.236	208	Flor	7006.43	37.816	184.048	41.54	445.919
-Colaptes_campestris	car_7m_5esc_60gr	7000	5	scaled_photograph	1640	1340	60	2.45	0.64	5.258	1.201	11.407	208	Flor	7006.43	43.116	177.141	40.462	384.3
-Colaptes_campestris	car_7m_6esc_0gr	7000	6	scaled_photograph	1930	1340	0	4.82	1.016	5.19	NA	14.382	208	Flor	7024.82	34.314	175.309	NA	485.8
-Colaptes_campestris	car_7m_6esc_20gr	7000	6	scaled_photograph	1930	1340	20	4.82	0.924	5.295	NA	12.46	208	Flor	7024.82	33.209	178.856	NA	420.878
-Colaptes_campestris	car_7m_6esc_40gr	7000	6	scaled_photograph	1930	1340	40	4.82	0.818	5.399	1.126	13.73	208	Flor	7024.82	36.064	182.369	38.034	463.776
-Colaptes_campestris	car_7m_6esc_60gr	7000	6	scaled_photograph	1930	1340	60	4.82	0.632	5.276	1.147	14.122	208	Flor	7024.82	42.689	178.214	38.744	477.017
-Colaptes_campestris	car_7m_7esc_0gr	7000	7	scaled_photograph	2220	1340	0	7.17	0.972	6.156	NA	14.664	250	Flor	7055.1	27.43	173.751	NA	413.887
-Colaptes_campestris	car_7m_7esc_20gr	7000	7	scaled_photograph	2220	1340	20	7.17	1.113	6.109	1.329	14.691	250	Flor	7055.1	33.425	172.425	37.511	414.649
-Colaptes_campestris	car_7m_7esc_40gr	7000	7	scaled_photograph	2220	1340	40	7.17	1.014	6.176	1.345	13.814	250	Flor	7055.1	37.355	174.316	37.962	389.896
-Colaptes_campestris	car_7m_7esc_60gr	7000	7	scaled_photograph	2220	1340	60	7.17	0.86	6.092	1.335	13.787	250	Flor	7055.1	48.539	171.945	37.68	389.134
-Colaptes_campestris	car_7m_8esc_0gr	7000	8	scaled_photograph	2510	1340	0	9.49	1.024	5.877	NA	14.731	250	Flor	7097.11	29.07	166.864	NA	418.254
-Colaptes_campestris	car_7m_8esc_20gr	7000	8	scaled_photograph	2510	1340	20	9.49	1.082	5.895	1.384	15.161	250	Flor	7097.11	32.688	167.375	39.296	430.462
-Colaptes_campestris	car_7m_8esc_40gr	7000	8	scaled_photograph	2510	1340	40	9.49	0.964	5.91	1.375	13.688	250	Flor	7097.11	35.724	167.801	39.04	388.64
-Colaptes_campestris	car_7m_8esc_60gr	7000	8	scaled_photograph	2510	1340	60	9.49	0.861	5.944	1.266	13.27	250	Flor	7097.11	48.885	168.766	35.945	376.772
-Colaptes_campestris	car_7m_9esc_0gr	7000	9	scaled_photograph	2800	1340	0	11.78	0.914	6.139	NA	15.945	250	Flor	7150.64	26.143	175.618	NA	456.137
-Colaptes_campestris	car_7m_9esc_20gr	7000	9	scaled_photograph	2800	1340	20	11.78	1.12	6.095	1.256	14.131	250	Flor	7150.64	34.091	174.359	35.93	404.244
-Colaptes_campestris	car_7m_9esc_40gr	7000	9	scaled_photograph	2800	1340	40	11.78	1.053	6.073	1.365	16.061	250	Flor	7150.64	39.317	173.73	39.048	459.455
-Colaptes_campestris	car_7m_9esc_60gr	7000	9	scaled_photograph	2800	1340	60	11.78	1.028	5.984	1.311	13.762	250	Flor	7150.64	58.807	171.184	37.504	393.688
-Colaptes_campestris	car_7m_10esc_0gr	7000	10	scaled_photograph	3090	1340	0	14.04	1.049	5.995	NA	14.136	250	Flor	7215.43	30.276	173.052	NA	408.052
-Colaptes_campestris	car_7m_10esc_20gr	7000	10	scaled_photograph	3090	1340	20	14.04	1.111	6.03	1.187	14.564	250	Flor	7215.43	34.123	174.063	34.264	420.406
-Colaptes_campestris	car_7m_10esc_40gr	7000	10	scaled_photograph	3090	1340	40	14.04	1.062	5.973	1.294	15.227	250	Flor	7215.43	40.012	172.417	37.353	439.545
-Colaptes_campestris	car_7m_10esc_60gr	7000	10	scaled_photograph	3090	1340	60	14.04	1.058	5.97	1.346	15.709	250	Flor	7215.43	61.071	172.331	38.854	453.458
-Colaptes_campestris	car_7m_11esc_0gr	7000	11	scaled_photograph	3380	1340	0	16.25	0.993	5.939	NA	13.875	250	Flor	7291.2	28.961	173.236	NA	404.723
-Colaptes_campestris	car_7m_11esc_20gr	7000	11	scaled_photograph	3380	1340	20	16.25	1.038	5.807	1.251	14.568	250	Flor	7291.2	32.216	169.386	36.491	424.938
-Colaptes_campestris	car_7m_11esc_40gr	7000	11	scaled_photograph	3380	1340	40	16.25	1.004	5.883	NA	13.581	250	Flor	7291.2	38.224	171.603	NA	396.147
-Colaptes_campestris	car_7m_11esc_60gr	7000	11	scaled_photograph	3380	1340	60	16.25	0.92	5.879	1.255	1.648	250	Flor	7291.2	53.663	171.486	36.607	48.071
-Milvago_chimango	ch_escala	NA	NA	true	NA	NA	NA	NA	NA	NA	NA	NA	NA	Eva	NA	22.384	290.589	57.059	408.836
-Milvago_chimango	ch_3m_suelo_0gr	3000	0	scaled_photograph	0	1340	0	24.07	0.893	8.586	1.98	13.175	100	Eva	3285.67	29.345	282.137	65.058	432.963
-Milvago_chimango	ch_3m_suelo_20gr	3000	0	scaled_photograph	0	1340	20	24.07	0.847	9.651	1.896	14.027	100	Eva	3285.67	29.623	317.153	62.32	460.949
-Milvago_chimango	ch_3m_suelo_40gr	3000	0	scaled_photograph	0	1340	40	24.07	0.779	10.499	1.728	14.399	100	Eva	3285.67	33.405	345.027	56.776	473.165
-Milvago_chimango	ch_3m_suelo_60gr	3000	0	scaled_photograph	0	1340	60	24.07	0.61	10.741	1.597	14.184	100	Eva	3285.67	40.073	352.951	52.484	466.101
-Milvago_chimango	ch_3m_1esc_0gr	3000	1	scaled_photograph	440	1340	0	16.7	0.839	10.527	2.186	14.832	100	Eva	3132.09	26.29	329.753	68.473	464.622
-Milvago_chimango	ch_3m_1esc_20gr	3000	1	scaled_photograph	440	1340	20	16.7	0.732	10.291	2.102	15.023	100	Eva	3132.09	24.407	322.369	65.831	470.61
-Milvago_chimango	ch_3m_1esc_40gr	3000	1	scaled_photograph	440	1340	40	16.7	0.568	11.1	2.051	14.715	100	Eva	3132.09	23.223	347.705	64.244	460.968
-Milvago_chimango	ch_3m_1esc_60gr	3000	1	scaled_photograph	440	1340	60	16.7	0.474	10.908	1.795	13.725	100	Eva	3132.09	29.72	341.696	56.243	429.954
-Milvago_chimango	ch_3m_2esc_0gr	3000	2	scaled_photograph	730	1340	0	11.49	0.93	9.961	2.311	15.422	100	Eva	3061.39	28.456	305.002	70.76	472.201
-Milvago_chimango	ch_3m_2esc_20gr	3000	2	scaled_photograph	730	1340	20	11.49	0.788	10.508	2.328	15.523	100	Eva	3061.39	25.684	321.736	71.281	475.304
-Milvago_chimango	ch_3m_2esc_40_gr	3000	2	scaled_photograph	730	1340	40	11.49	0.71	10.74	2.165	15.454	100	Eva	3061.39	28.393	328.838	66.303	473.18
-Milvago_chimango	ch_3m_2esc_60gr	3000	2	scaled_photograph	730	1340	60	11.49	0.553	11.001	1.965	14.449	100	Eva	3061.39	33.88	336.836	60.18	442.398
-Milvago_chimango	ch_3m_3esc_0gr	3000	3	scaled_photograph	1020	1340	0	6.09	0.951	10.845	2.701	16.067	100	Eva	3017.02	28.7	327.254	81.495	484.815
-Milvago_chimango	ch_3m_3esc_20gr	3000	3	scaled_photograph	1020	1340	20	6.09	0.877	11.237	2.391	16.235	100	Eva	3017.02	28.162	339.076	72.136	489.885
-Milvago_chimango	ch_3m_3esc_40gr	3000	3	scaled_photograph	1020	1340	40	6.09	0.718	11.422	2.316	16.057	100	Eva	3017.02	28.263	344.659	69.888	484.518
-Milvago_chimango	ch_3m_3esc_60gr	3000	3	scaled_photograph	1020	1340	0	6.09	0.5	11.197	1.92	14.691	100	Eva	3017.02	15.094	337.865	57.943	443.293
-Milvago_chimango	ch_3m_4esc_0gr	3000	4	scaled_photograph	1310	1340	0	0.57	0.878	10.156	2.478	15.168	100	Eva	3000.15	26.336	304.748	74.345	455.142
-Milvago_chimango	ch_3m_4esc_20gr	3000	4	scaled_photograph	1310	1340	20	0.57	0.88	10.866	2.516	15.181	100	Eva	3000.15	28.091	326.036	75.498	455.53
-Milvago_chimango	ch_3m_4esc_40gr	3000	4	scaled_photograph	1310	1340	40	0.57	0.751	11.044	2.479	14.844	100	Eva	3000.15	29.424	331.384	74.386	445.396
-Milvago_chimango	ch_3m_4esc_60gr	3000	4	scaled_photograph	1310	1340	60	0.57	0.63	10.5	2.085	13.723	100	Eva	3000.15	37.794	315.076	62.558	411.78
-Milvago_chimango	ch_3m_5esc_0gr	3000	5	scaled_photograph	1600	1340	0	4.95	0.932	10.78	2.674	15.068	100	Eva	3011.25	28.061	324.671	80.52	453.814
-Milvago_chimango	ch_3m_5esc_20gr	3000	5	scaled_photograph	1600	1340	20	4.95	0.901	11.072	2.639	15.18	100	Eva	3011.25	28.881	333.459	79.485	457.184
-Milvago_chimango	ch_3m_5esc_40gr	3000	5	scaled_photograph	1600	1340	40	4.95	0.888	11.931	2.618	15.829	109	Eva	3011.25	32.025	329.654	72.34	437.355
-Milvago_chimango	ch_3m_5esc_60gr	3000	5	scaled_photograph	1600	1340	60	4.95	0.741	11.452	2.554	14.819	109	Eva	3011.25	40.966	316.413	70.573	409.455
-Milvago_chimango	ch_3m_6esc_0gr	3000	6	scaled_photograph	1890	1340	0	10.39	0.981	11.801	2.813	16.305	109	Eva	3050	27.437	330.261	78.715	456.3
-Milvago_chimango	ch_3m_6esc_20gr	3000	6	scaled_photograph	1890	1340	20	10.39	0.939	11.719	2.765	15.634	109	Eva	3050	27.972	327.957	77.373	437.521
-Milvago_chimango	ch_3m_6esc_40gr	3000	6	scaled_photograph	1890	1340	40	10.39	0.758	11.333	2.316	15.116	109	Eva	3050	27.679	317.154	64.819	423.034
-Milvago_chimango	ch_3m_6esc_60gr	3000	6	scaled_photograph	1890	1340	60	10.39	0.658	10.409	2.341	13.241	109	Eva	3050	36.811	291.293	65.513	370.561
-Milvago_chimango	ch_3m_7esc_0gr	3000	7	scaled_photograph	2180	1340	0	15.64	0.78	10.158	1.989	13.749	109	Eva	3115.38	22.299	290.372	56.855	393.019
-Milvago_chimango	ch_3m_7esc_20gr	3000	7	scaled_photograph	2180	1340	20	15.64	0.816	10.315	2.311	14.098	116	Eva	3115.38	23.319	277.08	62.067	378.694
-Milvago_chimango	ch_3m_7esc_40gr	3000	7	scaled_photograph	2180	1340	40	15.64	0.761	9.458	2.213	13.07	116	Eva	3115.38	26.685	254.04	59.436	351.068
-Milvago_chimango	ch_3m_7esc_60_gr	3000	7	scaled_photograph	2180	1340	60	15.64	0.588	7.941	2.193	10.798	116	Eva	3115.38	31.567	213.305	58.906	290.034
-Milvago_chimango	ch_3m_8esc_0gr	3000	8	scaled_photograph	2470	1340	0	20.64	0.859	10.544	2.26	14.199	116	Eva	3205.76	23.742	291.435	62.457	392.472
-Milvago_chimango	ch_3m_8esc_20gr	3000	8	scaled_photograph	2470	1340	20	20.64	0.816	10.236	2.096	14.233	116	Eva	3205.76	23.986	282.937	57.945	393.393
-Milvago_chimango	ch_3m_8esc_40gr	3000	8	scaled_photograph	2470	1340	40	20.64	0.779	9.52	2.107	13.006	116	Eva	3205.76	28.11	263.14	58.236	359.476
-Milvago_chimango	ch_3m_8esc_60gr	3000	8	scaled_photograph	2470	1340	60	20.64	0.767	8.374	2.043	11.29	116	Eva	3205.76	42.39	231.46	56.469	312.06
-Milvago_chimango	ch_3m_9esc_0gr	3000	9	scaled_photograph	2760	1340	0	25.33	0.869	10.249	2.05	13.707	116	Eva	3319.1	24.864	293.3	58.679	392.264
-Milvago_chimango	ch_3m_9esc_20gr	3000	9	scaled_photograph	2760	1340	20	25.33	0.815	9.703	1.897	12.631	116	Eva	3319.1	24.823	277.659	54.3	361.479
-Milvago_chimango	ch_3m_9esc_40gr	3000	9	scaled_photograph	2760	1340	40	25.33	0.821	9.18	2.173	11.871	116	Eva	3319.1	30.653	262.719	62.174	339.706
-Milvago_chimango	ch_3m_9esc_60gr	3000	9	scaled_photograph	2760	1340	60	25.33	0.71	7.971	2.087	10.818	116	Eva	3319.1	40.619	228.1	59.731	309.593
-Milvago_chimango	ch_3m_10esc_0gr	3000	10	scaled_photograph	3050	1340	0	29.68	0.847	10.054	2.206	13.211	116	Eva	3453.13	25.21	299.342	65.687	393.321
-Milvago_chimango	ch_3m_10esc_20gr	3000	10	scaled_photograph	3050	1340	20	29.68	0.827	9.235	1.923	12.015	116	Eva	3453.13	26.203	274.959	57.252	357.728
-Milvago_chimango	ch_3m_10esc_40gr	3000	10	scaled_photograph	3050	1340	40	29.68	0.812	8.254	1.818	11.052	116	Eva	3453.13	31.561	245.746	54.133	329.062
-Milvago_chimango	ch_3m_10esc_60gr	3000	10	scaled_photograph	3050	1340	60	29.68	NA	6.357	1.985	8.164	116	Eva	3453.13	NA	189.263	59.105	243.072
-Milvago_chimango	ch_3m_11esc_0gr	3000	11	scaled_photograph	3340	1340	0	33.69	0.761	9.33	1.8	13.12	116	Eva	3605.55	23.669	290.056	55.962	407.859
-Milvago_chimango	ch_3m_11esc_20gr	3000	11	scaled_photograph	3340	1340	20	33.69	0.805	8.44	1.758	11.411	116	Eva	3605.55	26.617	262.387	54.641	354.73
-Milvago_chimango	ch_3m_11esc_40gr	3000	11	scaled_photograph	3340	1340	40	33.69	0.728	7.853	1.947	10.909	116	Eva	3605.55	29.532	244.138	60.53	339.135
-Milvago_chimango	ch_3m_11esc_60gr	3000	11	scaled_photograph	3340	1340	60	33.69	NA	5.055	1.655	5.121	116	Eva	3605.55	NA	157.134	51.437	159.185
-Milvago_chimango	ch_5m_suelo_0gr	5000	0	scaled_photograph	0	1340	0	15	0.895	9.734	1.97	14.709	187	Eva	5176.45	24.77	269.488	54.528	407.226
-Milvago_chimango	ch_5m_suelo_20gr	5000	0	scaled_photograph	0	1340	20	15	0.772	10.329	2.241	15.043	187	Eva	5176.45	22.753	285.975	62.042	416.463
-Milvago_chimango	ch_5m_suelo_40gr	5000	0	scaled_photograph	0	1340	40	15	0.685	10.752	1.997	14.897	187	Eva	5176.45	24.764	297.689	55.291	412.442
-Milvago_chimango	ch_5m_suelo_60gr	5000	0	scaled_photograph	0	1340	60	15	0.496	10.395	1.955	13.607	187	Eva	5176.45	27.434	287.793	54.133	376.718
-Milvago_chimango	ch_5m_1esc_0gr	5000	1	scaled_photograph	440	1340	0	10.2	0.885	10.476	2.539	15.388	187	Eva	5080.35	24.042	284.659	68.977	418.121
-Milvago_chimango	ch_5m_1esc_20gr	5000	1	scaled_photograph	440	1340	20	10.2	0.774	10.715	1.792	15.137	187	Eva	5080.35	22.37	291.155	48.683	411.301
-Milvago_chimango	ch_5m_1esc_40gr	5000	1	scaled_photograph	440	1340	40	10.2	0.653	10.795	1.767	15.183	187	Eva	5080.35	23.159	293.318	47.999	412.539
-Milvago_chimango	ch_5m_1esc_60gr	5000	1	scaled_photograph	440	1340	60	10.2	0.52	10.201	1.764	13.64	187	Eva	5080.35	28.255	277.173	47.934	370.612
-Milvago_chimango	ch_5m_2esc_0gr	5000	2	scaled_photograph	730	1340	0	6.96	0.895	10.531	1.952	15.361	187	Eva	5037.07	24.103	283.7	52.575	413.826
-Milvago_chimango	ch_5m_2esc_20gr	5000	2	scaled_photograph	730	1340	20	6.96	0.812	10.783	2.043	15.062	187	Eva	5037.07	23.271	290.498	55.049	405.781
-Milvago_chimango	ch_5m_2esc_40_gr	5000	2	scaled_photograph	730	1340	40	6.96	0.698	10.8	1.782	14.8	187	Eva	5037.07	24.54	290.966	48.012	398.708
-Milvago_chimango	ch_5m_2esc_60gr	5000	2	scaled_photograph	730	1340	60	6.96	0.59	10.165	1.76	13.496	187	Eva	5037.07	31.807	273.841	47.425	363.597
-Milvago_chimango	ch_5m_3esc_0gr	5000	3	scaled_photograph	1020	1340	0	3.66	0.956	10.687	2.036	15.587	187	Eva	5010.23	25.606	286.389	54.555	417.672
-Milvago_chimango	ch_5m_3esc_20gr	5000	3	scaled_photograph	1020	1340	20	3.66	0.821	10.738	2.143	15.272	187	Eva	5010.23	23.419	287.747	57.425	409.251
-Milvago_chimango	ch_5m_3esc_40gr	5000	3	scaled_photograph	1020	1340	40	3.66	0.7	10.616	2.238	14.714	187	Eva	5010.23	24.481	284.475	59.968	394.277
-Milvago_chimango	ch_5m_3esc_60gr	5000	3	scaled_photograph	1020	1340	60	3.66	0.538	9.947	2.146	13.258	187	Eva	5010.23	28.85	266.558	57.508	355.28
-Milvago_chimango	ch_5m_4esc_0gr	5000	4	scaled_photograph	1310	1340	0	0.34	0.93	10.624	2.384	15.492	187	Eva	5000.09	24.854	284.118	63.767	414.298
-Milvago_chimango	ch_5m_4esc_20gr	5000	4	scaled_photograph	1310	1340	20	0.34	0.889	10.613	2.156	15.154	187	Eva	5000.09	25.297	283.809	57.646	405.249
-Milvago_chimango	ch_5m_4esc_40gr	5000	4	scaled_photograph	1310	1340	40	0.34	0.778	10.785	2.043	14.74	187	Eva	5000.09	27.161	288.429	54.635	394.189
-Milvago_chimango	ch_5m_4esc_60gr	5000	4	scaled_photograph	1310	1340	60	0.34	0.608	10.004	2.089	13.434	187	Eva	5000.09	32.52	267.519	55.863	359.263
-Milvago_chimango	ch_5m_5esc_0gr	5000	5	scaled_photograph	1600	1340	0	2.98	0.955	10.47	2.255	15.45	187	Eva	5006.76	25.561	280.362	60.373	413.721
-Milvago_chimango	ch_5m_5esc_20gr	5000	5	scaled_photograph	1600	1340	20	2.98	0.896	10.674	2.085	15.197	187	Eva	5006.76	25.525	285.826	55.828	406.936
-Milvago_chimango	ch_5m_5esc_40gr	5000	5	scaled_photograph	1600	1340	40	2.98	0.754	10.644	2.038	14.451	187	Eva	5006.76	26.342	285.025	54.571	386.964
-Milvago_chimango	ch_5m_5esc_60gr	5000	5	scaled_photograph	1600	1340	60	2.98	0.627	9.782	2.08	13.136	187	Eva	5006.76	33.583	261.947	55.701	351.764
-Milvago_chimango	ch_5m_6esc_0gr	5000	6	scaled_photograph	1890	1340	0	6.28	0.936	10.705	2.374	15.493	187	Eva	5030.16	25.177	288.004	63.867	416.827
-Milvago_chimango	ch_5m_6esc_20gr	5000	6	scaled_photograph	1890	1340	20	6.28	0.913	10.76	2.115	15.118	187	Eva	5030.16	26.131	289.486	56.894	406.725
-Milvago_chimango	ch_5m_6esc_40gr	5000	6	scaled_photograph	1890	1340	40	6.28	0.799	10.233	2.024	14.612	187	Eva	5030.16	28.041	275.295	54.451	393.101
-Milvago_chimango	ch_5m_6esc_60gr	5000	6	scaled_photograph	1890	1340	60	6.28	0.65	9.667	2.136	13.654	187	Eva	5030.16	34.966	260.079	57.471	367.344
-Milvago_chimango	ch_5m_7esc_0gr	5000	7	scaled_photograph	2180	1340	0	9.54	1.193	13.518	2.579	19.146	250	Eva	5070.07	24.196	274.194	52.311	388.35
-Milvago_chimango	ch_5m_7esc_20gr	5000	7	scaled_photograph	2180	1340	20	9.54	1.095	12.765	2.858	18.56	250	Eva	5070.07	23.635	258.914	57.961	376.464
-Milvago_chimango	ch_5m_7esc_40gr	5000	7	scaled_photograph	2180	1340	40	9.54	1	12.377	2.985	17.159	250	Eva	5070.07	26.472	251.049	60.555	348.042
-Milvago_chimango	ch_5m_7esc_60_gr	5000	7	scaled_photograph	2180	1340	60	9.54	0.868	10.908	2.781	14.756	250	Eva	5070.07	35.204	221.241	56.416	299.304
-Milvago_chimango	ch_5m_8esc_0gr	5000	8	scaled_photograph	2470	1340	0	12.73	1.141	13.323	2.919	18.685	250	Eva	5126.1	23.397	273.227	59.857	383.191
-Milvago_chimango	ch_5m_8esc_20gr	5000	8	scaled_photograph	2470	1340	20	12.73	1.048	12.477	2.816	17.946	250	Eva	5126.1	22.872	255.867	57.744	368.028
-Milvago_chimango	ch_5m_8esc_40gr	5000	8	scaled_photograph	2470	1340	40	12.73	0.985	11.448	2.871	16.793	250	Eva	5126.1	26.373	234.776	58.874	344.39
-Milvago_chimango	ch_5m_8esc_60gr	5000	8	scaled_photograph	2470	1340	60	12.73	0.856	10.036	2.337	13.964	250	Eva	5126.1	35.091	205.817	47.93	286.361
-Milvago_chimango	ch_5m_9esc_0gr	5000	9	scaled_photograph	2760	1340	0	15.85	1.08	12.239	2.622	18.018	250	Eva	5197.73	22.458	254.506	54.526	374.677
-Milvago_chimango	ch_5m_9esc_20gr	5000	9	scaled_photograph	2760	1340	20	15.85	1.071	12	2.662	17.442	250	Eva	5197.73	23.688	249.535	55.347	362.696
-Milvago_chimango	ch_5m_9esc_40gr	5000	9	scaled_photograph	2760	1340	40	15.85	0.951	10.724	2.539	15.744	250	Eva	5197.73	25.818	222.993	52.787	327.378
-Milvago_chimango	ch_5m_9esc_60gr	5000	9	scaled_photograph	2760	1340	60	15.85	NA	7.774	2.445	10.245	250	Eva	5197.73	NA	161.656	50.842	213.035
-Milvago_chimango	ch_5m_10esc_0gr	5000	10	scaled_photograph	3050	1340	0	18.88	0.848	12.379	2.906	17.444	250	Eva	5284.33	17.929	261.709	61.439	368.782
-Milvago_chimango	ch_5m_10esc_20gr	5000	10	scaled_photograph	3050	1340	20	18.88	1.046	11.944	2.892	17.163	250	Eva	5284.33	23.532	252.506	61.144	362.843
-Milvago_chimango	ch_5m_10esc_40gr	5000	10	scaled_photograph	3050	1340	40	18.88	0.919	9.638	2.774	14.364	250	Eva	5284.33	25.357	203.743	58.642	303.655
-Milvago_chimango	ch_5m_10esc_60gr	5000	10	scaled_photograph	3050	1340	60	18.88	NA	8.345	2.623	11.74	250	Eva	5284.33	NA	176.414	55.449	248.184
-Milvago_chimango	ch_5m_11esc_0gr	5000	11	scaled_photograph	3340	1340	0	21.8	1.031	12.01	2.598	16.895	250	Eva	5385.16	22.205	258.753	55.972	363.993
-Milvago_chimango	ch_5m_11esc_20gr	5000	11	scaled_photograph	3340	1340	20	21.8	1.055	10.605	2.587	15.619	250	Eva	5385.16	24.176	228.469	55.738	336.502
-Milvago_chimango	ch_5m_11esc_40gr	5000	11	scaled_photograph	3340	1340	40	21.8	0.924	9.279	2.734	13.842	250	Eva	5385.16	25.984	199.901	58.903	298.202
-Milvago_chimango	ch_5m_11esc_60gr	5000	11	scaled_photograph	3340	1340	60	21.8	0.604	8.782	2.424	12.199	250	Eva	5385.16	26.008	189.203	52.221	262.805
-Milvago_chimango	ch_7m_suelo_0gr	7000	0	scaled_photograph	0	1340	0	10.84	0.888	9.298	2.201	14.15	250	Eva	7127.1	25.326	265.106	62.751	403.448
-Milvago_chimango	ch_7m_suelo_20gr	7000	0	scaled_photograph	0	1340	20	10.84	0.799	9.935	2.198	14.537	250	Eva	7127.1	24.237	283.278	62.684	414.503
-Milvago_chimango	ch_7m_suelo_40gr	7000	0	scaled_photograph	0	1340	40	10.84	0.687	10.177	2.201	14.266	250	Eva	7127.1	25.555	290.183	62.751	406.774
-Milvago_chimango	ch_7m_suelo_60gr	7000	0	scaled_photograph	0	1340	60	10.84	0.515	9.752	2.111	12.994	250	Eva	7127.1	29.378	278.061	60.182	370.496
-Milvago_chimango	ch_7m_1esc_0gr	7000	1	scaled_photograph	440	1340	0	7.33	0.854	10.118	2.008	14.81	250	Eva	7057.62	24.099	285.673	56.685	418.163
-Milvago_chimango	ch_7m_1esc_20gr	7000	1	scaled_photograph	440	1340	20	7.33	0.76	10.153	2.038	14.644	250	Eva	7057.62	22.846	286.672	57.54	413.458
-Milvago_chimango	ch_7m_1esc_40gr	7000	1	scaled_photograph	440	1340	40	7.33	0.638	10.223	1.941	14.022	250	Eva	7057.62	23.513	288.65	54.803	395.904
-Milvago_chimango	ch_7m_1esc_60gr	7000	1	scaled_photograph	440	1340	60	7.33	0.492	9.37	1.899	12.635	250	Eva	7057.62	27.805	264.566	53.632	356.734
-Milvago_chimango	ch_7m_2esc_0gr	7000	2	scaled_photograph	730	1340	0	4.98	0.872	10.094	2.222	14.87	250	Eva	7026.53	24.509	283.746	62.449	418.004
-Milvago_chimango	ch_7m_2esc_20gr	7000	2	scaled_photograph	730	1340	20	4.98	0.797	10.15	2.096	14.711	250	Eva	7026.53	23.824	285.323	58.931	413.52
-Milvago_chimango	ch_7m_2esc_40_gr	7000	2	scaled_photograph	730	1340	40	4.98	0.643	10.162	1.96	14.082	250	Eva	7026.53	23.609	285.658	55.088	395.852
-Milvago_chimango	ch_7m_2esc_60gr	7000	2	scaled_photograph	730	1340	60	4.98	0.508	9.333	1.931	12.671	250	Eva	7026.53	28.543	262.359	54.275	356.195
-Milvago_chimango	ch_7m_3esc_0gr	7000	3	scaled_photograph	1020	1340	0	2.62	0.902	10.183	2.373	14.838	250	Eva	7007.31	25.281	285.458	66.512	415.955
-Milvago_chimango	ch_7m_3esc_20gr	7000	3	scaled_photograph	1020	1340	20	2.62	0.772	10.206	2.038	14.62	250	Eva	7007.31	23.039	286.097	57.13	409.843
-Milvago_chimango	ch_7m_3esc_40gr	7000	3	scaled_photograph	1020	1340	40	2.62	0.664	10.068	1.943	14.082	250	Eva	7007.31	24.291	282.245	54.479	394.76
-Milvago_chimango	ch_7m_3esc_60gr	7000	3	scaled_photograph	1020	1340	60	2.62	0.493	9.179	2.05	12.43	250	Eva	7007.31	27.626	257.313	57.463	348.461
-Milvago_chimango	ch_7m_4esc_0gr	7000	4	scaled_photograph	1310	1340	0	0.25	0.88	10.173	2.452	14.688	250	Eva	7000.06	24.627	284.877	68.681	411.334
-Milvago_chimango	ch_7m_4esc_20gr	7000	4	scaled_photograph	1310	1340	20	0.25	0.807	10.184	2.093	14.33	250	Eva	7000.06	24.038	285.201	58.604	401.304
-Milvago_chimango	ch_7m_4esc_40gr	7000	4	scaled_photograph	1310	1340	40	0.25	0.693	9.931	2.243	13.881	250	Eva	7000.06	25.323	278.115	62.823	388.723
-Milvago_chimango	ch_7m_4esc_60gr	7000	4	scaled_photograph	1310	1340	60	0.25	0.569	9.281	1.944	12.488	250	Eva	7000.06	31.883	259.923	54.442	349.72
-Milvago_chimango	ch_7m_5esc_0gr	7000	5	scaled_photograph	1600	1340	0	2.13	0.882	10.225	2.245	14.94	250	Eva	7004.83	24.7	286.529	62.914	418.666
-Milvago_chimango	ch_7m_5esc_20gr	7000	5	scaled_photograph	1600	1340	20	2.13	0.772	10.012	2.162	14.547	250	Eva	7004.83	23.03	280.582	60.588	407.658
-Milvago_chimango	ch_7m_5esc_40gr	7000	5	scaled_photograph	1600	1340	40	2.13	0.651	9.706	2.152	13.822	250	Eva	7004.83	23.81	271.994	60.302	387.338
-Milvago_chimango	ch_7m_5esc_60gr	7000	5	scaled_photograph	1600	1340	60	2.13	0.537	8.866	2.247	12.251	250	Eva	7004.83	30.094	248.463	62.962	343.324
-Milvago_chimango	ch_7m_6esc_0gr	7000	6	scaled_photograph	1890	1340	0	4.49	0.874	10.159	2.295	15.312	250	Eva	7021.57	24.559	285.37	64.478	430.129
-Milvago_chimango	ch_7m_6esc_20gr	7000	6	scaled_photograph	1890	1340	20	4.49	0.8	10.123	2.188	14.671	250	Eva	7021.57	23.909	284.348	61.45	412.129
-Milvago_chimango	ch_7m_6esc_40gr	7000	6	scaled_photograph	1890	1340	40	4.49	0.688	9.782	2.144	13.918	250	Eva	7021.57	25.226	274.775	60.217	390.968
-Milvago_chimango	ch_7m_6esc_60gr	7000	6	scaled_photograph	1890	1340	60	4.49	0.558	8.988	2.112	12.392	250	Eva	7021.57	31.332	252.467	59.319	348.091
-Milvago_chimango	ch_7m_7esc_0gr	7000	7	scaled_photograph	2180	1340	0	6.84	0.853	9.829	2.245	13.777	250	Eva	7050.22	24.045	277.23	63.331	388.572
-Milvago_chimango	ch_7m_7esc_20gr	7000	7	scaled_photograph	2180	1340	20	6.84	0.786	9.07	2.216	13.171	250	Eva	7050.22	23.598	255.828	62.497	371.478
-Milvago_chimango	ch_7m_7esc_40gr	7000	7	scaled_photograph	2180	1340	40	6.84	0.618	8.829	2.208	12.573	250	Eva	7050.22	22.75	249.027	62.276	354.633
-Milvago_chimango	ch_7m_7esc_60_gr	7000	7	scaled_photograph	2180	1340	60	6.84	0.6	8.07	2.251	10.941	250	Eva	7050.22	33.838	227.616	63.485	308.588
-Milvago_chimango	ch_7m_8esc_0gr	7000	8	scaled_photograph	2470	1340	0	9.17	0.795	9.503	2.077	13.98	250	Eva	7090.62	22.543	269.566	58.918	396.559
-Milvago_chimango	ch_7m_8esc_20gr	7000	8	scaled_photograph	2470	1340	20	9.17	0.724	8.767	2.062	12.827	250	Eva	7090.62	21.855	248.689	58.484	363.863
-Milvago_chimango	ch_7m_8esc_40gr	7000	8	scaled_photograph	2470	1340	40	9.17	0.636	7.911	2.097	11.774	250	Eva	7090.62	23.535	224.405	59.478	333.984
-Milvago_chimango	ch_7m_8esc_60gr	7000	8	scaled_photograph	2470	1340	60	9.17	0.6	7.964	2.222	10.659	250	Eva	7090.62	34.051	225.91	63.019	302.359
-Milvago_chimango	ch_7m_9esc_0gr	7000	9	scaled_photograph	2760	1340	0	11.47	0.776	9.486	2.392	14.178	250	Eva	7142.58	22.184	271.065	68.349	405.121
-Milvago_chimango	ch_7m_9esc_20gr	7000	9	scaled_photograph	2760	1340	20	11.47	0.754	8.979	2.194	13.012	250	Eva	7142.58	22.935	256.565	62.684	371.816
-Milvago_chimango	ch_7m_9esc_40gr	7000	9	scaled_photograph	2760	1340	40	11.47	0.659	8.162	2.043	11.602	250	Eva	7142.58	24.57	233.232	58.378	331.533
-Milvago_chimango	ch_7m_9esc_60gr	7000	9	scaled_photograph	2760	1340	60	11.47	0.631	8.283	2.194	11.286	250	Eva	7142.58	36.069	236.672	62.693	322.485
-Milvago_chimango	ch_7m_10esc_0gr	7000	10	scaled_photograph	3050	1340	0	13.73	0.805	9.57	2.123	14.024	250	Eva	7205.84	23.213	275.878	61.19	404.267
-Milvago_chimango	ch_7m_10esc_20gr	7000	10	scaled_photograph	3050	1340	20	13.73	0.797	9.059	2.497	13.273	250	Eva	7205.84	24.432	261.142	71.984	382.629
-Milvago_chimango	ch_7m_10esc_40gr	7000	10	scaled_photograph	3050	1340	40	13.73	0.746	8.775	2.399	12.662	250	Eva	7205.84	28.051	252.965	69.17	365.03
-Milvago_chimango	ch_7m_10esc_60gr	7000	10	scaled_photograph	3050	1340	60	13.73	0.672	7.735	2.411	10.707	250	Eva	7205.84	38.741	222.993	69.494	308.654
-Milvago_chimango	ch_7m_11esc_0gr	7000	11	scaled_photograph	3340	1340	0	15.95	0.836	9.344	2.204	13.679	250	Eva	7280.11	24.344	272.144	64.198	398.4
-Milvago_chimango	ch_7m_11esc_20gr	7000	11	scaled_photograph	3340	1340	20	15.95	0.739	8.274	2.18	12.003	250	Eva	7280.11	22.913	240.971	63.494	349.585
-Milvago_chimango	ch_7m_11esc_40gr	7000	11	scaled_photograph	3340	1340	40	15.95	0.722	7.348	2.067	10.695	250	Eva	7280.11	27.435	214.019	60.196	311.499
-Milvago_chimango	ch_7m_11esc_60gr	7000	11	scaled_photograph	3340	1340	60	15.95	0.482	6.532	2.36	9.288	250	Eva	7280.11	28.048	190.235	68.744	270.52
-Passer_domesticus	gor_escala	NA	NA	true	NA	NA	NA	NA	NA	NA	NA	NA	NA	Eva	NA	9.792	71.514	13.713	139.276
-Passer_domesticus	gor_3m_suelo_0gr	3000	0	scaled_photograph	0	1340	0	24.07	0.669	4.952	0.903	10.098	200	Eva	3285.67	10.996	81.364	14.842	165.914
-Passer_domesticus	gor_3m_suelo_20gr	3000	0	scaled_photograph	0	1340	20	24.07	0.708	4.882	0.745	9.892	200	Eva	3285.67	12.385	80.213	12.244	162.539
-Passer_domesticus	gor_3m_suelo_40gr	3000	0	scaled_photograph	0	1340	40	24.07	0.659	4.608	0.713	9.067	200	Eva	3285.67	14.143	75.72	11.718	148.982
-Passer_domesticus	gor_3m_suelo_60gr	3000	0	scaled_photograph	0	1340	60	24.07	0.465	4.367	0.432	8.109	200	Eva	3285.67	15.265	71.747	7.091	133.234
-Passer_domesticus	gor_3m_1esc_0gr	3000	1	scaled_photograph	370	1340	0	17.92	0.679	5.035	0.911	10.258	200	Eva	3152.92	10.696	79.385	14.371	161.736
-Passer_domesticus	gor_3m_1esc_20gr	3000	1	scaled_photograph	370	1340	20	17.92	0.741	5.045	0.995	10.554	200	Eva	3152.92	12.438	79.541	15.69	166.407
-Passer_domesticus	gor_3m_1esc_40gr	3000	1	scaled_photograph	370	1340	40	17.92	0.681	4.553	0.816	9.599	194	Eva	3152.92	14.438	74.002	13.262	156.025
-Passer_domesticus	gor_3m_1esc_60gr	3000	1	scaled_photograph	370	1340	60	17.92	0.577	4.249	0.669	8.356	194	Eva	3152.92	18.76	69.059	10.88	135.819
-Passer_domesticus	gor_3m_2esc_0gr	3000	2	scaled_photograph	660	1340	0	12.77	0.676	4.724	1.023	9.805	194	Eva	3076.1	10.715	74.912	16.229	155.492
-Passer_domesticus	gor_3m_2esc_20gr	3000	2	scaled_photograph	660	1340	20	12.77	0.685	4.627	0.904	9.641	194	Eva	3076.1	11.558	73.374	14.331	152.898
-Passer_domesticus	gor_3m_2esc_40gr	3000	2	scaled_photograph	660	1340	40	12.77	0.619	4.301	0.867	8.839	194	Eva	3076.1	12.819	68.207	13.743	140.169
-Passer_domesticus	gor_3m_2esc_60gr	3000	2	scaled_photograph	660	1340	60	12.77	0.471	3.862	0.569	7.773	194	Eva	3076.1	14.949	61.244	9.023	123.265
-Passer_domesticus	gor_3m_3esc_0gr	3000	3	scaled_photograph	950	1340	0	7.41	0.646	4.784	0.884	8.851	194	Eva	3025.24	10.066	74.607	13.791	138.048
-Passer_domesticus	gor_3m_3esc_20gr	3000	3	scaled_photograph	950	1340	20	7.41	0.71	4.695	0.844	8.789	194	Eva	3025.24	11.785	73.233	13.171	137.082
-Passer_domesticus	gor_3m_3esc_40gr	3000	3	scaled_photograph	950	1340	40	7.41	0.604	4.28	0.819	8.653	194	Eva	3025.24	12.296	66.746	12.768	134.95
-Passer_domesticus	gor_3m_3esc_60gr	3000	3	scaled_photograph	950	1340	60	7.41	0.448	3.911	0.662	7.488	194	Eva	3025.24	13.959	60.996	10.317	116.793
-Passer_domesticus	gor_3m_4esc_0gr	3000	4	scaled_photograph	1240	1340	0	1.91	0.676	4.882	1.016	9.804	200	Eva	3001.67	10.153	73.28	15.244	147.167
-Passer_domesticus	gor_3m_4esc_20gr	3000	4	scaled_photograph	1240	1340	20	1.91	0.669	4.607	1.007	9.079	200	Eva	3001.67	10.685	69.15	15.122	136.288
-Passer_domesticus	gor_3m_4esc_40gr	3000	4	scaled_photograph	1240	1340	40	1.91	0.628	3.88	0.883	7.752	200	Eva	3001.67	12.301	58.24	13.258	116.357
-Passer_domesticus	gor_3m_4esc_60gr	3000	4	scaled_photograph	1240	1340	60	1.91	0.443	3.312	0.827	6.23	200	Eva	3001.67	13.292	49.714	12.416	93.512
-Passer_domesticus	gor_3m_5esc_0gr	3000	5	scaled_photograph	1530	1340	0	3.62	0.704	4.752	0.883	9.511	200	Eva	3006.01	10.576	71.433	13.272	142.973
-Passer_domesticus	gor_3m_5esc_20gr	3000	5	scaled_photograph	1530	1340	20	3.62	0.708	4.433	0.949	8.954	200	Eva	3006.01	11.331	66.642	14.269	134.604
-Passer_domesticus	gor_3m_5esc_40gr	3000	5	scaled_photograph	1530	1340	40	3.62	0.646	3.807	0.878	7.596	200	Eva	3006.01	12.679	57.235	13.201	114.189
-Passer_domesticus	gor_3m_5esc_60gr	3000	5	scaled_photograph	1530	1340	60	3.62	0.431	3.032	0.804	5.8	200	Eva	3006.01	12.953	45.573	12.081	87.195
-Passer_domesticus	gor_3m_6esc_0gr	3000	6	scaled_photograph	1820	1340	0	9.09	0.692	5.284	0.908	10.677	200	Eva	3038.16	10.519	80.273	13.791	162.221
-Passer_domesticus	gor_3m_6esc_20gr	3000	6	scaled_photograph	1820	1340	20	9.09	0.703	5.057	0.892	9.937	200	Eva	3038.16	11.359	76.832	13.554	150.972
-Passer_domesticus	gor_3m_6esc_40gr	3000	6	scaled_photograph	1820	1340	40	9.09	0.661	4.807	0.889	9.463	200	Eva	3038.16	13.104	73.029	13.502	143.774
-Passer_domesticus	gor_3m_6esc_60gr	3000	6	scaled_photograph	1820	1340	60	9.09	0.543	4.196	0.758	8.036	200	Eva	3038.16	16.502	63.748	11.513	122.097
-Passer_domesticus	gor_3m_7esc_0gr	3000	7	scaled_photograph	2110	1340	0	14.4	0.456	3.46	0.654	6.887	135	Eva	3097.24	10.456	79.398	15.007	158.032
-Passer_domesticus	gor_3m_7esc_20gr	3000	7	scaled_photograph	2110	1340	20	14.4	0.464	3.353	0.684	6.803	135	Eva	3097.24	11.326	76.932	15.702	156.112
-Passer_domesticus	gor_3m_7esc_40gr	3000	7	scaled_photograph	2110	1340	40	14.4	0.448	3.026	0.686	6.078	135	Eva	3097.24	13.425	69.425	15.733	139.466
-Passer_domesticus	gor_3m_7esc_60gr	3000	7	scaled_photograph	2110	1340	60	14.4	0.329	2.46	0.573	4.768	135	Eva	3097.24	15.106	56.439	13.15	109.413
-Passer_domesticus	gor_3m_8esc_0gr	3000	8	scaled_photograph	2400	1340	0	19.46	0.474	3.328	0.531	6.705	135	Eva	3181.76	11.174	78.455	12.515	158.056
-Passer_domesticus	gor_3m_8esc_20gr	3000	8	scaled_photograph	2400	1340	20	19.46	0.493	3.157	0.642	6.312	135	Eva	3181.76	12.377	74.414	15.128	148.788
-Passer_domesticus	gor_3m_8esc_40gr	3000	8	scaled_photograph	2400	1340	40	19.46	0.45	2.904	0.601	5.832	135	Eva	3181.76	13.833	68.449	14.174	137.468
-Passer_domesticus	gor_3m_8esc_60gr	3000	8	scaled_photograph	2400	1340	60	19.46	0.32	2.341	0.501	4.465	135	Eva	3181.76	15.07	55.173	11.809	105.255
-Passer_domesticus	gor_3m_9esc_0gr	3000	9	scaled_photograph	2690	1340	0	24.23	0.465	3.175	0.5	6.385	135	Eva	3289.76	11.33	77.379	12.185	155.612
-Passer_domesticus	gor_3m_9esc_20gr	3000	9	scaled_photograph	2690	1340	20	24.23	0.525	2.741	0.656	5.644	135	Eva	3289.76	13.627	66.794	15.981	137.566
-Passer_domesticus	gor_3m_9esc_40gr	3000	9	scaled_photograph	2690	1340	40	24.23	0.373	2.293	0.605	4.499	135	Eva	3289.76	11.858	55.894	14.746	109.657
-Passer_domesticus	gor_3m_9esc_60gr	3000	9	scaled_photograph	2690	1340	60	24.23	0.291	1.834	0.64	3.584	135	Eva	3289.76	14.172	44.687	15.592	87.351
-Passer_domesticus	gor_3m_10esc_0gr	3000	10	scaled_photograph	2980	1340	0	28.66	0.453	3.133	0.489	6.249	135	Eva	3419.01	11.465	79.351	12.379	158.288
-Passer_domesticus	gor_3m_10esc_20gr	3000	10	scaled_photograph	2980	1340	20	28.66	0.44	2.631	0.638	5.313	135	Eva	3419.01	11.852	66.644	16.161	134.572
-Passer_domesticus	gor_3m_10esc_40gr	3000	10	scaled_photograph	2980	1340	40	28.66	0.328	2.038	0.627	4.032	135	Eva	3419.01	10.828	51.628	15.877	102.12
-Passer_domesticus	gor_3m_10esc_60gr	3000	10	scaled_photograph	2980	1340	60	28.66	0.284	1.663	0.579	3.272	135	Eva	3419.01	14.367	42.135	14.662	82.874
-Passer_domesticus	gor_3m_11esc_0gr	3000	11	scaled_photograph	3270	1340	0	32.75	0.384	2.927	0.3	5.91	135	Eva	3567.2	10.146	77.361	7.919	156.197
-Passer_domesticus	gor_3m_11esc_20gr	3000	11	scaled_photograph	3270	1340	20	32.75	0.424	2.731	0.587	5.573	135	Eva	3567.2	11.926	72.184	15.514	147.281
-Passer_domesticus	gor_3m_11esc_40gr	3000	11	scaled_photograph	3270	1340	40	32.75	0.369	2.149	0.629	4.382	135	Eva	3567.2	12.717	56.796	16.619	115.795
-Passer_domesticus	gor_3m_11esc_60gr	3000	11	scaled_photograph	3270	1340	60	32.75	NA	1.666	0.664	3.29	163	Eva	3567.2	NA	36.469	14.531	72.008
-Passer_domesticus	gor_5m_suelo_0gr	5000	0	scaled_photograph	0	1340	0	15	0.469	3.23	0.606	6.757	250	Eva	5176.45	9.718	66.889	12.558	139.935
-Passer_domesticus	gor_5m_suelo_20gr	5000	0	scaled_photograph	0	1340	20	15	0.486	3.336	0.525	6.842	250	Eva	5176.45	10.709	69.094	10.875	141.688
-Passer_domesticus	gor_5m_suelo_40gr	5000	0	scaled_photograph	0	1340	40	15	0.445	3.181	0.391	6.637	250	Eva	5176.45	12.024	65.868	8.107	137.455
-Passer_domesticus	gor_5m_suelo_60gr	5000	0	scaled_photograph	0	1340	60	15	0.354	3.137	0.221	5.993	250	Eva	5176.45	14.676	64.967	4.585	124.116
-Passer_domesticus	gor_5m_1esc_0gr	5000	1	scaled_photograph	370	1340	0	10.98	0.424	3.353	0.581	6.884	250	Eva	5093.22	8.633	68.323	11.829	140.277
-Passer_domesticus	gor_5m_1esc_20gr	5000	1	scaled_photograph	370	1340	20	10.98	0.49	3.367	0.656	6.846	250	Eva	5093.22	10.633	68.6	13.368	139.493
-Passer_domesticus	gor_5m_1esc_40gr	5000	1	scaled_photograph	370	1340	40	10.98	0.406	3.216	0.523	6.496	250	Eva	5093.22	10.8	65.523	10.658	132.363
-Passer_domesticus	gor_5m_1esc_60gr	5000	1	scaled_photograph	370	1340	60	10.98	0.341	3.067	0.357	5.744	250	Eva	5093.22	13.913	62.495	7.27	117.04
-Passer_domesticus	gor_5m_2esc_0gr	5000	2	scaled_photograph	660	1340	0	7.74	0.471	3.435	0.56	6.886	250	Eva	5046.03	9.501	69.337	11.308	139.011
-Passer_domesticus	gor_5m_2esc_20gr	5000	2	scaled_photograph	660	1340	20	7.74	0.503	3.397	0.59	6.936	250	Eva	5046.03	10.812	68.575	11.919	140.02
-Passer_domesticus	gor_5m_2esc_40gr	5000	2	scaled_photograph	660	1340	40	7.74	0.465	3.258	0.522	6.531	250	Eva	5046.03	12.241	65.774	10.539	131.85
-Passer_domesticus	gor_5m_2esc_60gr	5000	2	scaled_photograph	660	1340	60	7.74	0.357	3.067	0.355	5.692	250	Eva	5046.03	14.402	61.909	7.175	114.899
-Passer_domesticus	gor_5m_3esc_0gr	5000	3	scaled_photograph	950	1340	0	4.46	0.462	3.424	0.586	6.995	250	Eva	5015.19	9.272	68.702	11.751	140.345
-Passer_domesticus	gor_5m_3esc_20gr	5000	3	scaled_photograph	950	1340	20	4.46	0.497	3.342	0.586	6.875	250	Eva	5015.19	10.608	67.057	11.751	137.936
-Passer_domesticus	gor_5m_3esc_40gr	5000	3	scaled_photograph	950	1340	40	4.46	0.46	3.216	0.518	6.442	250	Eva	5015.19	12.05	64.526	10.393	129.25
-Passer_domesticus	gor_5m_3esc_60gr	5000	3	scaled_photograph	950	1340	60	4.46	0.321	2.972	0.367	5.723	250	Eva	5015.19	12.895	59.633	7.37	114.831
-Passer_domesticus	gor_5m_4esc_0gr	5000	4	scaled_photograph	1240	1340	0	1.15	0.467	3.459	0.597	7.048	250	Eva	5001	9.341	69.209	11.935	141.01
-Passer_domesticus	gor_5m_4esc_20gr	5000	4	scaled_photograph	1240	1340	20	1.15	0.5	3.443	0.598	6.899	250	Eva	5001	10.643	68.889	11.956	138.036
-Passer_domesticus	gor_5m_4esc_40gr	5000	4	scaled_photograph	1240	1340	40	1.15	0.443	3.277	0.537	6.461	250	Eva	5001	11.563	65.568	10.744	129.272
-Passer_domesticus	gor_5m_4esc_60gr	5000	4	scaled_photograph	1240	1340	60	1.15	0.323	2.949	0.393	5.437	250	Eva	5001	12.94	59.009	7.866	108.783
-Passer_domesticus	gor_5m_5esc_0gr	5000	5	scaled_photograph	1530	1340	0	2.18	0.465	3.478	0.597	7.069	250	Eva	5003.61	9.312	69.619	11.948	141.505
-Passer_domesticus	gor_5m_5esc_20gr	5000	5	scaled_photograph	1530	1340	20	2.18	0.526	3.354	0.617	6.867	250	Eva	5003.61	11.206	67.141	12.357	137.454
-Passer_domesticus	gor_5m_5esc_40gr	5000	5	scaled_photograph	1530	1340	40	2.18	0.436	3.094	0.558	6.253	250	Eva	5003.61	11.392	61.926	11.179	125.173
-Passer_domesticus	gor_5m_5esc_60gr	5000	5	scaled_photograph	1530	1340	60	2.18	0.321	2.898	0.453	5.437	250	Eva	5003.61	12.838	58.005	9.068	108.833
-Passer_domesticus	gor_5m_6esc_0gr	5000	6	scaled_photograph	1820	1340	0	5.48	0.49	3.369	0.597	6.949	250	Eva	5022.99	9.854	67.709	11.988	139.648
-Passer_domesticus	gor_5m_6esc_20gr	5000	6	scaled_photograph	1820	1340	20	5.48	0.496	3.369	0.581	6.722	250	Eva	5022.99	10.595	67.695	11.666	135.082
-Passer_domesticus	gor_5m_6esc_40gr	5000	6	scaled_photograph	1820	1340	40	5.48	0.397	3.025	0.57	6.031	250	Eva	5022.99	10.401	60.778	11.454	121.188
-Passer_domesticus	gor_5m_6esc_60gr	5000	6	scaled_photograph	1820	1340	60	5.48	0.327	2.742	0.382	5.065	250	Eva	5022.99	13.12	55.092	7.668	101.771
-Passer_domesticus	gor_5m_7esc_0gr	5000	7	scaled_photograph	2110	1340	0	8.75	0.514	3.428	0.662	6.839	235	Eva	5058.94	11.056	73.805	14.257	147.245
-Passer_domesticus	gor_5m_7esc_20gr	5000	7	scaled_photograph	2110	1340	20	8.75	0.546	3.141	0.659	6.619	235	Eva	5058.94	12.498	67.618	14.199	142.514
-Passer_domesticus	gor_5m_7esc_40gr	5000	7	scaled_photograph	2110	1340	40	8.75	0.467	2.791	0.571	5.889	235	Eva	5058.94	13.132	60.097	12.302	126.792
-Passer_domesticus	gor_5m_7esc_60gr	5000	7	scaled_photograph	2110	1340	60	8.75	0.339	2.406	0.492	5	235	Eva	5058.94	14.599	51.801	10.589	107.651
-Passer_domesticus	gor_5m_8esc_0gr	5000	8	scaled_photograph	2400	1340	0	11.97	0.465	3.346	0.605	6.71	235	Eva	5111.13	10.104	72.776	13.154	145.967
-Passer_domesticus	gor_5m_8esc_20gr	5000	8	scaled_photograph	2400	1340	20	11.97	0.476	2.95	0.673	6.171	235	Eva	5111.13	11.028	64.18	14.648	134.226
-Passer_domesticus	gor_5m_8esc_40gr	5000	8	scaled_photograph	2400	1340	40	11.97	0.443	2.626	0.634	5.551	235	Eva	5111.13	12.582	57.129	13.783	120.739
-Passer_domesticus	gor_5m_8esc_60gr	5000	8	scaled_photograph	2400	1340	60	11.97	0.344	2.181	0.462	4.878	235	Eva	5111.13	14.972	47.445	10.054	106.105
-Passer_domesticus	gor_5m_9esc_0gr	5000	9	scaled_photograph	2690	1340	0	15.11	0.486	3.318	0.569	6.716	235	Eva	5179.04	10.711	73.136	12.549	148.027
-Passer_domesticus	gor_5m_9esc_20gr	5000	9	scaled_photograph	2690	1340	20	15.11	0.5	3.316	0.677	6.44	235	Eva	5179.04	11.733	73.084	14.926	141.955
-Passer_domesticus	gor_5m_9esc_40gr	5000	9	scaled_photograph	2690	1340	40	15.11	0.45	2.698	0.632	5.594	235	Eva	5179.04	12.955	59.478	13.936	123.296
-Passer_domesticus	gor_5m_9esc_60gr	5000	9	scaled_photograph	2690	1340	60	15.11	0.331	2.112	0.537	4.387	235	Eva	5179.04	14.571	46.561	11.845	96.698
-Passer_domesticus	gor_5m_10esc_0gr	5000	10	scaled_photograph	2980	1340	0	18.16	0.465	3.22	0.487	6.568	235	Eva	5262.09	10.403	72.123	10.9	147.095
-Passer_domesticus	gor_5m_10esc_20gr	5000	10	scaled_photograph	2980	1340	20	18.16	0.497	2.825	0.673	6.047	235	Eva	5262.09	11.84	63.265	15.066	135.433
-Passer_domesticus	gor_5m_10esc_40gr	5000	10	scaled_photograph	2980	1340	40	18.16	0.386	2.205	0.63	4.799	235	Eva	5262.09	11.293	49.379	14.099	107.48
-Passer_domesticus	gor_5m_10esc_60gr	5000	10	scaled_photograph	2980	1340	60	18.16	0.252	1.73	0.57	3.808	235	Eva	5262.09	11.302	38.739	12.773	85.292
-Passer_domesticus	gor_5m_11esc_0gr	5000	11	scaled_photograph	3270	1340	0	21.11	0.477	3.193	0.509	6.371	235	Eva	5359.56	10.883	72.831	11.621	145.328
-Passer_domesticus	gor_5m_11esc_20gr	5000	11	scaled_photograph	3270	1340	20	21.11	0.443	2.922	0.682	5.941	235	Eva	5359.56	10.764	66.655	15.562	135.506
-Passer_domesticus	gor_5m_11esc_40gr	5000	11	scaled_photograph	3270	1340	40	21.11	0.415	2.486	0.666	4.936	235	Eva	5359.56	12.353	56.702	15.198	112.589
-Passer_domesticus	gor_5m_11esc_60gr	5000	11	scaled_photograph	3270	1340	60	21.11	0.288	1.838	0.575	3.325	235	Eva	5359.56	13.124	41.923	13.111	75.833
-Passer_domesticus	gor_7m_suelo_0gr	7000	0	scaled_photograph	0	1340	0	10.84	0.365	2.481	0.484	4.954	250	Eva	7127.1	10.404	70.752	13.79	141.242
-Passer_domesticus	gor_7m_suelo_20gr	7000	0	scaled_photograph	0	1340	20	10.84	0.344	2.473	0.385	4.873	250	Eva	7127.1	10.432	70.5	10.977	138.934
-Passer_domesticus	gor_7m_suelo_40gr	7000	0	scaled_photograph	0	1340	40	10.84	0.31	2.392	0.305	4.692	250	Eva	7127.1	11.531	68.192	8.699	133.794
-Passer_domesticus	gor_7m_suelo_60gr	7000	0	scaled_photograph	0	1340	60	10.84	0.226	2.246	0.154	4.201	250	Eva	7127.1	12.895	64.031	4.393	119.781
-Passer_domesticus	gor_7m_1esc_0gr	7000	1	scaled_photograph	370	1340	0	7.89	0.352	2.457	0.435	5.075	250	Eva	7066.89	9.941	69.452	12.308	143.471
-Passer_domesticus	gor_7m_1esc_20gr	7000	1	scaled_photograph	370	1340	20	7.89	0.363	2.442	0.435	4.959	250	Eva	7066.89	10.906	69.039	12.308	140.193
-Passer_domesticus	gor_7m_1esc_40gr	7000	1	scaled_photograph	370	1340	40	7.89	0.272	2.283	0.391	4.645	250	Eva	7066.89	10.04	64.548	11.058	131.327
-Passer_domesticus	gor_7m_1esc_60gr	7000	1	scaled_photograph	370	1340	60	7.89	0.258	2.146	0.247	4.118	250	Eva	7066.89	14.613	60.673	6.971	116.423
-Passer_domesticus	gor_7m_2esc_0gr	7000	2	scaled_photograph	660	1340	0	5.55	0.346	2.502	0.44	5.043	250	Eva	7032.95	9.74	70.41	12.392	141.892
-Passer_domesticus	gor_7m_2esc_20gr	7000	2	scaled_photograph	660	1340	20	5.55	0.372	2.447	0.461	4.967	250	Eva	7032.95	11.149	68.841	12.966	139.759
-Passer_domesticus	gor_7m_2esc_40gr	7000	2	scaled_photograph	660	1340	40	5.55	0.31	2.305	0.377	4.573	250	Eva	7032.95	11.391	64.86	10.603	128.668
-Passer_domesticus	gor_7m_2esc_60gr	7000	2	scaled_photograph	660	1340	60	5.55	0.211	2.136	0.262	3.944	250	Eva	7032.95	11.883	60.095	7.378	110.974
-Passer_domesticus	gor_7m_3esc_0gr	7000	3	scaled_photograph	950	1340	0	3.19	0.334	2.51	0.465	5.056	250	Eva	7010.86	9.366	70.399	13.05	141.819
-Passer_domesticus	gor_7m_3esc_20gr	7000	3	scaled_photograph	950	1340	20	3.19	0.368	2.431	0.437	4.831	250	Eva	7010.86	10.972	68.195	12.248	135.485
-Passer_domesticus	gor_7m_3esc_40gr	7000	3	scaled_photograph	950	1340	40	3.19	0.311	2.275	0.405	4.523	250	Eva	7010.86	11.392	63.798	11.371	126.861
-Passer_domesticus	gor_7m_3esc_60gr	7000	3	scaled_photograph	950	1340	60	3.19	0.258	2.075	0.271	3.877	250	Eva	7010.86	14.478	58.208	7.593	108.727
-Passer_domesticus	gor_7m_4esc_0gr	7000	4	scaled_photograph	1240	1340	0	0.82	0.33	2.479	0.517	5.021	250	Eva	7000.71	9.248	69.43	14.479	140.613
-Passer_domesticus	gor_7m_4esc_20gr	7000	4	scaled_photograph	1240	1340	20	0.82	0.373	2.451	0.446	4.791	250	Eva	7000.71	11.128	68.64	12.497	134.193
-Passer_domesticus	gor_7m_4esc_40gr	7000	4	scaled_photograph	1240	1340	40	0.82	0.311	2.288	0.43	4.448	250	Eva	7000.71	11.376	64.087	12.031	124.582
-Passer_domesticus	gor_7m_4esc_60gr	7000	4	scaled_photograph	1240	1340	60	0.82	0.24	2.005	0.279	3.764	250	Eva	7000.71	13.467	56.162	7.801	105.408
-Passer_domesticus	gor_7m_5esc_0gr	7000	5	scaled_photograph	1530	1340	0	1.55	0.346	2.449	0.442	4.937	250	Eva	7002.58	9.688	68.62	12.396	138.307
-Passer_domesticus	gor_7m_5esc_20gr	7000	5	scaled_photograph	1530	1340	20	1.55	0.402	2.378	0.425	4.688	250	Eva	7002.58	11.973	66.61	11.9	131.333
-Passer_domesticus	gor_7m_5esc_40gr	7000	5	scaled_photograph	1530	1340	40	1.55	0.315	2.176	0.384	4.293	250	Eva	7002.58	11.528	60.959	10.747	120.28
-Passer_domesticus	gor_7m_5esc_60gr	7000	5	scaled_photograph	1530	1340	60	1.55	0.221	1.977	0.32	3.753	250	Eva	7002.58	12.403	55.395	8.975	105.131
-Passer_domesticus	gor_7m_6esc_0gr	7000	6	scaled_photograph	1820	1340	0	3.92	0.362	2.477	0.472	4.892	250	Eva	7016.44	10.156	69.519	13.251	137.321
-Passer_domesticus	gor_7m_6esc_20gr	7000	6	scaled_photograph	1820	1340	20	3.92	0.354	2.392	0.481	4.753	250	Eva	7016.44	10.564	67.133	13.499	133.416
-Passer_domesticus	gor_7m_6esc_40gr	7000	6	scaled_photograph	1820	1340	40	3.92	0.313	2.149	0.415	4.293	250	Eva	7016.44	11.476	60.336	11.637	120.499
-Passer_domesticus	gor_7m_6esc_60gr	7000	6	scaled_photograph	1820	1340	60	3.92	0.231	1.947	0.338	3.555	250	Eva	7016.44	12.943	54.646	9.48	99.802
-Passer_domesticus	gor_5m_7esc_20gr	7000	7	scaled_photograph	2110	1340	20	6.28	0.4	2.378	0.521	4.922	250	Eva	7042.22	12	67.006	14.689	138.678
-Passer_domesticus	gor_7m_7esc_0gr	7000	7	scaled_photograph	2110	1340	0	6.28	0.373	2.479	0.482	5.059	250	Eva	7042.22	10.5	69.852	13.577	142.539
-Passer_domesticus	gor_7m_7esc_40gr	7000	7	scaled_photograph	2110	1340	40	6.28	0.369	2.191	0.458	4.464	250	Eva	7042.22	13.557	61.726	12.916	125.771
-Passer_domesticus	gor_7m_7esc_60gr	7000	7	scaled_photograph	2110	1340	60	6.28	0.27	1.803	0.412	3.702	250	Eva	7042.22	15.233	50.793	11.594	104.308
-Passer_domesticus	gor_7m_8esc_0gr	7000	8	scaled_photograph	2400	1340	0	8.61	0.328	2.504	0.492	5.067	250	Eva	7079.8	9.294	70.928	13.929	143.502
-Passer_domesticus	gor_7m_8esc_20gr	7000	8	scaled_photograph	2400	1340	20	8.61	0.381	2.368	0.53	4.861	250	Eva	7079.8	11.49	67.084	14.999	137.694
-Passer_domesticus	gor_7m_8esc_40gr	7000	8	scaled_photograph	2400	1340	40	8.61	0.339	2.059	0.474	4.356	250	Eva	7079.8	12.535	58.308	13.428	123.389
-Passer_domesticus	gor_7m_8esc_60gr	7000	8	scaled_photograph	2400	1340	60	8.61	0.29	1.713	0.351	3.598	250	Eva	7079.8	16.412	48.512	9.951	101.917
-Passer_domesticus	gor_7m_9esc_0gr	7000	9	scaled_photograph	2690	1340	0	10.92	0.363	2.412	0.542	4.977	250	Eva	7128.99	10.358	68.801	15.462	141.958
-Passer_domesticus	gor_7m_9esc_20gr	7000	9	scaled_photograph	2690	1340	20	10.92	0.373	2.312	0.539	4.725	250	Eva	7128.99	11.332	65.94	15.374	134.77
-Passer_domesticus	gor_7m_9esc_40gr	7000	9	scaled_photograph	2690	1340	40	10.92	0.337	2.042	0.472	4.298	250	Eva	7128.99	12.559	58.228	13.463	122.587
-Passer_domesticus	gor_7m_9esc_60gr	7000	9	scaled_photograph	2690	1340	60	10.92	0.271	1.745	0.411	3.659	250	Eva	7128.99	15.459	49.76	11.727	104.352
-Passer_domesticus	gor_7m_10esc_0gr	7000	10	scaled_photograph	2980	1340	0	13.19	0.336	2.411	0.456	4.85	250	Eva	7189.55	9.663	69.356	13.128	139.505
-Passer_domesticus	gor_7m_10esc_20gr	7000	10	scaled_photograph	2980	1340	20	13.19	0.397	2.322	0.499	4.727	250	Eva	7189.55	12.136	66.774	14.36	135.954
-Passer_domesticus	gor_7m_10esc_40gr	7000	10	scaled_photograph	2980	1340	40	13.19	0.34	2.1	0.404	4.416	250	Eva	7189.55	12.781	60.396	11.631	127.013
-Passer_domesticus	gor_7m_10esc_60gr	7000	10	scaled_photograph	2980	1340	60	13.19	0.233	1.579	0.363	3.308	250	Eva	7189.55	13.419	45.419	10.438	95.152
-Passer_domesticus	gor_7m_11esc_0gr	7000	11	scaled_photograph	3270	1340	0	15.41	0.336	2.403	0.442	4.898	250	Eva	7261.19	9.75	69.801	12.834	142.269
-Passer_domesticus	gor_7m_11esc_20gr	7000	11	scaled_photograph	3270	1340	20	15.41	0.333	2.311	0.519	4.655	250	Eva	7261.19	10.291	67.133	15.067	135.234
-Passer_domesticus	gor_7m_11esc_40gr	7000	11	scaled_photograph	3270	1340	40	15.41	0.299	1.861	0.484	3.774	250	Eva	7261.19	11.348	54.062	14.059	109.646
-Passer_domesticus	gor_7m_11esc_60gr	7000	11	scaled_photograph	3270	1340	60	15.41	0.265	1.693	0.426	3.339	250	Eva	7261.19	15.41	49.172	12.389	97.01
-Turdus_rufiventris	zor_escala_	NA	NA	true	NA	NA	NA	NA	NA	NA	NA	NA	NA	Flor	NA	17.301	107.836	39.883	276.465
-Turdus_rufiventris	zor_3m_suelo_0gr	3000	0	scaled_photograph	0	1340	0	24.07	0.835	5.401	1.65	12.92	131	Flor	3285.67	20.943	135.485	41.391	324.101
-Turdus_rufiventris	zor_3m_suelo_20gr	3000	0	scaled_photograph	0	1340	20	24.07	0.625	4.934	1.425	12.482	135	Flor	3285.67	16.188	120.103	34.687	303.837
-Turdus_rufiventris	zor_3m_suelo_40gr	3000	0	scaled_photograph	0	1340	40	24.07	0.696	5.184	1.516	12.722	131	Flor	3285.67	22.788	130.042	38.029	319.134
-Turdus_rufiventris	zor_3m_suelo_60gr	3000	0	scaled_photograph	0	1340	60	24.07	0.457	4.527	1.423	12.524	131	Flor	3285.67	22.924	113.561	35.696	314.168
-Turdus_rufiventris	zor_3m_1esc_0gr	3000	1	scaled_photograph	390	1340	0	17.57	0.88	5.247	1.714	15.762	131	Flor	3146.82	21.139	126.06	41.179	378.685
-Turdus_rufiventris	zor_3m_1esc_20gr	3000	1	scaled_photograph	390	1340	20	17.57	0.833	5.272	1.697	14.83	135	Flor	3146.82	20.663	122.908	39.563	345.737
-Turdus_rufiventris	zor_3m_1esc_40gr	3000	1	scaled_photograph	390	1340	40	17.57	0.752	5.163	2.234	13.281	135	Flor	3146.82	22.882	120.367	52.082	309.625
-Turdus_rufiventris	zor_3m_1esc_60gr	3000	1	scaled_photograph	390	1340	60	17.57	0.568	5.218	1.602	14.207	135	Flor	3146.82	26.48	121.649	37.348	331.213
-Turdus_rufiventris	zor_3m_2esc_0gr	3000	2	scaled_photograph	680	1340	0	12.41	0.887	5.26	1.73	13.165	135	Flor	3071.74	20.182	119.702	39.37	299.597
-Turdus_rufiventris	zor_3m_2esc_20gr	3000	2	scaled_photograph	680	1340	20	12.41	0.919	5.232	1.782	15.403	135	Flor	3071.74	22.253	119.065	40.553	350.528
-Turdus_rufiventris	zor_3m_2esc_40gr	3000	2	scaled_photograph	680	1340	40	12.41	0.95	5.271	1.713	13.262	135	Flor	3071.74	28.218	119.953	38.983	301.805
-Turdus_rufiventris	zor_3m_2esc_60gr	3000	2	scaled_photograph	680	1340	60	12.41	0.77	5.289	1.742	13.351	135	Flor	3071.74	35.041	120.362	39.643	303.83
-Turdus_rufiventris	zor_3m_3esc_0gr	3000	3	scaled_photograph	970	1340	0	7.03	1.012	6.042	1.845	15.318	146	Flor	3022.73	20.952	125.11	38.204	317.187
-Turdus_rufiventris	zor_3m_3esc_20gr	3000	3	scaled_photograph	970	1340	20	7.03	1.02	6.163	1.753	14.816	146	Flor	3022.73	22.473	127.616	36.299	306.792
-Turdus_rufiventris	zor_3m_3esc_40gr	3000	3	scaled_photograph	970	1340	40	7.03	0.839	5.694	1.817	14.187	146	Flor	3022.73	22.675	117.904	37.624	293.767
-Turdus_rufiventris	zor_3m_3esc_60gr	3000	3	scaled_photograph	970	1340	60	7.03	0.571	4.172	1.95	13.342	146	Flor	3022.73	23.644	86.389	40.378	276.27
-Turdus_rufiventris	zor_3m_4esc_0gr	3000	4	scaled_photograph	1260	1340	0	1.53	1.103	6.486	2.096	15.433	154	Flor	3001.07	21.495	126.415	40.852	300.796
-Turdus_rufiventris	zor_3m_4esc_20gr	3000	4	scaled_photograph	1260	1340	20	1.53	0.911	5.816	2.117	14.783	154	Flor	3001.07	18.892	113.356	41.261	288.127
-Turdus_rufiventris	zor_3m_4esc_40gr	3000	4	scaled_photograph	1260	1340	40	1.53	0.715	4.994	1.968	14.147	154	Flor	3001.07	18.189	97.335	38.357	275.731
-Turdus_rufiventris	zor_3m_4esc_60gr	3000	4	scaled_photograph	1260	1340	60	1.53	0.66	3.933	1.921	13.304	154	Flor	3001.07	25.723	76.656	37.441	259.3
-Turdus_rufiventris	zor_3m_5esc_0gr	3000	5	scaled_photograph	1550	1340	0	4	0.985	6.425	1.921	16.278	154	Flor	3007.34	19.235	125.488	37.519	317.928
-Turdus_rufiventris	zor_3m_5esc_20gr	3000	5	scaled_photograph	1550	1340	20	4	0.916	6.108	2.052	13.695	154	Flor	3007.34	19.036	119.296	40.078	267.479
-Turdus_rufiventris	zor_3m_5esc_40gr	3000	5	scaled_photograph	1550	1340	40	4	0.788	4.626	1.886	13.302	154	Flor	3007.34	20.088	90.351	36.836	259.804
-Turdus_rufiventris	zor_3m_5esc_60gr	3000	5	scaled_photograph	1550	1340	60	4	0.598	4.24	2.174	12.395	154	Flor	3007.34	23.356	82.812	42.461	242.089
-Turdus_rufiventris	zor_3m_6esc_0gr	3000	6	scaled_photograph	1840	1340	0	9.46	0.969	6.096	1.89	15.003	154	Flor	3041.38	19.137	120.41	37.332	296.343
-Turdus_rufiventris	zor_3m_6esc_20gr	3000	6	scaled_photograph	1840	1340	20	9.46	0.897	6.337	2.199	14.829	154	Flor	3041.38	18.852	125.17	43.435	292.906
-Turdus_rufiventris	zor_3m_6esc_40gr	3000	6	scaled_photograph	1840	1340	40	9.46	0.942	5.686	1.957	13.656	154	Flor	3041.38	24.286	112.311	38.655	269.737
-Turdus_rufiventris	zor_3m_6esc_60gr	3000	6	scaled_photograph	1840	1340	60	9.46	0.717	4.374	2	12.379	154	Flor	3041.38	28.32	86.396	40.551	244.513
-Turdus_rufiventris	zor_3m_7esc_0gr	3000	7	scaled_photograph	2130	1340	0	14.75	1.125	5.779	1.727	13.436	135	Flor	3102.27	25.852	132.821	39.692	308.804
-Turdus_rufiventris	zor_3m_7esc_20gr	3000	7	scaled_photograph	2130	1340	20	14.75	0.943	5.234	1.575	13.246	135	Flor	3102.27	23.061	120.295	36.199	304.437
-Turdus_rufiventris	zor_3m_7esc_40gr	3000	7	scaled_photograph	2130	1340	40	14.75	0.919	5.392	1.713	12.441	135	Flor	3102.27	27.568	123.926	39.37	285.935
-Turdus_rufiventris	zor_3m_7esc_60gr	3000	7	scaled_photograph	2130	1340	60	14.75	0.862	4.29	1.681	10.781	135	Flor	3102.27	39.617	98.598	38.635	247.783
-Turdus_rufiventris	zor_3m_8esc_0gr	3000	8	scaled_photograph	2420	1340	0	19.8	1.062	5.355	1.35	12.981	135	Flor	3188.48	25.083	126.496	31.89	306.637
-Turdus_rufiventris	zor_3m_8esc_20gr	3000	8	scaled_photograph	2420	1340	20	19.8	0.885	5.393	1.613	12.097	135	Flor	3188.48	22.244	127.393	38.102	285.755
-Turdus_rufiventris	zor_3m_8esc_40gr	3000	8	scaled_photograph	2420	1340	40	19.8	0.885	5.063	1.527	12.771	135	Flor	3188.48	27.286	119.598	36.071	301.676
-Turdus_rufiventris	zor_3m_8esc_60gr	3000	8	scaled_photograph	2420	1340	60	19.8	0.874	4.202	1.462	10.147	135	Flor	3188.48	41.285	99.259	34.535	239.692
-Turdus_rufiventris	zor_3m_9esc_0gr	3000	9	scaled_photograph	2710	1340	0	24.54	0.87	5.082	1.095	12.679	135	Flor	3298.01	21.254	124.171	26.755	309.792
-Turdus_rufiventris	zor_3m_9esc_20gr	3000	9	scaled_photograph	2710	1340	20	24.54	1.048	5.091	1.47	12.031	135	Flor	3298.01	27.245	124.391	35.917	293.959
-Turdus_rufiventris	zor_3m_9esc_40gr	3000	9	scaled_photograph	2710	1340	40	24.54	0.908	4.744	1.4	11.113	135	Flor	3298.01	28.957	115.912	34.207	271.529
-Turdus_rufiventris	zor_3m_9esc_60gr	3000	9	scaled_photograph	2710	1340	60	24.54	1.086	4.636	1.215	10.461	135	Flor	3298.01	53.061	113.274	29.687	255.598
-Turdus_rufiventris	zor_3m_10esc_0gr	3000	10	scaled_photograph	3000	1340	0	28.96	0.866	5.167	1.246	11.844	135	Flor	3428.64	21.994	131.248	31.65	300.852
-Turdus_rufiventris	zor_3m_10esc_20gr	3000	10	scaled_photograph	3000	1340	20	28.96	0.872	4.777	1.182	11.173	135	Flor	3428.64	23.568	121.342	30.024	283.808
-Turdus_rufiventris	zor_3m_10esc_40gr	3000	10	scaled_photograph	3000	1340	40	28.96	0.916	4.493	1.134	10.51	135	Flor	3428.64	30.369	114.128	28.805	266.967
-Turdus_rufiventris	zor_3m_10esc_60gr	3000	10	scaled_photograph	3000	1340	60	28.96	0.801	4.193	1.465	9.905	135	Flor	3428.64	40.687	106.507	37.213	251.599
-Turdus_rufiventris	zor_3m_11esc_0gr	3000	11	scaled_photograph	3290	1340	0	33.02	0.795	4.593	NA	10.518	135	Flor	3578.06	21.071	121.752	NA	278.813
-Turdus_rufiventris	zor_3m_11esc_20gr	3000	11	scaled_photograph	3290	1340	20	33.02	0.823	4.641	1.285	10.684	135	Flor	3578.06	23.213	123.024	34.063	283.213
-Turdus_rufiventris	zor_3m_11esc_40gr	3000	11	scaled_photograph	3290	1340	40	33.02	0.854	4.214	0.781	9.688	135	Flor	3578.06	29.547	111.705	20.703	256.811
-Turdus_rufiventris	zor_3m_11esc_60gr	3000	11	scaled_photograph	3290	1340	60	33.02	0.812	3.88	0.944	9.957	135	Flor	3578.06	43.043	102.852	25.024	263.942
-Turdus_rufiventris	zor_5m_suelo_0gr	5000	0	scaled_photograph	0	1340	0	15	0.88	4.922	1.783	12.996	225	Flor	5176.45	20.246	113.255	41.027	299.037
-Turdus_rufiventris	zor_5m_suelo_20gr	5000	0	scaled_photograph	0	1340	20	15	0.911	5.247	1.806	12.915	225	Flor	5176.45	22.304	120.733	41.556	297.173
-Turdus_rufiventris	zor_5m_suelo_40gr	5000	0	scaled_photograph	0	1340	40	15	0.825	5.01	1.855	12.861	225	Flor	5176.45	24.777	115.28	42.683	295.931
-Turdus_rufiventris	zor_5m_suelo_60gr	5000	0	scaled_photograph	0	1340	60	15	0.706	4.967	1.655	12.969	225	Flor	5176.45	32.485	114.29	38.081	298.416
-Turdus_rufiventris	zor_5m_1esc_0gr	5000	1	scaled_photograph	390	1340	0	10.76	0.821	5.055	1.538	12.738	225	Flor	5089.45	18.571	114.36	34.795	288.175
-Turdus_rufiventris	zor_5m_1esc_20gr	5000	1	scaled_photograph	390	1340	20	10.76	1.03	5.288	1.608	12.691	225	Flor	5089.45	24.794	119.632	36.378	287.111
-Turdus_rufiventris	zor_5m_1esc_40gr	5000	1	scaled_photograph	390	1340	40	10.76	0.782	4.768	1.576	11.979	225	Flor	5089.45	23.091	107.868	35.654	271.004
-Turdus_rufiventris	zor_5m_1esc_60gr	5000	1	scaled_photograph	390	1340	60	10.76	0.733	4.424	1.597	11.31	225	Flor	5089.45	33.161	100.085	36.129	255.869
-Turdus_rufiventris	zor_5m_2esc_0gr	5000	2	scaled_photograph	680	1340	0	7.52	0.904	5.118	1.532	12.718	225	Flor	5043.37	20.263	114.737	34.345	285.117
-Turdus_rufiventris	zor_5m_2esc_20gr	5000	2	scaled_photograph	680	1340	20	7.52	0.838	5.064	1.585	12.519	225	Flor	5043.37	19.989	113.527	35.533	280.656
-Turdus_rufiventris	zor_5m_2esc_40gr	5000	2	scaled_photograph	680	1340	40	7.52	0.857	5.058	1.607	11.955	225	Flor	5043.37	25.076	113.392	36.026	268.012
-Turdus_rufiventris	zor_5m_2esc_60gr	5000	2	scaled_photograph	680	1340	60	7.52	0.794	3.779	1.716	10.294	225	Flor	5043.37	35.595	84.719	38.47	230.775
-Turdus_rufiventris	zor_5m_3esc_0gr	5000	3	scaled_photograph	970	1340	0	4.23	0.879	5.419	1.473	12.69	225	Flor	5013.67	19.587	120.77	32.828	282.814
-Turdus_rufiventris	zor_5m_3esc_20gr	5000	3	scaled_photograph	970	1340	20	4.23	0.805	5.005	1.568	12.31	225	Flor	5013.67	19.089	111.543	34.945	274.345
-Turdus_rufiventris	zor_5m_3esc_40gr	5000	3	scaled_photograph	970	1340	40	4.23	0.728	4.667	1.608	11.248	225	Flor	5013.67	21.176	104.011	35.836	250.677
-Turdus_rufiventris	zor_5m_3esc_60gr	5000	3	scaled_photograph	970	1340	60	4.23	0.521	4.135	1.651	10.498	225	Flor	5013.67	23.219	92.154	36.795	233.962
-Turdus_rufiventris	zor_5m_4esc_0gr	5000	4	scaled_photograph	1260	1340	0	0.92	0.866	5.215	1.473	12.366	225	Flor	5000.64	19.247	115.921	32.743	274.877
-Turdus_rufiventris	zor_5m_4esc_20gr	5000	4	scaled_photograph	1260	1340	20	0.92	0.756	4.917	1.634	11.872	225	Flor	5000.64	17.88	109.297	36.321	263.896
-Turdus_rufiventris	zor_5m_4esc_40gr	5000	4	scaled_photograph	1260	1340	40	0.92	0.768	4.476	1.719	11.382	225	Flor	5000.64	22.282	99.495	38.211	253.004
-Turdus_rufiventris	zor_5m_4esc_60gr	5000	4	scaled_photograph	1260	1340	60	0.92	0.781	4.238	1.64	10.941	225	Flor	5000.64	34.716	94.204	36.455	243.201
-Turdus_rufiventris	zor_5m_5esc_0gr	5000	5	scaled_photograph	1550	1340	0	2.41	0.86	5.246	1.62	12.655	225	Flor	5004.41	19.128	116.698	36.037	281.513
-Turdus_rufiventris	zor_5m_5esc_20gr	5000	5	scaled_photograph	1550	1340	20	2.41	0.806	4.873	1.543	12.157	225	Flor	5004.41	19.077	108.401	34.324	270.435
-Turdus_rufiventris	zor_5m_5esc_40gr	5000	5	scaled_photograph	1550	1340	40	2.41	0.701	4.651	1.573	11.535	225	Flor	5004.41	20.353	103.462	34.992	256.598
-Turdus_rufiventris	zor_5m_5esc_60gr	5000	5	scaled_photograph	1550	1340	60	2.41	0.653	3.913	1.683	10.279	225	Flor	5004.41	29.048	87.045	37.439	228.658
-Turdus_rufiventris	zor_5m_6esc_0gr	5000	6	scaled_photograph	1840	1340	0	5.71	0.837	4.952	1.549	12.578	225	Flor	5024.94	18.693	110.61	34.599	280.948
-Turdus_rufiventris	zor_5m_6esc_20gr	5000	6	scaled_photograph	1840	1340	20	5.71	0.875	4.97	1.651	12.078	225	Flor	5024.94	20.796	111.012	36.877	269.78
-Turdus_rufiventris	zor_5m_6esc_40gr	5000	6	scaled_photograph	1840	1340	40	5.71	0.79	4.502	1.535	11.249	225	Flor	5024.94	23.031	100.559	34.286	251.263
-Turdus_rufiventris	zor_5m_6esc_60gr	5000	6	scaled_photograph	1840	1340	60	5.71	0.714	4	1.608	10.383	225	Flor	5024.94	31.892	89.346	35.917	231.919
-Turdus_rufiventris	zor_5m_7esc_0gr	5000	7	scaled_photograph	2130	1340	0	8.98	0.896	5.589	1.851	13.436	250	Flor	5062.03	18.142	113.184	37.485	272.095
-Turdus_rufiventris	zor_5m_7esc_20gr	5000	7	scaled_photograph	2130	1340	20	8.98	0.981	5.332	1.848	13.107	250	Flor	5062.03	21.138	107.979	37.424	265.432
-Turdus_rufiventris	zor_5m_7esc_40gr	5000	7	scaled_photograph	2130	1340	40	8.98	0.938	5.053	1.755	12.19	250	Flor	5062.03	24.793	102.329	35.541	246.862
-Turdus_rufiventris	zor_5m_7esc_60gr	5000	7	scaled_photograph	2130	1340	60	8.98	0.877	4.248	1.89	10.953	250	Flor	5062.03	35.515	86.027	38.275	221.811
-Turdus_rufiventris	zor_5m_8esc_0gr	5000	8	scaled_photograph	2420	1340	0	12.19	0.952	5.565	NA	13.429	250	Flor	5115.31	19.479	113.884	NA	274.816
-Turdus_rufiventris	zor_5m_8esc_20gr	5000	8	scaled_photograph	2420	1340	20	12.19	1	5.21	NA	12.62	250	Flor	5115.31	21.774	106.619	NA	258.26
-Turdus_rufiventris	zor_5m_8esc_40gr	5000	8	scaled_photograph	2420	1340	40	12.19	0.909	4.99	1.718	11.811	250	Flor	5115.31	24.28	102.117	35.158	241.705
-Turdus_rufiventris	zor_5m_8esc_60gr	5000	8	scaled_photograph	2420	1340	60	12.19	0.936	4.681	1.558	11.435	250	Flor	5115.31	38.303	95.794	31.883	234.01
-Turdus_rufiventris	zor_5m_9esc_0gr	5000	9	scaled_photograph	2710	1340	0	15.32	0.873	5.162	NA	12.816	250	Flor	5184.29	18.104	107.062	NA	265.808
-Turdus_rufiventris	zor_5m_9esc_20gr	5000	9	scaled_photograph	2710	1340	20	15.32	1.044	5.261	1.448	12.249	250	Flor	5184.29	23.039	109.115	30.032	254.048
-Turdus_rufiventris	zor_5m_9esc_40gr	5000	9	scaled_photograph	2710	1340	40	15.32	0.926	4.713	1.379	11.679	250	Flor	5184.29	25.067	97.749	28.601	242.226
-Turdus_rufiventris	zor_5m_9esc_60gr	5000	9	scaled_photograph	2710	1340	60	15.32	0.986	4.308	1.35	10.32	250	Flor	5184.29	40.894	89.349	27.999	214.04
-Turdus_rufiventris	zor_5m_10esc_0gr	5000	10	scaled_photograph	3000	1340	0	18.37	0.952	5.213	NA	12.748	250	Flor	5268.36	20.062	109.873	NA	268.685
-Turdus_rufiventris	zor_5m_10esc_20gr	5000	10	scaled_photograph	3000	1340	20	18.37	1.008	5.209	1.219	12.112	250	Flor	5268.36	22.605	109.788	25.692	255.28
-Turdus_rufiventris	zor_5m_10esc_40gr	5000	10	scaled_photograph	3000	1340	40	18.37	0.957	4.891	NA	11.43	250	Flor	5268.36	26.327	103.086	NA	240.906
-Turdus_rufiventris	zor_5m_10esc_60gr	5000	10	scaled_photograph	3000	1340	60	18.37	0.926	4.127	1.497	10.087	250	Flor	5268.36	39.028	86.983	31.552	212.6
-Turdus_rufiventris	zor_5m_11esc_0gr	5000	11	scaled_photograph	3290	1340	0	21.31	1.006	5.367	1.44	12.698	250	Flor	5366.8	21.596	115.232	30.917	272.632
-Turdus_rufiventris	zor_5m_11esc_20gr	5000	11	scaled_photograph	3290	1340	20	21.31	0.922	4.683	1.518	11.199	250	Flor	5366.8	21.063	100.546	32.592	240.448
-Turdus_rufiventris	zor_5m_11esc_40gr	5000	11	scaled_photograph	3290	1340	40	21.31	0.845	4.255	1.393	10.137	250	Flor	5366.8	23.68	91.357	29.908	217.646
-Turdus_rufiventris	zor_5m_11esc_60gr	5000	11	scaled_photograph	3290	1340	60	21.31	0.748	3.217	NA	7.865	208	Flor	5366.8	38.6	83.017	NA	202.963
-Turdus_rufiventris	zor_7m_suelo_0gr	7000	0	scaled_photograph	0	1340	0	10.84	0.658	3.783	1.322	9.832	250	Flor	7127.1	18.759	107.864	37.694	280.337
-Turdus_rufiventris	zor_7m_suelo_20gr	7000	0	scaled_photograph	0	1340	20	10.84	0.534	3.73	1.384	9.472	250	Flor	7127.1	16.201	106.353	39.462	270.073
-Turdus_rufiventris	zor_7m_suelo_40gr	7000	0	scaled_photograph	0	1340	40	10.84	0.419	3.359	1.288	8.905	250	Flor	7127.1	15.593	95.774	36.724	253.906
-Turdus_rufiventris	zor_7m_suelo_60gr	7000	0	scaled_photograph	0	1340	60	10.84	0.262	3.053	1.105	8.765	250	Flor	7127.1	14.938	87.049	31.507	249.914
-Turdus_rufiventris	zor_7m_1esc_0gr	7000	1	scaled_photograph	390	1340	0	7.73	0.62	3.999	1.275	9.69	250	Flor	7064.17	17.519	113.016	36.033	273.849
-Turdus_rufiventris	zor_7m_1esc_20gr	7000	1	scaled_photograph	390	1340	20	7.73	0.646	4.077	1.285	9.749	250	Flor	7064.17	19.425	115.22	36.315	275.516
-Turdus_rufiventris	zor_7m_1esc_40gr	7000	1	scaled_photograph	390	1340	40	7.73	0.513	3.425	1.218	8.988	250	Flor	7064.17	18.923	96.794	34.422	254.01
-Turdus_rufiventris	zor_7m_1esc_60gr	7000	1	scaled_photograph	390	1340	60	7.73	0.402	3.071	1.155	8.431	250	Flor	7064.17	22.718	86.789	32.641	238.268
-Turdus_rufiventris	zor_7m_2esc_0gr	7000	2	scaled_photograph	680	1340	0	5.39	0.673	3.857	1.187	9.829	250	Flor	7031.05	18.928	108.491	33.388	276.475
-Turdus_rufiventris	zor_7m_2esc_20gr	7000	2	scaled_photograph	680	1340	20	5.39	0.615	3.817	1.221	9.4	250	Flor	7031.05	18.406	107.366	34.345	264.408
-Turdus_rufiventris	zor_7m_2esc_40gr	7000	2	scaled_photograph	680	1340	40	5.39	0.504	3.408	1.256	8.789	250	Flor	7031.05	18.504	95.862	35.329	247.221
-Turdus_rufiventris	zor_7m_2esc_60gr	7000	2	scaled_photograph	680	1340	60	5.39	0.423	3.11	1.211	8.533	250	Flor	7031.05	23.793	87.48	34.064	240.02
-Turdus_rufiventris	zor_7m_3esc_0gr	7000	3	scaled_photograph	970	1340	0	3.03	0.584	3.898	1.228	9.738	250	Flor	7009.77	16.375	109.313	34.437	273.086
-Turdus_rufiventris	zor_7m_3esc_20gr	7000	3	scaled_photograph	970	1340	20	3.03	0.575	3.803	1.303	9.394	250	Flor	7009.77	17.157	106.649	36.54	263.439
-Turdus_rufiventris	zor_7m_3esc_40gr	7000	3	scaled_photograph	970	1340	40	3.03	0.572	3.552	1.283	9.083	250	Flor	7009.77	20.937	99.61	35.98	254.718
-Turdus_rufiventris	zor_7m_3esc_60gr	7000	3	scaled_photograph	970	1340	60	3.03	0.403	2.919	1.315	8.289	250	Flor	7009.77	22.6	81.859	36.877	232.451
-Turdus_rufiventris	zor_7m_4esc_0gr	7000	4	scaled_photograph	1260	1340	0	0.65	0.717	3.979	1.242	9.548	250	Flor	7000.46	20.077	111.436	34.784	267.402
-Turdus_rufiventris	zor_7m_4esc_20gr	7000	4	scaled_photograph	1260	1340	20	0.65	0.686	3.86	1.157	9.221	250	Flor	7000.46	20.442	108.104	32.403	258.244
-Turdus_rufiventris	zor_7m_4esc_40gr	7000	4	scaled_photograph	1260	1340	40	0.65	0.476	3.272	1.228	8.625	250	Flor	7000.46	17.4	91.636	34.391	241.553
-Turdus_rufiventris	zor_7m_4esc_60gr	7000	4	scaled_photograph	1260	1340	60	0.65	0.397	2.731	1.232	7.983	250	Flor	7000.46	22.233	76.485	34.504	223.573
-Turdus_rufiventris	zor_7m_5esc_0gr	7000	5	scaled_photograph	1550	1340	0	1.72	0.687	3.955	1.227	9.557	250	Flor	7003.15	19.245	110.807	34.377	267.757
-Turdus_rufiventris	zor_7m_5esc_20gr	7000	5	scaled_photograph	1550	1340	20	1.72	0.66	3.869	1.243	9.396	250	Flor	7003.15	19.675	108.397	34.825	263.246
-Turdus_rufiventris	zor_7m_5esc_40gr	7000	5	scaled_photograph	1550	1340	40	1.72	0.598	3.548	1.355	9.183	250	Flor	7003.15	21.868	99.404	37.963	257.279
-Turdus_rufiventris	zor_7m_5esc_60gr	7000	5	scaled_photograph	1550	1340	60	1.72	0.495	3.101	1.2	8.259	250	Flor	7003.15	27.732	86.88	33.62	231.391
-Turdus_rufiventris	zor_7m_6esc_0gr	7000	6	scaled_photograph	1840	1340	0	4.09	0.699	4.074	1.23	9.671	250	Flor	7017.83	19.622	114.38	34.533	271.519
-Turdus_rufiventris	zor_7m_6esc_20gr	7000	6	scaled_photograph	1840	1340	20	4.09	0.66	3.925	1.27	9.613	250	Flor	7017.83	19.716	110.197	35.656	269.891
-Turdus_rufiventris	zor_7m_6esc_40gr	7000	6	scaled_photograph	1840	1340	40	4.09	0.632	3.854	1.222	9.398	250	Flor	7017.83	23.159	108.203	34.308	263.855
-Turdus_rufiventris	zor_7m_6esc_60gr	7000	6	scaled_photograph	1840	1340	60	4.09	0.576	3.451	1.279	8.805	250	Flor	7017.83	32.338	96.889	35.909	247.206
-Turdus_rufiventris	zor_7m_7esc_0gr	7000	7	scaled_photograph	2130	1340	0	6.44	0.558	3.503	1.067	8.401	214	Flor	7044.44	18.368	115.329	35.129	276.586
-Turdus_rufiventris	zor_7m_7esc_20gr	7000	7	scaled_photograph	2130	1340	20	6.44	0.523	3.143	1.2	7.955	214	Flor	7044.44	18.321	103.477	39.508	261.902
-Turdus_rufiventris	zor_7m_7esc_40gr	7000	7	scaled_photograph	2130	1340	40	6.44	0.517	3.071	1.227	7.662	214	Flor	7044.44	22.216	101.106	40.396	252.256
-Turdus_rufiventris	zor_7m_7esc_60gr	7000	7	scaled_photograph	2130	1340	60	6.44	0.393	2.547	1.093	6.873	214	Flor	7044.44	25.873	83.855	35.985	226.279
-Turdus_rufiventris	zor_7m_8esc_0gr	7000	8	scaled_photograph	2420	1340	0	8.77	0.586	3.364	0.944	8.299	214	Flor	7082.82	19.395	111.356	31.249	274.716
-Turdus_rufiventris	zor_7m_8esc_20gr	7000	8	scaled_photograph	2420	1340	20	8.77	0.605	3.248	1.054	8.035	214	Flor	7082.82	21.309	107.516	34.89	265.977
-Turdus_rufiventris	zor_7m_8esc_40gr	7000	8	scaled_photograph	2420	1340	40	8.77	0.526	2.968	1.247	7.396	214	Flor	7082.82	22.726	98.248	41.279	244.825
-Turdus_rufiventris	zor_7m_8esc_60gr	7000	8	scaled_photograph	2420	1340	60	8.77	0.471	2.317	1.117	6.219	214	Flor	7082.82	31.178	76.698	36.975	205.864
-Turdus_rufiventris	zor_7m_9esc_0gr	7000	9	scaled_photograph	2710	1340	0	11.07	0.569	3.597	1.096	8.537	214	Flor	7132.8	18.965	119.909	36.536	284.589
-Turdus_rufiventris	zor_7m_9esc_20gr	7000	9	scaled_photograph	2710	1340	20	11.07	0.639	3.437	1.089	8.25	214	Flor	7132.8	22.665	114.576	36.303	275.021
-Turdus_rufiventris	zor_7m_9esc_40gr	7000	9	scaled_photograph	2710	1340	40	11.07	0.586	3.043	1.064	7.564	214	Flor	7132.8	25.497	101.441	35.469	252.153
-Turdus_rufiventris	zor_7m_9esc_60gr	7000	9	scaled_photograph	2710	1340	60	11.07	0.555	2.623	0.861	6.372	214	Flor	7132.8	36.997	87.44	28.702	212.417
-Turdus_rufiventris	zor_7m_10esc_0gr	7000	10	scaled_photograph	3000	1340	0	13.34	0.686	3.715	0.971	9.441	250	Flor	7194.14	19.741	106.921	27.946	271.721
-Turdus_rufiventris	zor_7m_10esc_20gr	7000	10	scaled_photograph	3000	1340	20	13.34	0.719	3.587	1.027	8.558	250	Flor	7194.14	22.018	103.237	29.558	246.307
-Turdus_rufiventris	zor_7m_10esc_40gr	7000	10	scaled_photograph	3000	1340	40	13.34	0.642	3.088	1.058	7.248	250	Flor	7194.14	24.117	88.876	30.45	208.604
-Turdus_rufiventris	zor_7m_10esc_60gr	7000	10	scaled_photograph	3000	1340	60	13.34	0.627	3.148	1.272	7.772	250	Flor	7194.14	36.086	90.602	36.609	223.685
-Turdus_rufiventris	zor_7m_11esc_0gr	7000	11	scaled_photograph	3290	1340	0	15.57	0.645	3.776	1.064	9.394	250	Flor	7266.53	18.748	109.77	30.931	273.089
-Turdus_rufiventris	zor_7m_11esc_20gr	7000	11	scaled_photograph	3290	1340	20	15.57	0.679	3.781	1.179	9.352	250	Flor	7266.53	21.003	109.916	34.274	271.868
-Turdus_rufiventris	zor_7m_11esc_40gr	7000	11	scaled_photograph	3290	1340	40	15.57	0.625	3.522	1.186	8.67	250	Flor	7266.53	23.714	102.387	34.478	252.042
-Turdus_rufiventris	zor_7m_11esc_60gr	7000	11	scaled_photograph	3290	1340	60	15.57	0.634	3.303	1.034	7.883	250	Flor	7266.53	36.856	96.02	30.059	229.163
+bird_species	photoID	horiz_dist_mm	escalon	measurement	height_mm	camera_height_mm	angle_degrees	angle_height	bill_length_sensor	wing_length_sensor	tarsus_length_sensor	body_length_sensor	focal_dist_mm	measuredBy	dist_bird_mm
+Colaptes_campestris	car_escala	NA	NA	true	NA	NA	NA	NA	NA	NA	NA	NA	NA	Flor	NA
+Colaptes_campestris	car_3m_suelo_0gr	3000	0	scaled_photograph	0	1340	0	24.07	1.159	6.038	NA	14.077	100	Flor	3285.67
+Colaptes_campestris	car_3m_suelo_20gr	3000	0	scaled_photograph	0	1340	20	24.07	1.118	5.825	1.151	13.594	100	Flor	3285.67
+Colaptes_campestris	car_3m_suelo_40gr	3000	0	scaled_photograph	0	1340	40	24.07	0.889	5.41	1.152	12.402	100	Flor	3285.67
+Colaptes_campestris	car_3m_suelo_60gr	3000	0	scaled_photograph	0	1340	60	24.07	0.799	4.863	1.266	11.687	100	Flor	3285.67
+Colaptes_campestris	car_3m_1esc_0gr	3000	1	scaled_photograph	480	1340	0	16	1.213	6.841	NA	15.968	100	Flor	3120.83
+Colaptes_campestris	car_3m_1esc_20gr	3000	1	scaled_photograph	480	1340	20	16	1.171	7.168	1.167	14.519	96	Flor	3120.83
+Colaptes_campestris	car_3m_1esc_40gr	3000	1	scaled_photograph	480	1340	40	16	1.062	7.268	1.194	13.733	96	Flor	3120.83
+Colaptes_campestris	car_3m_1esc_60gr	3000	1	scaled_photograph	480	1340	60	16	0.904	5.471	1.24	13.114	96	Flor	3120.83
+Colaptes_campestris	car_3m_2esc_0gr	3000	2	scaled_photograph	770	1340	0	10.76	1.24	6.661	NA	15.838	96	Flor	3053.67
+Colaptes_campestris	car_3m_2esc_20gr	3000	2	scaled_photograph	770	1340	20	10.76	1.224	6.556	1.287	15.674	96	Flor	3053.67
+Colaptes_campestris	car_3m_2esc_40gr	3000	2	scaled_photograph	770	1340	40	10.76	1.089	6.328	1.315	14.427	96	Flor	3053.67
+Colaptes_campestris	car_3m_2esc_60gr	3000	2	scaled_photograph	770	1340	60	10.76	0.826	5.871	1.296	13.769	96	Flor	3053.67
+Colaptes_campestris	car_3m_3esc_0gr	3000	3	scaled_photograph	1060	1340	0	5.33	1.225	6.671	NA	15.823	96	Flor	3013.04
+Colaptes_campestris	car_3m_3esc_20gr	3000	3	scaled_photograph	1060	1340	20	5.33	1.208	6.857	1.331	15.623	96	Flor	3013.04
+Colaptes_campestris	car_3m_3esc_40gr	3000	3	scaled_photograph	1060	1340	40	5.33	0.988	6.496	1.359	14.576	96	Flor	3013.04
+Colaptes_campestris	car_3m_3esc_60gr	3000	3	scaled_photograph	1060	1340	60	5.33	0.691	6.254	1.359	13.621	96	Flor	3013.04
+Colaptes_campestris	car_3m_4esc_0gr	3000	4	scaled_photograph	1350	1340	0	0.19	1.188	6.746	NA	15.949	96	Flor	3000.02
+Colaptes_campestris	car_3m_4esc_20gr	3000	4	scaled_photograph	1350	1340	20	0.19	1.084	6.828	1.22	15.627	96	Flor	3000.02
+Colaptes_campestris	car_3m_4esc_40gr	3000	4	scaled_photograph	1350	1340	40	0.19	0.9	6.664	1.36	14.444	96	Flor	3000.02
+Colaptes_campestris	car_3m_4esc_60gr	3000	4	scaled_photograph	1350	1340	60	0.19	0.602	6.356	1.439	14.414	96	Flor	3000.02
+Colaptes_campestris	car_3m_5esc_0gr	3000	5	scaled_photograph	1640	1340	0	5.71	1.161	6.88	NA	18	96	Flor	3014.96
+Colaptes_campestris	car_3m_5esc_20gr	3000	5	scaled_photograph	1640	1340	20	5.71	1	6.774	1.526	15.704	96	Flor	3014.96
+Colaptes_campestris	car_3m_5esc_40gr	3000	5	scaled_photograph	1640	1340	40	5.71	1.036	6.675	1.498	14.167	96	Flor	3014.96
+Colaptes_campestris	car_3m_5esc_60gr	3000	5	scaled_photograph	1640	1340	60	5.71	0.488	6.495	1.434	14.625	96	Flor	3014.96
+Colaptes_campestris	car_3m_6esc_0gr	3000	6	scaled_photograph	1930	1340	0	11.13	1.079	6.225	NA	16.647	96	Flor	3057.47
+Colaptes_campestris	car_3m_6esc_20gr	3000	6	scaled_photograph	1930	1340	20	11.13	0.964	6.344	NA	16.177	96	Flor	3057.47
+Colaptes_campestris	car_3m_6esc_40gr	3000	6	scaled_photograph	1930	1340	40	11.13	0.849	6.332	1.343	14.242	96	Flor	3057.47
+Colaptes_campestris	car_3m_6esc_60gr	3000	6	scaled_photograph	1930	1340	60	11.13	0.476	6.112	1.236	12.25	96	Flor	3057.47
+Colaptes_campestris	car_3m_7esc_0gr	3000	7	scaled_photograph	2220	1340	0	16.35	1.072	5.417	NA	17.151	109	Flor	3126.4
+Colaptes_campestris	car_3m_7esc_20gr	3000	7	scaled_photograph	2220	1340	20	16.35	1.077	5.848	1.117	13.799	109	Flor	3126.4
+Colaptes_campestris	car_3m_7esc_40gr	3000	7	scaled_photograph	2220	1340	40	16.35	0.828	6.055	1.262	14.506	109	Flor	3126.4
+Colaptes_campestris	car_3m_7esc_60gr	3000	7	scaled_photograph	2220	1340	60	16.35	0.698	6.087	1.286	12.161	109	Flor	3126.4
+Colaptes_campestris	car_3m_8esc_0gr	3000	8	scaled_photograph	2510	1340	0	21.31	1.007	5.267	NA	13.068	109	Flor	3220.08
+Colaptes_campestris	car_3m_8esc_20gr	3000	8	scaled_photograph	2510	1340	20	21.31	0.964	5.734	NA	13.793	109	Flor	3220.08
+Colaptes_campestris	car_3m_8esc_40gr	3000	8	scaled_photograph	2510	1340	40	21.31	0.746	5.855	1.24	12.48	109	Flor	3220.08
+Colaptes_campestris	car_3m_8esc_60gr	3000	8	scaled_photograph	2510	1340	60	21.31	0.442	5.704	1.294	11.826	109	Flor	3220.08
+Colaptes_campestris	car_3m_9esc_0gr	3000	9	scaled_photograph	2800	1340	0	25.95	0.97	5.046	NA	11.932	109	Flor	3336.41
+Colaptes_campestris	car_3m_9esc_20gr	3000	9	scaled_photograph	2800	1340	20	25.95	0.958	5.154	0.968	12.213	109	Flor	3336.41
+Colaptes_campestris	car_3m_9esc_40gr	3000	9	scaled_photograph	2800	1340	40	25.95	0.761	5.504	1.208	11.927	109	Flor	3336.41
+Colaptes_campestris	car_3m_9esc_60gr	3000	9	scaled_photograph	2800	1340	60	25.95	0.772	5.512	1.223	12.241	109	Flor	3336.41
+Colaptes_campestris	car_3m_10esc_0gr	3000	10	scaled_photograph	3090	1340	0	30.26	0.983	5.054	NA	12.287	109	Flor	3473.11
+Colaptes_campestris	car_3m_10esc_20gr	3000	10	scaled_photograph	3090	1340	20	30.26	0.897	5.237	1.066	11.073	109	Flor	3473.11
+Colaptes_campestris	car_3m_10esc_40gr	3000	10	scaled_photograph	3090	1340	40	30.26	0.764	5.451	1.223	11.749	109	Flor	3473.11
+Colaptes_campestris	car_3m_10esc_60gr	3000	10	scaled_photograph	3090	1340	60	30.26	0.695	5.603	1.183	10.127	109	Flor	3473.11
+Colaptes_campestris	car_3m_11esc_0gr	3000	11	scaled_photograph	3380	1340	0	34.22	0.933	4.557	NA	10.889	109	Flor	3627.89
+Colaptes_campestris	car_3m_11esc_20gr	3000	11	scaled_photograph	3380	1340	20	34.22	0.896	4.453	NA	NA	109	Flor	3627.89
+Colaptes_campestris	car_3m_11esc_40gr	3000	11	scaled_photograph	3380	1340	40	34.22	0.874	4.818	1.016	9.545	109	Flor	3627.89
+Colaptes_campestris	car_3m_11esc_60gr	3000	11	scaled_photograph	3380	1340	60	34.22	0.731	5.254	1.128	9.457	109	Flor	3627.89
+Colaptes_campestris	car_5m_suelo_0gr	5000	0	scaled_photograph	0	1340	0	15	0.847	5.037	NA	11.748	154	Flor	5176.45
+Colaptes_campestris	car_5m_suelo_20gr	5000	0	scaled_photograph	0	1340	20	15	0.861	4.876	1.001	11.12	154	Flor	5176.45
+Colaptes_campestris	car_5m_suelo_40gr	5000	0	scaled_photograph	0	1340	40	15	0.743	4.699	1.046	10.492	154	Flor	5176.45
+Colaptes_campestris	car_5m_suelo_60gr	5000	0	scaled_photograph	0	1340	60	15	0.526	4.342	1.088	10.01	154	Flor	5176.45
+Colaptes_campestris	car_5m_1esc_0gr	5000	1	scaled_photograph	480	1340	0	9.76	0.931	5.216	NA	12.342	154	Flor	5073.42
+Colaptes_campestris	car_5m_1esc_20gr	5000	1	scaled_photograph	480	1340	20	9.76	0.942	5.178	0.898	12.196	154	Flor	5073.42
+Colaptes_campestris	car_5m_1esc_40gr	5000	1	scaled_photograph	480	1340	40	9.76	0.916	5.281	1.118	11.794	154	Flor	5073.42
+Colaptes_campestris	car_5m_1esc_60gr	5000	1	scaled_photograph	480	1340	60	9.76	0.725	5.119	1.096	11.106	154	Flor	5073.42
+Colaptes_campestris	car_5m_2esc_0gr	5000	2	scaled_photograph	770	1340	0	6.5	0.93	5.241	NA	12.415	154	Flor	5032.39
+Colaptes_campestris	car_5m_2esc_20gr	5000	2	scaled_photograph	770	1340	20	6.5	0.945	5.195	NA	12.231	154	Flor	5032.39
+Colaptes_campestris	car_5m_2esc_40gr	5000	2	scaled_photograph	770	1340	40	6.5	0.919	5.305	1.023	11.973	154	Flor	5032.39
+Colaptes_campestris	car_5m_2esc_60gr	5000	2	scaled_photograph	770	1340	60	6.5	0.728	5.16	1.1	11.231	154	Flor	5032.39
+Colaptes_campestris	car_5m_3esc_0gr	5000	3	scaled_photograph	1060	1340	0	3.21	1.011	5.515	NA	12.989	154	Flor	5007.83
+Colaptes_campestris	car_5m_3esc_20gr	5000	3	scaled_photograph	1060	1340	20	3.21	0.89	5.098	0.788	11.978	154	Flor	5007.83
+Colaptes_campestris	car_5m_3esc_40gr	5000	3	scaled_photograph	1060	1340	40	3.21	0.839	5.21	0.966	11.668	154	Flor	5007.83
+Colaptes_campestris	car_5m_3esc_60gr	5000	3	scaled_photograph	1060	1340	60	3.21	0.632	5.259	1.053	10.928	154	Flor	5007.83
+Colaptes_campestris	car_5m_4esc_0gr	5000	4	scaled_photograph	1350	1340	0	0.11	0.981	5.411	NA	12.959	154	Flor	5000.01
+Colaptes_campestris	car_5m_4esc_20gr	5000	4	scaled_photograph	1350	1340	20	0.11	0.991	5.495	NA	12.75	154	Flor	5000.01
+Colaptes_campestris	car_5m_4esc_40gr	5000	4	scaled_photograph	1350	1340	40	0.11	0.911	5.556	1.099	12.124	154	Flor	5000.01
+Colaptes_campestris	car_5m_4esc_60gr	5000	4	scaled_photograph	1350	1340	60	0.11	0.723	5.385	1.127	11.722	154	Flor	5000.01
+Colaptes_campestris	car_5m_5esc_0gr	5000	5	scaled_photograph	1640	1340	0	3.43	0.995	5.325	NA	12.938	154	Flor	5008.99
+Colaptes_campestris	car_5m_5esc_20gr	5000	5	scaled_photograph	1640	1340	20	3.43	0.977	5.443	NA	12.79	154	Flor	5008.99
+Colaptes_campestris	car_5m_5esc_40gr	5000	5	scaled_photograph	1640	1340	40	3.43	0.916	5.481	1.059	12.465	154	Flor	5008.99
+Colaptes_campestris	car_5m_5esc_60gr	5000	5	scaled_photograph	1640	1340	60	3.43	0.745	5.439	1.142	11.678	154	Flor	5008.99
+Colaptes_campestris	car_5m_6esc_0gr	5000	6	scaled_photograph	1930	1340	0	6.73	0.922	5.069	NA	12.252	154	Flor	5034.69
+Colaptes_campestris	car_5m_6esc_20gr	5000	6	scaled_photograph	1930	1340	20	6.73	0.954	5.208	NA	12.334	154	Flor	5034.69
+Colaptes_campestris	car_5m_6esc_40gr	5000	6	scaled_photograph	1930	1340	40	6.73	0.814	5.313	1.088	11.72	154	Flor	5034.69
+Colaptes_campestris	car_5m_6esc_60gr	5000	6	scaled_photograph	1930	1340	60	6.73	0.618	5.336	1.011	11.135	154	Flor	5034.69
+Colaptes_campestris	car_5m_7esc_0gr	5000	7	scaled_photograph	2220	1340	0	9.98	0.904	4.983	NA	12.395	154	Flor	5076.85
+Colaptes_campestris	car_5m_7esc_20gr	5000	7	scaled_photograph	2220	1340	20	9.98	1.15	6.293	NA	14.886	194	Flor	5076.85
+Colaptes_campestris	car_5m_7esc_40gr	5000	7	scaled_photograph	2220	1340	40	9.98	0.995	6.484	1.294	14.085	194	Flor	5076.85
+Colaptes_campestris	car_5m_7esc_60gr	5000	7	scaled_photograph	2220	1340	60	9.98	0.742	6.405	1.277	13.466	194	Flor	5076.85
+Colaptes_campestris	car_5m_8esc_0gr	5000	8	scaled_photograph	2510	1340	0	13.17	1.104	5.906	NA	15.222	194	Flor	5135.07
+Colaptes_campestris	car_5m_8esc_20gr	5000	8	scaled_photograph	2510	1340	20	13.17	1.077	6.348	1.159	14.849	194	Flor	5135.07
+Colaptes_campestris	car_5m_8esc_40gr	5000	8	scaled_photograph	2510	1340	40	13.17	1.026	6.554	1.347	14.356	194	Flor	5135.07
+Colaptes_campestris	car_5m_8esc_60gr	5000	8	scaled_photograph	2510	1340	60	13.17	0.944	6.519	1.298	13.729	194	Flor	5135.07
+Colaptes_campestris	car_5m_9esc_0gr	5000	9	scaled_photograph	2800	1340	0	16.28	1.123	5.826	NA	15.044	194	Flor	5208.8
+Colaptes_campestris	car_5m_9esc_20gr	5000	9	scaled_photograph	2800	1340	20	16.28	1.132	6.186	1.16	14.814	194	Flor	5208.8
+Colaptes_campestris	car_5m_9esc_40gr	5000	9	scaled_photograph	2800	1340	40	16.28	0.88	6.521	1.269	13.584	194	Flor	5208.8
+Colaptes_campestris	car_5m_9esc_60gr	5000	9	scaled_photograph	2800	1340	60	16.28	0.719	6.468	1.315	13.088	194	Flor	5208.8
+Colaptes_campestris	car_5m_10esc_0gr	5000	10	scaled_photograph	3090	1340	0	19.29	1.15	6.138	NA	16.355	214	Flor	5297.41
+Colaptes_campestris	car_5m_10esc_20gr	5000	10	scaled_photograph	3090	1340	20	19.29	1.264	6.874	NA	16.236	214	Flor	5297.41
+Colaptes_campestris	car_5m_10esc_40gr	5000	10	scaled_photograph	3090	1340	40	19.29	1.069	6.995	1.47	14.924	214	Flor	5297.41
+Colaptes_campestris	car_5m_10esc_60gr	5000	10	scaled_photograph	3090	1340	60	19.29	0.914	7.112	1.529	15.019	214	Flor	5297.41
+Colaptes_campestris	car_5m_11esc_0gr	5000	11	scaled_photograph	3380	1340	0	22.2	1.237	6.626	NA	16.382	214	Flor	5400.15
+Colaptes_campestris	car_5m_11esc_20gr	5000	11	scaled_photograph	3380	1340	20	22.2	1.251	6.921	1.339	16.303	214	Flor	5400.15
+Colaptes_campestris	car_5m_11esc_40gr	5000	11	scaled_photograph	3380	1340	40	22.2	1.151	6.972	1.483	15.47	214	Flor	5400.15
+Colaptes_campestris	car_5m_11esc_60gr	5000	11	scaled_photograph	3380	1340	60	22.2	0.953	7.08	1.382	14.708	214	Flor	5400.15
+Colaptes_campestris	car_7m_suelo_0gr	7000	0	scaled_photograph	0	1340	0	10.84	0.967	5.229	NA	12.251	208	Flor	7127.1
+Colaptes_campestris	car_7m_suelo_20gr	7000	0	scaled_photograph	0	1340	20	10.84	0.911	5.181	1.052	11.743	208	Flor	7127.1
+Colaptes_campestris	car_7m_suelo_40gr	7000	0	scaled_photograph	0	1340	40	10.84	0.749	5.017	1.154	11.161	208	Flor	7127.1
+Colaptes_campestris	car_7m_suelo_60gr	7000	0	scaled_photograph	0	1340	60	10.84	0.542	4.67	1.129	10.505	208	Flor	7127.1
+Colaptes_campestris	car_7m_1esc_0gr	7000	1	scaled_photograph	480	1340	0	7	0.937	4.984	NA	11.948	208	Flor	7052.63
+Colaptes_campestris	car_7m_1esc_20gr	7000	1	scaled_photograph	480	1340	20	7	0.911	5.083	1.042	11.741	208	Flor	7052.63
+Colaptes_campestris	car_7m_1esc_40gr	7000	1	scaled_photograph	480	1340	40	7	0.724	5.187	1.101	11.149	208	Flor	7052.63
+Colaptes_campestris	car_7m_1esc_60gr	7000	1	scaled_photograph	480	1340	60	7	0.426	5.044	1.075	10.263	208	Flor	7052.63
+Colaptes_campestris	car_7m_2esc_0gr	7000	2	scaled_photograph	770	1340	0	4.66	0.979	5.024	NA	12.338	208	Flor	7023.17
+Colaptes_campestris	car_7m_2esc_20gr	7000	2	scaled_photograph	770	1340	20	4.66	0.939	5.213	NA	12.645	208	Flor	7023.17
+Colaptes_campestris	car_7m_2esc_40gr	7000	2	scaled_photograph	770	1340	40	4.66	0.768	5.353	1.099	11.724	208	Flor	7023.17
+Colaptes_campestris	car_7m_2esc_60gr	7000	2	scaled_photograph	770	1340	60	4.66	0.592	5.282	1.212	11.057	208	Flor	7023.17
+Colaptes_campestris	car_7m_3esc_0gr	7000	3	scaled_photograph	1060	1340	0	2.29	0.974	5.355	NA	15.245	208	Flor	7005.6
+Colaptes_campestris	car_7m_3esc_20gr	7000	3	scaled_photograph	1060	1340	20	2.29	0.961	5.362	NA	14.974	208	Flor	7005.6
+Colaptes_campestris	car_7m_3esc_40gr	7000	3	scaled_photograph	1060	1340	40	2.29	0.815	6.087	1.263	13.542	208	Flor	7005.6
+Colaptes_campestris	car_7m_3esc_60gr	7000	3	scaled_photograph	1060	1340	60	2.29	0.861	5.36	1.265	13.201	208	Flor	7005.6
+Colaptes_campestris	car_7m_4esc_0gr	7000	4	scaled_photograph	1350	1340	0	0.08	0.963	5.34	NA	14.531	208	Flor	7000.01
+Colaptes_campestris	car_7m_4esc_20gr	7000	4	scaled_photograph	1350	1340	20	0.08	0.949	5.352	0.678	16.12	208	Flor	7000.01
+Colaptes_campestris	car_7m_4esc_40gr	7000	4	scaled_photograph	1350	1340	40	0.08	0.889	5.392	1.155	13.436	208	Flor	7000.01
+Colaptes_campestris	car_7m_4esc_60gr	7000	4	scaled_photograph	1350	1340	60	0.08	0.683	5.258	1.153	13.521	208	Flor	7000.01
+Colaptes_campestris	car_7m_5esc_0gr	7000	5	scaled_photograph	1640	1340	0	2.45	0.948	5.274	NA	14.715	208	Flor	7006.43
+Colaptes_campestris	car_7m_5esc_20gr	7000	5	scaled_photograph	1640	1340	20	2.45	0.956	5.293	NA	14.154	208	Flor	7006.43
+Colaptes_campestris	car_7m_5esc_40gr	7000	5	scaled_photograph	1640	1340	40	2.45	0.86	5.463	1.233	13.236	208	Flor	7006.43
+Colaptes_campestris	car_7m_5esc_60gr	7000	5	scaled_photograph	1640	1340	60	2.45	0.64	5.258	1.201	11.407	208	Flor	7006.43
+Colaptes_campestris	car_7m_6esc_0gr	7000	6	scaled_photograph	1930	1340	0	4.82	1.016	5.19	NA	14.382	208	Flor	7024.82
+Colaptes_campestris	car_7m_6esc_20gr	7000	6	scaled_photograph	1930	1340	20	4.82	0.924	5.295	NA	12.46	208	Flor	7024.82
+Colaptes_campestris	car_7m_6esc_40gr	7000	6	scaled_photograph	1930	1340	40	4.82	0.818	5.399	1.126	13.73	208	Flor	7024.82
+Colaptes_campestris	car_7m_6esc_60gr	7000	6	scaled_photograph	1930	1340	60	4.82	0.632	5.276	1.147	14.122	208	Flor	7024.82
+Colaptes_campestris	car_7m_7esc_0gr	7000	7	scaled_photograph	2220	1340	0	7.17	0.972	6.156	NA	14.664	250	Flor	7055.1
+Colaptes_campestris	car_7m_7esc_20gr	7000	7	scaled_photograph	2220	1340	20	7.17	1.113	6.109	1.329	14.691	250	Flor	7055.1
+Colaptes_campestris	car_7m_7esc_40gr	7000	7	scaled_photograph	2220	1340	40	7.17	1.014	6.176	1.345	13.814	250	Flor	7055.1
+Colaptes_campestris	car_7m_7esc_60gr	7000	7	scaled_photograph	2220	1340	60	7.17	0.86	6.092	1.335	13.787	250	Flor	7055.1
+Colaptes_campestris	car_7m_8esc_0gr	7000	8	scaled_photograph	2510	1340	0	9.49	1.024	5.877	NA	14.731	250	Flor	7097.11
+Colaptes_campestris	car_7m_8esc_20gr	7000	8	scaled_photograph	2510	1340	20	9.49	1.082	5.895	1.384	15.161	250	Flor	7097.11
+Colaptes_campestris	car_7m_8esc_40gr	7000	8	scaled_photograph	2510	1340	40	9.49	0.964	5.91	1.375	13.688	250	Flor	7097.11
+Colaptes_campestris	car_7m_8esc_60gr	7000	8	scaled_photograph	2510	1340	60	9.49	0.861	5.944	1.266	13.27	250	Flor	7097.11
+Colaptes_campestris	car_7m_9esc_0gr	7000	9	scaled_photograph	2800	1340	0	11.78	0.914	6.139	NA	15.945	250	Flor	7150.64
+Colaptes_campestris	car_7m_9esc_20gr	7000	9	scaled_photograph	2800	1340	20	11.78	1.12	6.095	1.256	14.131	250	Flor	7150.64
+Colaptes_campestris	car_7m_9esc_40gr	7000	9	scaled_photograph	2800	1340	40	11.78	1.053	6.073	1.365	16.061	250	Flor	7150.64
+Colaptes_campestris	car_7m_9esc_60gr	7000	9	scaled_photograph	2800	1340	60	11.78	1.028	5.984	1.311	13.762	250	Flor	7150.64
+Colaptes_campestris	car_7m_10esc_0gr	7000	10	scaled_photograph	3090	1340	0	14.04	1.049	5.995	NA	14.136	250	Flor	7215.43
+Colaptes_campestris	car_7m_10esc_20gr	7000	10	scaled_photograph	3090	1340	20	14.04	1.111	6.03	1.187	14.564	250	Flor	7215.43
+Colaptes_campestris	car_7m_10esc_40gr	7000	10	scaled_photograph	3090	1340	40	14.04	1.062	5.973	1.294	15.227	250	Flor	7215.43
+Colaptes_campestris	car_7m_10esc_60gr	7000	10	scaled_photograph	3090	1340	60	14.04	1.058	5.97	1.346	15.709	250	Flor	7215.43
+Colaptes_campestris	car_7m_11esc_0gr	7000	11	scaled_photograph	3380	1340	0	16.25	0.993	5.939	NA	13.875	250	Flor	7291.2
+Colaptes_campestris	car_7m_11esc_20gr	7000	11	scaled_photograph	3380	1340	20	16.25	1.038	5.807	1.251	14.568	250	Flor	7291.2
+Colaptes_campestris	car_7m_11esc_40gr	7000	11	scaled_photograph	3380	1340	40	16.25	1.004	5.883	NA	13.581	250	Flor	7291.2
+Colaptes_campestris	car_7m_11esc_60gr	7000	11	scaled_photograph	3380	1340	60	16.25	0.92	5.879	1.255	1.648	250	Flor	7291.2
+Milvago_chimango	ch_escala	NA	NA	true	NA	NA	NA	NA	NA	NA	NA	NA	NA	Eva	NA
+Milvago_chimango	ch_3m_suelo_0gr	3000	0	scaled_photograph	0	1340	0	24.07	0.893	8.586	1.98	13.175	100	Eva	3285.67
+Milvago_chimango	ch_3m_suelo_20gr	3000	0	scaled_photograph	0	1340	20	24.07	0.847	9.651	1.896	14.027	100	Eva	3285.67
+Milvago_chimango	ch_3m_suelo_40gr	3000	0	scaled_photograph	0	1340	40	24.07	0.779	10.499	1.728	14.399	100	Eva	3285.67
+Milvago_chimango	ch_3m_suelo_60gr	3000	0	scaled_photograph	0	1340	60	24.07	0.61	10.741	1.597	14.184	100	Eva	3285.67
+Milvago_chimango	ch_3m_1esc_0gr	3000	1	scaled_photograph	440	1340	0	16.7	0.839	10.527	2.186	14.832	100	Eva	3132.09
+Milvago_chimango	ch_3m_1esc_20gr	3000	1	scaled_photograph	440	1340	20	16.7	0.732	10.291	2.102	15.023	100	Eva	3132.09
+Milvago_chimango	ch_3m_1esc_40gr	3000	1	scaled_photograph	440	1340	40	16.7	0.568	11.1	2.051	14.715	100	Eva	3132.09
+Milvago_chimango	ch_3m_1esc_60gr	3000	1	scaled_photograph	440	1340	60	16.7	0.474	10.908	1.795	13.725	100	Eva	3132.09
+Milvago_chimango	ch_3m_2esc_0gr	3000	2	scaled_photograph	730	1340	0	11.49	0.93	9.961	2.311	15.422	100	Eva	3061.39
+Milvago_chimango	ch_3m_2esc_20gr	3000	2	scaled_photograph	730	1340	20	11.49	0.788	10.508	2.328	15.523	100	Eva	3061.39
+Milvago_chimango	ch_3m_2esc_40_gr	3000	2	scaled_photograph	730	1340	40	11.49	0.71	10.74	2.165	15.454	100	Eva	3061.39
+Milvago_chimango	ch_3m_2esc_60gr	3000	2	scaled_photograph	730	1340	60	11.49	0.553	11.001	1.965	14.449	100	Eva	3061.39
+Milvago_chimango	ch_3m_3esc_0gr	3000	3	scaled_photograph	1020	1340	0	6.09	0.951	10.845	2.701	16.067	100	Eva	3017.02
+Milvago_chimango	ch_3m_3esc_20gr	3000	3	scaled_photograph	1020	1340	20	6.09	0.877	11.237	2.391	16.235	100	Eva	3017.02
+Milvago_chimango	ch_3m_3esc_40gr	3000	3	scaled_photograph	1020	1340	40	6.09	0.718	11.422	2.316	16.057	100	Eva	3017.02
+Milvago_chimango	ch_3m_3esc_60gr	3000	3	scaled_photograph	1020	1340	0	6.09	0.5	11.197	1.92	14.691	100	Eva	3017.02
+Milvago_chimango	ch_3m_4esc_0gr	3000	4	scaled_photograph	1310	1340	0	0.57	0.878	10.156	2.478	15.168	100	Eva	3000.15
+Milvago_chimango	ch_3m_4esc_20gr	3000	4	scaled_photograph	1310	1340	20	0.57	0.88	10.866	2.516	15.181	100	Eva	3000.15
+Milvago_chimango	ch_3m_4esc_40gr	3000	4	scaled_photograph	1310	1340	40	0.57	0.751	11.044	2.479	14.844	100	Eva	3000.15
+Milvago_chimango	ch_3m_4esc_60gr	3000	4	scaled_photograph	1310	1340	60	0.57	0.63	10.5	2.085	13.723	100	Eva	3000.15
+Milvago_chimango	ch_3m_5esc_0gr	3000	5	scaled_photograph	1600	1340	0	4.95	0.932	10.78	2.674	15.068	100	Eva	3011.25
+Milvago_chimango	ch_3m_5esc_20gr	3000	5	scaled_photograph	1600	1340	20	4.95	0.901	11.072	2.639	15.18	100	Eva	3011.25
+Milvago_chimango	ch_3m_5esc_40gr	3000	5	scaled_photograph	1600	1340	40	4.95	0.888	11.931	2.618	15.829	109	Eva	3011.25
+Milvago_chimango	ch_3m_5esc_60gr	3000	5	scaled_photograph	1600	1340	60	4.95	0.741	11.452	2.554	14.819	109	Eva	3011.25
+Milvago_chimango	ch_3m_6esc_0gr	3000	6	scaled_photograph	1890	1340	0	10.39	0.981	11.801	2.813	16.305	109	Eva	3050
+Milvago_chimango	ch_3m_6esc_20gr	3000	6	scaled_photograph	1890	1340	20	10.39	0.939	11.719	2.765	15.634	109	Eva	3050
+Milvago_chimango	ch_3m_6esc_40gr	3000	6	scaled_photograph	1890	1340	40	10.39	0.758	11.333	2.316	15.116	109	Eva	3050
+Milvago_chimango	ch_3m_6esc_60gr	3000	6	scaled_photograph	1890	1340	60	10.39	0.658	10.409	2.341	13.241	109	Eva	3050
+Milvago_chimango	ch_3m_7esc_0gr	3000	7	scaled_photograph	2180	1340	0	15.64	0.78	10.158	1.989	13.749	109	Eva	3115.38
+Milvago_chimango	ch_3m_7esc_20gr	3000	7	scaled_photograph	2180	1340	20	15.64	0.816	10.315	2.311	14.098	116	Eva	3115.38
+Milvago_chimango	ch_3m_7esc_40gr	3000	7	scaled_photograph	2180	1340	40	15.64	0.761	9.458	2.213	13.07	116	Eva	3115.38
+Milvago_chimango	ch_3m_7esc_60_gr	3000	7	scaled_photograph	2180	1340	60	15.64	0.588	7.941	2.193	10.798	116	Eva	3115.38
+Milvago_chimango	ch_3m_8esc_0gr	3000	8	scaled_photograph	2470	1340	0	20.64	0.859	10.544	2.26	14.199	116	Eva	3205.76
+Milvago_chimango	ch_3m_8esc_20gr	3000	8	scaled_photograph	2470	1340	20	20.64	0.816	10.236	2.096	14.233	116	Eva	3205.76
+Milvago_chimango	ch_3m_8esc_40gr	3000	8	scaled_photograph	2470	1340	40	20.64	0.779	9.52	2.107	13.006	116	Eva	3205.76
+Milvago_chimango	ch_3m_8esc_60gr	3000	8	scaled_photograph	2470	1340	60	20.64	0.767	8.374	2.043	11.29	116	Eva	3205.76
+Milvago_chimango	ch_3m_9esc_0gr	3000	9	scaled_photograph	2760	1340	0	25.33	0.869	10.249	2.05	13.707	116	Eva	3319.1
+Milvago_chimango	ch_3m_9esc_20gr	3000	9	scaled_photograph	2760	1340	20	25.33	0.815	9.703	1.897	12.631	116	Eva	3319.1
+Milvago_chimango	ch_3m_9esc_40gr	3000	9	scaled_photograph	2760	1340	40	25.33	0.821	9.18	2.173	11.871	116	Eva	3319.1
+Milvago_chimango	ch_3m_9esc_60gr	3000	9	scaled_photograph	2760	1340	60	25.33	0.71	7.971	2.087	10.818	116	Eva	3319.1
+Milvago_chimango	ch_3m_10esc_0gr	3000	10	scaled_photograph	3050	1340	0	29.68	0.847	10.054	2.206	13.211	116	Eva	3453.13
+Milvago_chimango	ch_3m_10esc_20gr	3000	10	scaled_photograph	3050	1340	20	29.68	0.827	9.235	1.923	12.015	116	Eva	3453.13
+Milvago_chimango	ch_3m_10esc_40gr	3000	10	scaled_photograph	3050	1340	40	29.68	0.812	8.254	1.818	11.052	116	Eva	3453.13
+Milvago_chimango	ch_3m_10esc_60gr	3000	10	scaled_photograph	3050	1340	60	29.68	NA	6.357	1.985	8.164	116	Eva	3453.13
+Milvago_chimango	ch_3m_11esc_0gr	3000	11	scaled_photograph	3340	1340	0	33.69	0.761	9.33	1.8	13.12	116	Eva	3605.55
+Milvago_chimango	ch_3m_11esc_20gr	3000	11	scaled_photograph	3340	1340	20	33.69	0.805	8.44	1.758	11.411	116	Eva	3605.55
+Milvago_chimango	ch_3m_11esc_40gr	3000	11	scaled_photograph	3340	1340	40	33.69	0.728	7.853	1.947	10.909	116	Eva	3605.55
+Milvago_chimango	ch_3m_11esc_60gr	3000	11	scaled_photograph	3340	1340	60	33.69	NA	5.055	1.655	5.121	116	Eva	3605.55
+Milvago_chimango	ch_5m_suelo_0gr	5000	0	scaled_photograph	0	1340	0	15	0.895	9.734	1.97	14.709	187	Eva	5176.45
+Milvago_chimango	ch_5m_suelo_20gr	5000	0	scaled_photograph	0	1340	20	15	0.772	10.329	2.241	15.043	187	Eva	5176.45
+Milvago_chimango	ch_5m_suelo_40gr	5000	0	scaled_photograph	0	1340	40	15	0.685	10.752	1.997	14.897	187	Eva	5176.45
+Milvago_chimango	ch_5m_suelo_60gr	5000	0	scaled_photograph	0	1340	60	15	0.496	10.395	1.955	13.607	187	Eva	5176.45
+Milvago_chimango	ch_5m_1esc_0gr	5000	1	scaled_photograph	440	1340	0	10.2	0.885	10.476	2.539	15.388	187	Eva	5080.35
+Milvago_chimango	ch_5m_1esc_20gr	5000	1	scaled_photograph	440	1340	20	10.2	0.774	10.715	1.792	15.137	187	Eva	5080.35
+Milvago_chimango	ch_5m_1esc_40gr	5000	1	scaled_photograph	440	1340	40	10.2	0.653	10.795	1.767	15.183	187	Eva	5080.35
+Milvago_chimango	ch_5m_1esc_60gr	5000	1	scaled_photograph	440	1340	60	10.2	0.52	10.201	1.764	13.64	187	Eva	5080.35
+Milvago_chimango	ch_5m_2esc_0gr	5000	2	scaled_photograph	730	1340	0	6.96	0.895	10.531	1.952	15.361	187	Eva	5037.07
+Milvago_chimango	ch_5m_2esc_20gr	5000	2	scaled_photograph	730	1340	20	6.96	0.812	10.783	2.043	15.062	187	Eva	5037.07
+Milvago_chimango	ch_5m_2esc_40_gr	5000	2	scaled_photograph	730	1340	40	6.96	0.698	10.8	1.782	14.8	187	Eva	5037.07
+Milvago_chimango	ch_5m_2esc_60gr	5000	2	scaled_photograph	730	1340	60	6.96	0.59	10.165	1.76	13.496	187	Eva	5037.07
+Milvago_chimango	ch_5m_3esc_0gr	5000	3	scaled_photograph	1020	1340	0	3.66	0.956	10.687	2.036	15.587	187	Eva	5010.23
+Milvago_chimango	ch_5m_3esc_20gr	5000	3	scaled_photograph	1020	1340	20	3.66	0.821	10.738	2.143	15.272	187	Eva	5010.23
+Milvago_chimango	ch_5m_3esc_40gr	5000	3	scaled_photograph	1020	1340	40	3.66	0.7	10.616	2.238	14.714	187	Eva	5010.23
+Milvago_chimango	ch_5m_3esc_60gr	5000	3	scaled_photograph	1020	1340	60	3.66	0.538	9.947	2.146	13.258	187	Eva	5010.23
+Milvago_chimango	ch_5m_4esc_0gr	5000	4	scaled_photograph	1310	1340	0	0.34	0.93	10.624	2.384	15.492	187	Eva	5000.09
+Milvago_chimango	ch_5m_4esc_20gr	5000	4	scaled_photograph	1310	1340	20	0.34	0.889	10.613	2.156	15.154	187	Eva	5000.09
+Milvago_chimango	ch_5m_4esc_40gr	5000	4	scaled_photograph	1310	1340	40	0.34	0.778	10.785	2.043	14.74	187	Eva	5000.09
+Milvago_chimango	ch_5m_4esc_60gr	5000	4	scaled_photograph	1310	1340	60	0.34	0.608	10.004	2.089	13.434	187	Eva	5000.09
+Milvago_chimango	ch_5m_5esc_0gr	5000	5	scaled_photograph	1600	1340	0	2.98	0.955	10.47	2.255	15.45	187	Eva	5006.76
+Milvago_chimango	ch_5m_5esc_20gr	5000	5	scaled_photograph	1600	1340	20	2.98	0.896	10.674	2.085	15.197	187	Eva	5006.76
+Milvago_chimango	ch_5m_5esc_40gr	5000	5	scaled_photograph	1600	1340	40	2.98	0.754	10.644	2.038	14.451	187	Eva	5006.76
+Milvago_chimango	ch_5m_5esc_60gr	5000	5	scaled_photograph	1600	1340	60	2.98	0.627	9.782	2.08	13.136	187	Eva	5006.76
+Milvago_chimango	ch_5m_6esc_0gr	5000	6	scaled_photograph	1890	1340	0	6.28	0.936	10.705	2.374	15.493	187	Eva	5030.16
+Milvago_chimango	ch_5m_6esc_20gr	5000	6	scaled_photograph	1890	1340	20	6.28	0.913	10.76	2.115	15.118	187	Eva	5030.16
+Milvago_chimango	ch_5m_6esc_40gr	5000	6	scaled_photograph	1890	1340	40	6.28	0.799	10.233	2.024	14.612	187	Eva	5030.16
+Milvago_chimango	ch_5m_6esc_60gr	5000	6	scaled_photograph	1890	1340	60	6.28	0.65	9.667	2.136	13.654	187	Eva	5030.16
+Milvago_chimango	ch_5m_7esc_0gr	5000	7	scaled_photograph	2180	1340	0	9.54	1.193	13.518	2.579	19.146	250	Eva	5070.07
+Milvago_chimango	ch_5m_7esc_20gr	5000	7	scaled_photograph	2180	1340	20	9.54	1.095	12.765	2.858	18.56	250	Eva	5070.07
+Milvago_chimango	ch_5m_7esc_40gr	5000	7	scaled_photograph	2180	1340	40	9.54	1	12.377	2.985	17.159	250	Eva	5070.07
+Milvago_chimango	ch_5m_7esc_60_gr	5000	7	scaled_photograph	2180	1340	60	9.54	0.868	10.908	2.781	14.756	250	Eva	5070.07
+Milvago_chimango	ch_5m_8esc_0gr	5000	8	scaled_photograph	2470	1340	0	12.73	1.141	13.323	2.919	18.685	250	Eva	5126.1
+Milvago_chimango	ch_5m_8esc_20gr	5000	8	scaled_photograph	2470	1340	20	12.73	1.048	12.477	2.816	17.946	250	Eva	5126.1
+Milvago_chimango	ch_5m_8esc_40gr	5000	8	scaled_photograph	2470	1340	40	12.73	0.985	11.448	2.871	16.793	250	Eva	5126.1
+Milvago_chimango	ch_5m_8esc_60gr	5000	8	scaled_photograph	2470	1340	60	12.73	0.856	10.036	2.337	13.964	250	Eva	5126.1
+Milvago_chimango	ch_5m_9esc_0gr	5000	9	scaled_photograph	2760	1340	0	15.85	1.08	12.239	2.622	18.018	250	Eva	5197.73
+Milvago_chimango	ch_5m_9esc_20gr	5000	9	scaled_photograph	2760	1340	20	15.85	1.071	12	2.662	17.442	250	Eva	5197.73
+Milvago_chimango	ch_5m_9esc_40gr	5000	9	scaled_photograph	2760	1340	40	15.85	0.951	10.724	2.539	15.744	250	Eva	5197.73
+Milvago_chimango	ch_5m_9esc_60gr	5000	9	scaled_photograph	2760	1340	60	15.85	NA	7.774	2.445	10.245	250	Eva	5197.73
+Milvago_chimango	ch_5m_10esc_0gr	5000	10	scaled_photograph	3050	1340	0	18.88	0.848	12.379	2.906	17.444	250	Eva	5284.33
+Milvago_chimango	ch_5m_10esc_20gr	5000	10	scaled_photograph	3050	1340	20	18.88	1.046	11.944	2.892	17.163	250	Eva	5284.33
+Milvago_chimango	ch_5m_10esc_40gr	5000	10	scaled_photograph	3050	1340	40	18.88	0.919	9.638	2.774	14.364	250	Eva	5284.33
+Milvago_chimango	ch_5m_10esc_60gr	5000	10	scaled_photograph	3050	1340	60	18.88	NA	8.345	2.623	11.74	250	Eva	5284.33
+Milvago_chimango	ch_5m_11esc_0gr	5000	11	scaled_photograph	3340	1340	0	21.8	1.031	12.01	2.598	16.895	250	Eva	5385.16
+Milvago_chimango	ch_5m_11esc_20gr	5000	11	scaled_photograph	3340	1340	20	21.8	1.055	10.605	2.587	15.619	250	Eva	5385.16
+Milvago_chimango	ch_5m_11esc_40gr	5000	11	scaled_photograph	3340	1340	40	21.8	0.924	9.279	2.734	13.842	250	Eva	5385.16
+Milvago_chimango	ch_5m_11esc_60gr	5000	11	scaled_photograph	3340	1340	60	21.8	0.604	8.782	2.424	12.199	250	Eva	5385.16
+Milvago_chimango	ch_7m_suelo_0gr	7000	0	scaled_photograph	0	1340	0	10.84	0.888	9.298	2.201	14.15	250	Eva	7127.1
+Milvago_chimango	ch_7m_suelo_20gr	7000	0	scaled_photograph	0	1340	20	10.84	0.799	9.935	2.198	14.537	250	Eva	7127.1
+Milvago_chimango	ch_7m_suelo_40gr	7000	0	scaled_photograph	0	1340	40	10.84	0.687	10.177	2.201	14.266	250	Eva	7127.1
+Milvago_chimango	ch_7m_suelo_60gr	7000	0	scaled_photograph	0	1340	60	10.84	0.515	9.752	2.111	12.994	250	Eva	7127.1
+Milvago_chimango	ch_7m_1esc_0gr	7000	1	scaled_photograph	440	1340	0	7.33	0.854	10.118	2.008	14.81	250	Eva	7057.62
+Milvago_chimango	ch_7m_1esc_20gr	7000	1	scaled_photograph	440	1340	20	7.33	0.76	10.153	2.038	14.644	250	Eva	7057.62
+Milvago_chimango	ch_7m_1esc_40gr	7000	1	scaled_photograph	440	1340	40	7.33	0.638	10.223	1.941	14.022	250	Eva	7057.62
+Milvago_chimango	ch_7m_1esc_60gr	7000	1	scaled_photograph	440	1340	60	7.33	0.492	9.37	1.899	12.635	250	Eva	7057.62
+Milvago_chimango	ch_7m_2esc_0gr	7000	2	scaled_photograph	730	1340	0	4.98	0.872	10.094	2.222	14.87	250	Eva	7026.53
+Milvago_chimango	ch_7m_2esc_20gr	7000	2	scaled_photograph	730	1340	20	4.98	0.797	10.15	2.096	14.711	250	Eva	7026.53
+Milvago_chimango	ch_7m_2esc_40_gr	7000	2	scaled_photograph	730	1340	40	4.98	0.643	10.162	1.96	14.082	250	Eva	7026.53
+Milvago_chimango	ch_7m_2esc_60gr	7000	2	scaled_photograph	730	1340	60	4.98	0.508	9.333	1.931	12.671	250	Eva	7026.53
+Milvago_chimango	ch_7m_3esc_0gr	7000	3	scaled_photograph	1020	1340	0	2.62	0.902	10.183	2.373	14.838	250	Eva	7007.31
+Milvago_chimango	ch_7m_3esc_20gr	7000	3	scaled_photograph	1020	1340	20	2.62	0.772	10.206	2.038	14.62	250	Eva	7007.31
+Milvago_chimango	ch_7m_3esc_40gr	7000	3	scaled_photograph	1020	1340	40	2.62	0.664	10.068	1.943	14.082	250	Eva	7007.31
+Milvago_chimango	ch_7m_3esc_60gr	7000	3	scaled_photograph	1020	1340	60	2.62	0.493	9.179	2.05	12.43	250	Eva	7007.31
+Milvago_chimango	ch_7m_4esc_0gr	7000	4	scaled_photograph	1310	1340	0	0.25	0.88	10.173	2.452	14.688	250	Eva	7000.06
+Milvago_chimango	ch_7m_4esc_20gr	7000	4	scaled_photograph	1310	1340	20	0.25	0.807	10.184	2.093	14.33	250	Eva	7000.06
+Milvago_chimango	ch_7m_4esc_40gr	7000	4	scaled_photograph	1310	1340	40	0.25	0.693	9.931	2.243	13.881	250	Eva	7000.06
+Milvago_chimango	ch_7m_4esc_60gr	7000	4	scaled_photograph	1310	1340	60	0.25	0.569	9.281	1.944	12.488	250	Eva	7000.06
+Milvago_chimango	ch_7m_5esc_0gr	7000	5	scaled_photograph	1600	1340	0	2.13	0.882	10.225	2.245	14.94	250	Eva	7004.83
+Milvago_chimango	ch_7m_5esc_20gr	7000	5	scaled_photograph	1600	1340	20	2.13	0.772	10.012	2.162	14.547	250	Eva	7004.83
+Milvago_chimango	ch_7m_5esc_40gr	7000	5	scaled_photograph	1600	1340	40	2.13	0.651	9.706	2.152	13.822	250	Eva	7004.83
+Milvago_chimango	ch_7m_5esc_60gr	7000	5	scaled_photograph	1600	1340	60	2.13	0.537	8.866	2.247	12.251	250	Eva	7004.83
+Milvago_chimango	ch_7m_6esc_0gr	7000	6	scaled_photograph	1890	1340	0	4.49	0.874	10.159	2.295	15.312	250	Eva	7021.57
+Milvago_chimango	ch_7m_6esc_20gr	7000	6	scaled_photograph	1890	1340	20	4.49	0.8	10.123	2.188	14.671	250	Eva	7021.57
+Milvago_chimango	ch_7m_6esc_40gr	7000	6	scaled_photograph	1890	1340	40	4.49	0.688	9.782	2.144	13.918	250	Eva	7021.57
+Milvago_chimango	ch_7m_6esc_60gr	7000	6	scaled_photograph	1890	1340	60	4.49	0.558	8.988	2.112	12.392	250	Eva	7021.57
+Milvago_chimango	ch_7m_7esc_0gr	7000	7	scaled_photograph	2180	1340	0	6.84	0.853	9.829	2.245	13.777	250	Eva	7050.22
+Milvago_chimango	ch_7m_7esc_20gr	7000	7	scaled_photograph	2180	1340	20	6.84	0.786	9.07	2.216	13.171	250	Eva	7050.22
+Milvago_chimango	ch_7m_7esc_40gr	7000	7	scaled_photograph	2180	1340	40	6.84	0.618	8.829	2.208	12.573	250	Eva	7050.22
+Milvago_chimango	ch_7m_7esc_60_gr	7000	7	scaled_photograph	2180	1340	60	6.84	0.6	8.07	2.251	10.941	250	Eva	7050.22
+Milvago_chimango	ch_7m_8esc_0gr	7000	8	scaled_photograph	2470	1340	0	9.17	0.795	9.503	2.077	13.98	250	Eva	7090.62
+Milvago_chimango	ch_7m_8esc_20gr	7000	8	scaled_photograph	2470	1340	20	9.17	0.724	8.767	2.062	12.827	250	Eva	7090.62
+Milvago_chimango	ch_7m_8esc_40gr	7000	8	scaled_photograph	2470	1340	40	9.17	0.636	7.911	2.097	11.774	250	Eva	7090.62
+Milvago_chimango	ch_7m_8esc_60gr	7000	8	scaled_photograph	2470	1340	60	9.17	0.6	7.964	2.222	10.659	250	Eva	7090.62
+Milvago_chimango	ch_7m_9esc_0gr	7000	9	scaled_photograph	2760	1340	0	11.47	0.776	9.486	2.392	14.178	250	Eva	7142.58
+Milvago_chimango	ch_7m_9esc_20gr	7000	9	scaled_photograph	2760	1340	20	11.47	0.754	8.979	2.194	13.012	250	Eva	7142.58
+Milvago_chimango	ch_7m_9esc_40gr	7000	9	scaled_photograph	2760	1340	40	11.47	0.659	8.162	2.043	11.602	250	Eva	7142.58
+Milvago_chimango	ch_7m_9esc_60gr	7000	9	scaled_photograph	2760	1340	60	11.47	0.631	8.283	2.194	11.286	250	Eva	7142.58
+Milvago_chimango	ch_7m_10esc_0gr	7000	10	scaled_photograph	3050	1340	0	13.73	0.805	9.57	2.123	14.024	250	Eva	7205.84
+Milvago_chimango	ch_7m_10esc_20gr	7000	10	scaled_photograph	3050	1340	20	13.73	0.797	9.059	2.497	13.273	250	Eva	7205.84
+Milvago_chimango	ch_7m_10esc_40gr	7000	10	scaled_photograph	3050	1340	40	13.73	0.746	8.775	2.399	12.662	250	Eva	7205.84
+Milvago_chimango	ch_7m_10esc_60gr	7000	10	scaled_photograph	3050	1340	60	13.73	0.672	7.735	2.411	10.707	250	Eva	7205.84
+Milvago_chimango	ch_7m_11esc_0gr	7000	11	scaled_photograph	3340	1340	0	15.95	0.836	9.344	2.204	13.679	250	Eva	7280.11
+Milvago_chimango	ch_7m_11esc_20gr	7000	11	scaled_photograph	3340	1340	20	15.95	0.739	8.274	2.18	12.003	250	Eva	7280.11
+Milvago_chimango	ch_7m_11esc_40gr	7000	11	scaled_photograph	3340	1340	40	15.95	0.722	7.348	2.067	10.695	250	Eva	7280.11
+Milvago_chimango	ch_7m_11esc_60gr	7000	11	scaled_photograph	3340	1340	60	15.95	0.482	6.532	2.36	9.288	250	Eva	7280.11
+Passer_domesticus	gor_escala	NA	NA	true	NA	NA	NA	NA	NA	NA	NA	NA	NA	Eva	NA
+Passer_domesticus	gor_3m_suelo_0gr	3000	0	scaled_photograph	0	1340	0	24.07	0.669	4.952	0.903	10.098	200	Eva	3285.67
+Passer_domesticus	gor_3m_suelo_20gr	3000	0	scaled_photograph	0	1340	20	24.07	0.708	4.882	0.745	9.892	200	Eva	3285.67
+Passer_domesticus	gor_3m_suelo_40gr	3000	0	scaled_photograph	0	1340	40	24.07	0.659	4.608	0.713	9.067	200	Eva	3285.67
+Passer_domesticus	gor_3m_suelo_60gr	3000	0	scaled_photograph	0	1340	60	24.07	0.465	4.367	0.432	8.109	200	Eva	3285.67
+Passer_domesticus	gor_3m_1esc_0gr	3000	1	scaled_photograph	370	1340	0	17.92	0.679	5.035	0.911	10.258	200	Eva	3152.92
+Passer_domesticus	gor_3m_1esc_20gr	3000	1	scaled_photograph	370	1340	20	17.92	0.741	5.045	0.995	10.554	200	Eva	3152.92
+Passer_domesticus	gor_3m_1esc_40gr	3000	1	scaled_photograph	370	1340	40	17.92	0.681	4.553	0.816	9.599	194	Eva	3152.92
+Passer_domesticus	gor_3m_1esc_60gr	3000	1	scaled_photograph	370	1340	60	17.92	0.577	4.249	0.669	8.356	194	Eva	3152.92
+Passer_domesticus	gor_3m_2esc_0gr	3000	2	scaled_photograph	660	1340	0	12.77	0.676	4.724	1.023	9.805	194	Eva	3076.1
+Passer_domesticus	gor_3m_2esc_20gr	3000	2	scaled_photograph	660	1340	20	12.77	0.685	4.627	0.904	9.641	194	Eva	3076.1
+Passer_domesticus	gor_3m_2esc_40gr	3000	2	scaled_photograph	660	1340	40	12.77	0.619	4.301	0.867	8.839	194	Eva	3076.1
+Passer_domesticus	gor_3m_2esc_60gr	3000	2	scaled_photograph	660	1340	60	12.77	0.471	3.862	0.569	7.773	194	Eva	3076.1
+Passer_domesticus	gor_3m_3esc_0gr	3000	3	scaled_photograph	950	1340	0	7.41	0.646	4.784	0.884	8.851	194	Eva	3025.24
+Passer_domesticus	gor_3m_3esc_20gr	3000	3	scaled_photograph	950	1340	20	7.41	0.71	4.695	0.844	8.789	194	Eva	3025.24
+Passer_domesticus	gor_3m_3esc_40gr	3000	3	scaled_photograph	950	1340	40	7.41	0.604	4.28	0.819	8.653	194	Eva	3025.24
+Passer_domesticus	gor_3m_3esc_60gr	3000	3	scaled_photograph	950	1340	60	7.41	0.448	3.911	0.662	7.488	194	Eva	3025.24
+Passer_domesticus	gor_3m_4esc_0gr	3000	4	scaled_photograph	1240	1340	0	1.91	0.676	4.882	1.016	9.804	200	Eva	3001.67
+Passer_domesticus	gor_3m_4esc_20gr	3000	4	scaled_photograph	1240	1340	20	1.91	0.669	4.607	1.007	9.079	200	Eva	3001.67
+Passer_domesticus	gor_3m_4esc_40gr	3000	4	scaled_photograph	1240	1340	40	1.91	0.628	3.88	0.883	7.752	200	Eva	3001.67
+Passer_domesticus	gor_3m_4esc_60gr	3000	4	scaled_photograph	1240	1340	60	1.91	0.443	3.312	0.827	6.23	200	Eva	3001.67
+Passer_domesticus	gor_3m_5esc_0gr	3000	5	scaled_photograph	1530	1340	0	3.62	0.704	4.752	0.883	9.511	200	Eva	3006.01
+Passer_domesticus	gor_3m_5esc_20gr	3000	5	scaled_photograph	1530	1340	20	3.62	0.708	4.433	0.949	8.954	200	Eva	3006.01
+Passer_domesticus	gor_3m_5esc_40gr	3000	5	scaled_photograph	1530	1340	40	3.62	0.646	3.807	0.878	7.596	200	Eva	3006.01
+Passer_domesticus	gor_3m_5esc_60gr	3000	5	scaled_photograph	1530	1340	60	3.62	0.431	3.032	0.804	5.8	200	Eva	3006.01
+Passer_domesticus	gor_3m_6esc_0gr	3000	6	scaled_photograph	1820	1340	0	9.09	0.692	5.284	0.908	10.677	200	Eva	3038.16
+Passer_domesticus	gor_3m_6esc_20gr	3000	6	scaled_photograph	1820	1340	20	9.09	0.703	5.057	0.892	9.937	200	Eva	3038.16
+Passer_domesticus	gor_3m_6esc_40gr	3000	6	scaled_photograph	1820	1340	40	9.09	0.661	4.807	0.889	9.463	200	Eva	3038.16
+Passer_domesticus	gor_3m_6esc_60gr	3000	6	scaled_photograph	1820	1340	60	9.09	0.543	4.196	0.758	8.036	200	Eva	3038.16
+Passer_domesticus	gor_3m_7esc_0gr	3000	7	scaled_photograph	2110	1340	0	14.4	0.456	3.46	0.654	6.887	135	Eva	3097.24
+Passer_domesticus	gor_3m_7esc_20gr	3000	7	scaled_photograph	2110	1340	20	14.4	0.464	3.353	0.684	6.803	135	Eva	3097.24
+Passer_domesticus	gor_3m_7esc_40gr	3000	7	scaled_photograph	2110	1340	40	14.4	0.448	3.026	0.686	6.078	135	Eva	3097.24
+Passer_domesticus	gor_3m_7esc_60gr	3000	7	scaled_photograph	2110	1340	60	14.4	0.329	2.46	0.573	4.768	135	Eva	3097.24
+Passer_domesticus	gor_3m_8esc_0gr	3000	8	scaled_photograph	2400	1340	0	19.46	0.474	3.328	0.531	6.705	135	Eva	3181.76
+Passer_domesticus	gor_3m_8esc_20gr	3000	8	scaled_photograph	2400	1340	20	19.46	0.493	3.157	0.642	6.312	135	Eva	3181.76
+Passer_domesticus	gor_3m_8esc_40gr	3000	8	scaled_photograph	2400	1340	40	19.46	0.45	2.904	0.601	5.832	135	Eva	3181.76
+Passer_domesticus	gor_3m_8esc_60gr	3000	8	scaled_photograph	2400	1340	60	19.46	0.32	2.341	0.501	4.465	135	Eva	3181.76
+Passer_domesticus	gor_3m_9esc_0gr	3000	9	scaled_photograph	2690	1340	0	24.23	0.465	3.175	0.5	6.385	135	Eva	3289.76
+Passer_domesticus	gor_3m_9esc_20gr	3000	9	scaled_photograph	2690	1340	20	24.23	0.525	2.741	0.656	5.644	135	Eva	3289.76
+Passer_domesticus	gor_3m_9esc_40gr	3000	9	scaled_photograph	2690	1340	40	24.23	0.373	2.293	0.605	4.499	135	Eva	3289.76
+Passer_domesticus	gor_3m_9esc_60gr	3000	9	scaled_photograph	2690	1340	60	24.23	0.291	1.834	0.64	3.584	135	Eva	3289.76
+Passer_domesticus	gor_3m_10esc_0gr	3000	10	scaled_photograph	2980	1340	0	28.66	0.453	3.133	0.489	6.249	135	Eva	3419.01
+Passer_domesticus	gor_3m_10esc_20gr	3000	10	scaled_photograph	2980	1340	20	28.66	0.44	2.631	0.638	5.313	135	Eva	3419.01
+Passer_domesticus	gor_3m_10esc_40gr	3000	10	scaled_photograph	2980	1340	40	28.66	0.328	2.038	0.627	4.032	135	Eva	3419.01
+Passer_domesticus	gor_3m_10esc_60gr	3000	10	scaled_photograph	2980	1340	60	28.66	0.284	1.663	0.579	3.272	135	Eva	3419.01
+Passer_domesticus	gor_3m_11esc_0gr	3000	11	scaled_photograph	3270	1340	0	32.75	0.384	2.927	0.3	5.91	135	Eva	3567.2
+Passer_domesticus	gor_3m_11esc_20gr	3000	11	scaled_photograph	3270	1340	20	32.75	0.424	2.731	0.587	5.573	135	Eva	3567.2
+Passer_domesticus	gor_3m_11esc_40gr	3000	11	scaled_photograph	3270	1340	40	32.75	0.369	2.149	0.629	4.382	135	Eva	3567.2
+Passer_domesticus	gor_3m_11esc_60gr	3000	11	scaled_photograph	3270	1340	60	32.75	NA	1.666	0.664	3.29	163	Eva	3567.2
+Passer_domesticus	gor_5m_suelo_0gr	5000	0	scaled_photograph	0	1340	0	15	0.469	3.23	0.606	6.757	250	Eva	5176.45
+Passer_domesticus	gor_5m_suelo_20gr	5000	0	scaled_photograph	0	1340	20	15	0.486	3.336	0.525	6.842	250	Eva	5176.45
+Passer_domesticus	gor_5m_suelo_40gr	5000	0	scaled_photograph	0	1340	40	15	0.445	3.181	0.391	6.637	250	Eva	5176.45
+Passer_domesticus	gor_5m_suelo_60gr	5000	0	scaled_photograph	0	1340	60	15	0.354	3.137	0.221	5.993	250	Eva	5176.45
+Passer_domesticus	gor_5m_1esc_0gr	5000	1	scaled_photograph	370	1340	0	10.98	0.424	3.353	0.581	6.884	250	Eva	5093.22
+Passer_domesticus	gor_5m_1esc_20gr	5000	1	scaled_photograph	370	1340	20	10.98	0.49	3.367	0.656	6.846	250	Eva	5093.22
+Passer_domesticus	gor_5m_1esc_40gr	5000	1	scaled_photograph	370	1340	40	10.98	0.406	3.216	0.523	6.496	250	Eva	5093.22
+Passer_domesticus	gor_5m_1esc_60gr	5000	1	scaled_photograph	370	1340	60	10.98	0.341	3.067	0.357	5.744	250	Eva	5093.22
+Passer_domesticus	gor_5m_2esc_0gr	5000	2	scaled_photograph	660	1340	0	7.74	0.471	3.435	0.56	6.886	250	Eva	5046.03
+Passer_domesticus	gor_5m_2esc_20gr	5000	2	scaled_photograph	660	1340	20	7.74	0.503	3.397	0.59	6.936	250	Eva	5046.03
+Passer_domesticus	gor_5m_2esc_40gr	5000	2	scaled_photograph	660	1340	40	7.74	0.465	3.258	0.522	6.531	250	Eva	5046.03
+Passer_domesticus	gor_5m_2esc_60gr	5000	2	scaled_photograph	660	1340	60	7.74	0.357	3.067	0.355	5.692	250	Eva	5046.03
+Passer_domesticus	gor_5m_3esc_0gr	5000	3	scaled_photograph	950	1340	0	4.46	0.462	3.424	0.586	6.995	250	Eva	5015.19
+Passer_domesticus	gor_5m_3esc_20gr	5000	3	scaled_photograph	950	1340	20	4.46	0.497	3.342	0.586	6.875	250	Eva	5015.19
+Passer_domesticus	gor_5m_3esc_40gr	5000	3	scaled_photograph	950	1340	40	4.46	0.46	3.216	0.518	6.442	250	Eva	5015.19
+Passer_domesticus	gor_5m_3esc_60gr	5000	3	scaled_photograph	950	1340	60	4.46	0.321	2.972	0.367	5.723	250	Eva	5015.19
+Passer_domesticus	gor_5m_4esc_0gr	5000	4	scaled_photograph	1240	1340	0	1.15	0.467	3.459	0.597	7.048	250	Eva	5001
+Passer_domesticus	gor_5m_4esc_20gr	5000	4	scaled_photograph	1240	1340	20	1.15	0.5	3.443	0.598	6.899	250	Eva	5001
+Passer_domesticus	gor_5m_4esc_40gr	5000	4	scaled_photograph	1240	1340	40	1.15	0.443	3.277	0.537	6.461	250	Eva	5001
+Passer_domesticus	gor_5m_4esc_60gr	5000	4	scaled_photograph	1240	1340	60	1.15	0.323	2.949	0.393	5.437	250	Eva	5001
+Passer_domesticus	gor_5m_5esc_0gr	5000	5	scaled_photograph	1530	1340	0	2.18	0.465	3.478	0.597	7.069	250	Eva	5003.61
+Passer_domesticus	gor_5m_5esc_20gr	5000	5	scaled_photograph	1530	1340	20	2.18	0.526	3.354	0.617	6.867	250	Eva	5003.61
+Passer_domesticus	gor_5m_5esc_40gr	5000	5	scaled_photograph	1530	1340	40	2.18	0.436	3.094	0.558	6.253	250	Eva	5003.61
+Passer_domesticus	gor_5m_5esc_60gr	5000	5	scaled_photograph	1530	1340	60	2.18	0.321	2.898	0.453	5.437	250	Eva	5003.61
+Passer_domesticus	gor_5m_6esc_0gr	5000	6	scaled_photograph	1820	1340	0	5.48	0.49	3.369	0.597	6.949	250	Eva	5022.99
+Passer_domesticus	gor_5m_6esc_20gr	5000	6	scaled_photograph	1820	1340	20	5.48	0.496	3.369	0.581	6.722	250	Eva	5022.99
+Passer_domesticus	gor_5m_6esc_40gr	5000	6	scaled_photograph	1820	1340	40	5.48	0.397	3.025	0.57	6.031	250	Eva	5022.99
+Passer_domesticus	gor_5m_6esc_60gr	5000	6	scaled_photograph	1820	1340	60	5.48	0.327	2.742	0.382	5.065	250	Eva	5022.99
+Passer_domesticus	gor_5m_7esc_0gr	5000	7	scaled_photograph	2110	1340	0	8.75	0.514	3.428	0.662	6.839	235	Eva	5058.94
+Passer_domesticus	gor_5m_7esc_20gr	5000	7	scaled_photograph	2110	1340	20	8.75	0.546	3.141	0.659	6.619	235	Eva	5058.94
+Passer_domesticus	gor_5m_7esc_40gr	5000	7	scaled_photograph	2110	1340	40	8.75	0.467	2.791	0.571	5.889	235	Eva	5058.94
+Passer_domesticus	gor_5m_7esc_60gr	5000	7	scaled_photograph	2110	1340	60	8.75	0.339	2.406	0.492	5	235	Eva	5058.94
+Passer_domesticus	gor_5m_8esc_0gr	5000	8	scaled_photograph	2400	1340	0	11.97	0.465	3.346	0.605	6.71	235	Eva	5111.13
+Passer_domesticus	gor_5m_8esc_20gr	5000	8	scaled_photograph	2400	1340	20	11.97	0.476	2.95	0.673	6.171	235	Eva	5111.13
+Passer_domesticus	gor_5m_8esc_40gr	5000	8	scaled_photograph	2400	1340	40	11.97	0.443	2.626	0.634	5.551	235	Eva	5111.13
+Passer_domesticus	gor_5m_8esc_60gr	5000	8	scaled_photograph	2400	1340	60	11.97	0.344	2.181	0.462	4.878	235	Eva	5111.13
+Passer_domesticus	gor_5m_9esc_0gr	5000	9	scaled_photograph	2690	1340	0	15.11	0.486	3.318	0.569	6.716	235	Eva	5179.04
+Passer_domesticus	gor_5m_9esc_20gr	5000	9	scaled_photograph	2690	1340	20	15.11	0.5	3.316	0.677	6.44	235	Eva	5179.04
+Passer_domesticus	gor_5m_9esc_40gr	5000	9	scaled_photograph	2690	1340	40	15.11	0.45	2.698	0.632	5.594	235	Eva	5179.04
+Passer_domesticus	gor_5m_9esc_60gr	5000	9	scaled_photograph	2690	1340	60	15.11	0.331	2.112	0.537	4.387	235	Eva	5179.04
+Passer_domesticus	gor_5m_10esc_0gr	5000	10	scaled_photograph	2980	1340	0	18.16	0.465	3.22	0.487	6.568	235	Eva	5262.09
+Passer_domesticus	gor_5m_10esc_20gr	5000	10	scaled_photograph	2980	1340	20	18.16	0.497	2.825	0.673	6.047	235	Eva	5262.09
+Passer_domesticus	gor_5m_10esc_40gr	5000	10	scaled_photograph	2980	1340	40	18.16	0.386	2.205	0.63	4.799	235	Eva	5262.09
+Passer_domesticus	gor_5m_10esc_60gr	5000	10	scaled_photograph	2980	1340	60	18.16	0.252	1.73	0.57	3.808	235	Eva	5262.09
+Passer_domesticus	gor_5m_11esc_0gr	5000	11	scaled_photograph	3270	1340	0	21.11	0.477	3.193	0.509	6.371	235	Eva	5359.56
+Passer_domesticus	gor_5m_11esc_20gr	5000	11	scaled_photograph	3270	1340	20	21.11	0.443	2.922	0.682	5.941	235	Eva	5359.56
+Passer_domesticus	gor_5m_11esc_40gr	5000	11	scaled_photograph	3270	1340	40	21.11	0.415	2.486	0.666	4.936	235	Eva	5359.56
+Passer_domesticus	gor_5m_11esc_60gr	5000	11	scaled_photograph	3270	1340	60	21.11	0.288	1.838	0.575	3.325	235	Eva	5359.56
+Passer_domesticus	gor_7m_suelo_0gr	7000	0	scaled_photograph	0	1340	0	10.84	0.365	2.481	0.484	4.954	250	Eva	7127.1
+Passer_domesticus	gor_7m_suelo_20gr	7000	0	scaled_photograph	0	1340	20	10.84	0.344	2.473	0.385	4.873	250	Eva	7127.1
+Passer_domesticus	gor_7m_suelo_40gr	7000	0	scaled_photograph	0	1340	40	10.84	0.31	2.392	0.305	4.692	250	Eva	7127.1
+Passer_domesticus	gor_7m_suelo_60gr	7000	0	scaled_photograph	0	1340	60	10.84	0.226	2.246	0.154	4.201	250	Eva	7127.1
+Passer_domesticus	gor_7m_1esc_0gr	7000	1	scaled_photograph	370	1340	0	7.89	0.352	2.457	0.435	5.075	250	Eva	7066.89
+Passer_domesticus	gor_7m_1esc_20gr	7000	1	scaled_photograph	370	1340	20	7.89	0.363	2.442	0.435	4.959	250	Eva	7066.89
+Passer_domesticus	gor_7m_1esc_40gr	7000	1	scaled_photograph	370	1340	40	7.89	0.272	2.283	0.391	4.645	250	Eva	7066.89
+Passer_domesticus	gor_7m_1esc_60gr	7000	1	scaled_photograph	370	1340	60	7.89	0.258	2.146	0.247	4.118	250	Eva	7066.89
+Passer_domesticus	gor_7m_2esc_0gr	7000	2	scaled_photograph	660	1340	0	5.55	0.346	2.502	0.44	5.043	250	Eva	7032.95
+Passer_domesticus	gor_7m_2esc_20gr	7000	2	scaled_photograph	660	1340	20	5.55	0.372	2.447	0.461	4.967	250	Eva	7032.95
+Passer_domesticus	gor_7m_2esc_40gr	7000	2	scaled_photograph	660	1340	40	5.55	0.31	2.305	0.377	4.573	250	Eva	7032.95
+Passer_domesticus	gor_7m_2esc_60gr	7000	2	scaled_photograph	660	1340	60	5.55	0.211	2.136	0.262	3.944	250	Eva	7032.95
+Passer_domesticus	gor_7m_3esc_0gr	7000	3	scaled_photograph	950	1340	0	3.19	0.334	2.51	0.465	5.056	250	Eva	7010.86
+Passer_domesticus	gor_7m_3esc_20gr	7000	3	scaled_photograph	950	1340	20	3.19	0.368	2.431	0.437	4.831	250	Eva	7010.86
+Passer_domesticus	gor_7m_3esc_40gr	7000	3	scaled_photograph	950	1340	40	3.19	0.311	2.275	0.405	4.523	250	Eva	7010.86
+Passer_domesticus	gor_7m_3esc_60gr	7000	3	scaled_photograph	950	1340	60	3.19	0.258	2.075	0.271	3.877	250	Eva	7010.86
+Passer_domesticus	gor_7m_4esc_0gr	7000	4	scaled_photograph	1240	1340	0	0.82	0.33	2.479	0.517	5.021	250	Eva	7000.71
+Passer_domesticus	gor_7m_4esc_20gr	7000	4	scaled_photograph	1240	1340	20	0.82	0.373	2.451	0.446	4.791	250	Eva	7000.71
+Passer_domesticus	gor_7m_4esc_40gr	7000	4	scaled_photograph	1240	1340	40	0.82	0.311	2.288	0.43	4.448	250	Eva	7000.71
+Passer_domesticus	gor_7m_4esc_60gr	7000	4	scaled_photograph	1240	1340	60	0.82	0.24	2.005	0.279	3.764	250	Eva	7000.71
+Passer_domesticus	gor_7m_5esc_0gr	7000	5	scaled_photograph	1530	1340	0	1.55	0.346	2.449	0.442	4.937	250	Eva	7002.58
+Passer_domesticus	gor_7m_5esc_20gr	7000	5	scaled_photograph	1530	1340	20	1.55	0.402	2.378	0.425	4.688	250	Eva	7002.58
+Passer_domesticus	gor_7m_5esc_40gr	7000	5	scaled_photograph	1530	1340	40	1.55	0.315	2.176	0.384	4.293	250	Eva	7002.58
+Passer_domesticus	gor_7m_5esc_60gr	7000	5	scaled_photograph	1530	1340	60	1.55	0.221	1.977	0.32	3.753	250	Eva	7002.58
+Passer_domesticus	gor_7m_6esc_0gr	7000	6	scaled_photograph	1820	1340	0	3.92	0.362	2.477	0.472	4.892	250	Eva	7016.44
+Passer_domesticus	gor_7m_6esc_20gr	7000	6	scaled_photograph	1820	1340	20	3.92	0.354	2.392	0.481	4.753	250	Eva	7016.44
+Passer_domesticus	gor_7m_6esc_40gr	7000	6	scaled_photograph	1820	1340	40	3.92	0.313	2.149	0.415	4.293	250	Eva	7016.44
+Passer_domesticus	gor_7m_6esc_60gr	7000	6	scaled_photograph	1820	1340	60	3.92	0.231	1.947	0.338	3.555	250	Eva	7016.44
+Passer_domesticus	gor_5m_7esc_20gr	7000	7	scaled_photograph	2110	1340	20	6.28	0.4	2.378	0.521	4.922	250	Eva	7042.22
+Passer_domesticus	gor_7m_7esc_0gr	7000	7	scaled_photograph	2110	1340	0	6.28	0.373	2.479	0.482	5.059	250	Eva	7042.22
+Passer_domesticus	gor_7m_7esc_40gr	7000	7	scaled_photograph	2110	1340	40	6.28	0.369	2.191	0.458	4.464	250	Eva	7042.22
+Passer_domesticus	gor_7m_7esc_60gr	7000	7	scaled_photograph	2110	1340	60	6.28	0.27	1.803	0.412	3.702	250	Eva	7042.22
+Passer_domesticus	gor_7m_8esc_0gr	7000	8	scaled_photograph	2400	1340	0	8.61	0.328	2.504	0.492	5.067	250	Eva	7079.8
+Passer_domesticus	gor_7m_8esc_20gr	7000	8	scaled_photograph	2400	1340	20	8.61	0.381	2.368	0.53	4.861	250	Eva	7079.8
+Passer_domesticus	gor_7m_8esc_40gr	7000	8	scaled_photograph	2400	1340	40	8.61	0.339	2.059	0.474	4.356	250	Eva	7079.8
+Passer_domesticus	gor_7m_8esc_60gr	7000	8	scaled_photograph	2400	1340	60	8.61	0.29	1.713	0.351	3.598	250	Eva	7079.8
+Passer_domesticus	gor_7m_9esc_0gr	7000	9	scaled_photograph	2690	1340	0	10.92	0.363	2.412	0.542	4.977	250	Eva	7128.99
+Passer_domesticus	gor_7m_9esc_20gr	7000	9	scaled_photograph	2690	1340	20	10.92	0.373	2.312	0.539	4.725	250	Eva	7128.99
+Passer_domesticus	gor_7m_9esc_40gr	7000	9	scaled_photograph	2690	1340	40	10.92	0.337	2.042	0.472	4.298	250	Eva	7128.99
+Passer_domesticus	gor_7m_9esc_60gr	7000	9	scaled_photograph	2690	1340	60	10.92	0.271	1.745	0.411	3.659	250	Eva	7128.99
+Passer_domesticus	gor_7m_10esc_0gr	7000	10	scaled_photograph	2980	1340	0	13.19	0.336	2.411	0.456	4.85	250	Eva	7189.55
+Passer_domesticus	gor_7m_10esc_20gr	7000	10	scaled_photograph	2980	1340	20	13.19	0.397	2.322	0.499	4.727	250	Eva	7189.55
+Passer_domesticus	gor_7m_10esc_40gr	7000	10	scaled_photograph	2980	1340	40	13.19	0.34	2.1	0.404	4.416	250	Eva	7189.55
+Passer_domesticus	gor_7m_10esc_60gr	7000	10	scaled_photograph	2980	1340	60	13.19	0.233	1.579	0.363	3.308	250	Eva	7189.55
+Passer_domesticus	gor_7m_11esc_0gr	7000	11	scaled_photograph	3270	1340	0	15.41	0.336	2.403	0.442	4.898	250	Eva	7261.19
+Passer_domesticus	gor_7m_11esc_20gr	7000	11	scaled_photograph	3270	1340	20	15.41	0.333	2.311	0.519	4.655	250	Eva	7261.19
+Passer_domesticus	gor_7m_11esc_40gr	7000	11	scaled_photograph	3270	1340	40	15.41	0.299	1.861	0.484	3.774	250	Eva	7261.19
+Passer_domesticus	gor_7m_11esc_60gr	7000	11	scaled_photograph	3270	1340	60	15.41	0.265	1.693	0.426	3.339	250	Eva	7261.19
+Turdus_rufiventris	zor_escala_	NA	NA	true	NA	NA	NA	NA	NA	NA	NA	NA	NA	Flor	NA
+Turdus_rufiventris	zor_3m_suelo_0gr	3000	0	scaled_photograph	0	1340	0	24.07	0.835	5.401	1.65	12.92	131	Flor	3285.67
+Turdus_rufiventris	zor_3m_suelo_20gr	3000	0	scaled_photograph	0	1340	20	24.07	0.625	4.934	1.425	12.482	135	Flor	3285.67
+Turdus_rufiventris	zor_3m_suelo_40gr	3000	0	scaled_photograph	0	1340	40	24.07	0.696	5.184	1.516	12.722	131	Flor	3285.67
+Turdus_rufiventris	zor_3m_suelo_60gr	3000	0	scaled_photograph	0	1340	60	24.07	0.457	4.527	1.423	12.524	131	Flor	3285.67
+Turdus_rufiventris	zor_3m_1esc_0gr	3000	1	scaled_photograph	390	1340	0	17.57	0.88	5.247	1.714	15.762	131	Flor	3146.82
+Turdus_rufiventris	zor_3m_1esc_20gr	3000	1	scaled_photograph	390	1340	20	17.57	0.833	5.272	1.697	14.83	135	Flor	3146.82
+Turdus_rufiventris	zor_3m_1esc_40gr	3000	1	scaled_photograph	390	1340	40	17.57	0.752	5.163	2.234	13.281	135	Flor	3146.82
+Turdus_rufiventris	zor_3m_1esc_60gr	3000	1	scaled_photograph	390	1340	60	17.57	0.568	5.218	1.602	14.207	135	Flor	3146.82
+Turdus_rufiventris	zor_3m_2esc_0gr	3000	2	scaled_photograph	680	1340	0	12.41	0.887	5.26	1.73	13.165	135	Flor	3071.74
+Turdus_rufiventris	zor_3m_2esc_20gr	3000	2	scaled_photograph	680	1340	20	12.41	0.919	5.232	1.782	15.403	135	Flor	3071.74
+Turdus_rufiventris	zor_3m_2esc_40gr	3000	2	scaled_photograph	680	1340	40	12.41	0.95	5.271	1.713	13.262	135	Flor	3071.74
+Turdus_rufiventris	zor_3m_2esc_60gr	3000	2	scaled_photograph	680	1340	60	12.41	0.77	5.289	1.742	13.351	135	Flor	3071.74
+Turdus_rufiventris	zor_3m_3esc_0gr	3000	3	scaled_photograph	970	1340	0	7.03	1.012	6.042	1.845	15.318	146	Flor	3022.73
+Turdus_rufiventris	zor_3m_3esc_20gr	3000	3	scaled_photograph	970	1340	20	7.03	1.02	6.163	1.753	14.816	146	Flor	3022.73
+Turdus_rufiventris	zor_3m_3esc_40gr	3000	3	scaled_photograph	970	1340	40	7.03	0.839	5.694	1.817	14.187	146	Flor	3022.73
+Turdus_rufiventris	zor_3m_3esc_60gr	3000	3	scaled_photograph	970	1340	60	7.03	0.571	4.172	1.95	13.342	146	Flor	3022.73
+Turdus_rufiventris	zor_3m_4esc_0gr	3000	4	scaled_photograph	1260	1340	0	1.53	1.103	6.486	2.096	15.433	154	Flor	3001.07
+Turdus_rufiventris	zor_3m_4esc_20gr	3000	4	scaled_photograph	1260	1340	20	1.53	0.911	5.816	2.117	14.783	154	Flor	3001.07
+Turdus_rufiventris	zor_3m_4esc_40gr	3000	4	scaled_photograph	1260	1340	40	1.53	0.715	4.994	1.968	14.147	154	Flor	3001.07
+Turdus_rufiventris	zor_3m_4esc_60gr	3000	4	scaled_photograph	1260	1340	60	1.53	0.66	3.933	1.921	13.304	154	Flor	3001.07
+Turdus_rufiventris	zor_3m_5esc_0gr	3000	5	scaled_photograph	1550	1340	0	4	0.985	6.425	1.921	16.278	154	Flor	3007.34
+Turdus_rufiventris	zor_3m_5esc_20gr	3000	5	scaled_photograph	1550	1340	20	4	0.916	6.108	2.052	13.695	154	Flor	3007.34
+Turdus_rufiventris	zor_3m_5esc_40gr	3000	5	scaled_photograph	1550	1340	40	4	0.788	4.626	1.886	13.302	154	Flor	3007.34
+Turdus_rufiventris	zor_3m_5esc_60gr	3000	5	scaled_photograph	1550	1340	60	4	0.598	4.24	2.174	12.395	154	Flor	3007.34
+Turdus_rufiventris	zor_3m_6esc_0gr	3000	6	scaled_photograph	1840	1340	0	9.46	0.969	6.096	1.89	15.003	154	Flor	3041.38
+Turdus_rufiventris	zor_3m_6esc_20gr	3000	6	scaled_photograph	1840	1340	20	9.46	0.897	6.337	2.199	14.829	154	Flor	3041.38
+Turdus_rufiventris	zor_3m_6esc_40gr	3000	6	scaled_photograph	1840	1340	40	9.46	0.942	5.686	1.957	13.656	154	Flor	3041.38
+Turdus_rufiventris	zor_3m_6esc_60gr	3000	6	scaled_photograph	1840	1340	60	9.46	0.717	4.374	2	12.379	154	Flor	3041.38
+Turdus_rufiventris	zor_3m_7esc_0gr	3000	7	scaled_photograph	2130	1340	0	14.75	1.125	5.779	1.727	13.436	135	Flor	3102.27
+Turdus_rufiventris	zor_3m_7esc_20gr	3000	7	scaled_photograph	2130	1340	20	14.75	0.943	5.234	1.575	13.246	135	Flor	3102.27
+Turdus_rufiventris	zor_3m_7esc_40gr	3000	7	scaled_photograph	2130	1340	40	14.75	0.919	5.392	1.713	12.441	135	Flor	3102.27
+Turdus_rufiventris	zor_3m_7esc_60gr	3000	7	scaled_photograph	2130	1340	60	14.75	0.862	4.29	1.681	10.781	135	Flor	3102.27
+Turdus_rufiventris	zor_3m_8esc_0gr	3000	8	scaled_photograph	2420	1340	0	19.8	1.062	5.355	1.35	12.981	135	Flor	3188.48
+Turdus_rufiventris	zor_3m_8esc_20gr	3000	8	scaled_photograph	2420	1340	20	19.8	0.885	5.393	1.613	12.097	135	Flor	3188.48
+Turdus_rufiventris	zor_3m_8esc_40gr	3000	8	scaled_photograph	2420	1340	40	19.8	0.885	5.063	1.527	12.771	135	Flor	3188.48
+Turdus_rufiventris	zor_3m_8esc_60gr	3000	8	scaled_photograph	2420	1340	60	19.8	0.874	4.202	1.462	10.147	135	Flor	3188.48
+Turdus_rufiventris	zor_3m_9esc_0gr	3000	9	scaled_photograph	2710	1340	0	24.54	0.87	5.082	1.095	12.679	135	Flor	3298.01
+Turdus_rufiventris	zor_3m_9esc_20gr	3000	9	scaled_photograph	2710	1340	20	24.54	1.048	5.091	1.47	12.031	135	Flor	3298.01
+Turdus_rufiventris	zor_3m_9esc_40gr	3000	9	scaled_photograph	2710	1340	40	24.54	0.908	4.744	1.4	11.113	135	Flor	3298.01
+Turdus_rufiventris	zor_3m_9esc_60gr	3000	9	scaled_photograph	2710	1340	60	24.54	1.086	4.636	1.215	10.461	135	Flor	3298.01
+Turdus_rufiventris	zor_3m_10esc_0gr	3000	10	scaled_photograph	3000	1340	0	28.96	0.866	5.167	1.246	11.844	135	Flor	3428.64
+Turdus_rufiventris	zor_3m_10esc_20gr	3000	10	scaled_photograph	3000	1340	20	28.96	0.872	4.777	1.182	11.173	135	Flor	3428.64
+Turdus_rufiventris	zor_3m_10esc_40gr	3000	10	scaled_photograph	3000	1340	40	28.96	0.916	4.493	1.134	10.51	135	Flor	3428.64
+Turdus_rufiventris	zor_3m_10esc_60gr	3000	10	scaled_photograph	3000	1340	60	28.96	0.801	4.193	1.465	9.905	135	Flor	3428.64
+Turdus_rufiventris	zor_3m_11esc_0gr	3000	11	scaled_photograph	3290	1340	0	33.02	0.795	4.593	NA	10.518	135	Flor	3578.06
+Turdus_rufiventris	zor_3m_11esc_20gr	3000	11	scaled_photograph	3290	1340	20	33.02	0.823	4.641	1.285	10.684	135	Flor	3578.06
+Turdus_rufiventris	zor_3m_11esc_40gr	3000	11	scaled_photograph	3290	1340	40	33.02	0.854	4.214	0.781	9.688	135	Flor	3578.06
+Turdus_rufiventris	zor_3m_11esc_60gr	3000	11	scaled_photograph	3290	1340	60	33.02	0.812	3.88	0.944	9.957	135	Flor	3578.06
+Turdus_rufiventris	zor_5m_suelo_0gr	5000	0	scaled_photograph	0	1340	0	15	0.88	4.922	1.783	12.996	225	Flor	5176.45
+Turdus_rufiventris	zor_5m_suelo_20gr	5000	0	scaled_photograph	0	1340	20	15	0.911	5.247	1.806	12.915	225	Flor	5176.45
+Turdus_rufiventris	zor_5m_suelo_40gr	5000	0	scaled_photograph	0	1340	40	15	0.825	5.01	1.855	12.861	225	Flor	5176.45
+Turdus_rufiventris	zor_5m_suelo_60gr	5000	0	scaled_photograph	0	1340	60	15	0.706	4.967	1.655	12.969	225	Flor	5176.45
+Turdus_rufiventris	zor_5m_1esc_0gr	5000	1	scaled_photograph	390	1340	0	10.76	0.821	5.055	1.538	12.738	225	Flor	5089.45
+Turdus_rufiventris	zor_5m_1esc_20gr	5000	1	scaled_photograph	390	1340	20	10.76	1.03	5.288	1.608	12.691	225	Flor	5089.45
+Turdus_rufiventris	zor_5m_1esc_40gr	5000	1	scaled_photograph	390	1340	40	10.76	0.782	4.768	1.576	11.979	225	Flor	5089.45
+Turdus_rufiventris	zor_5m_1esc_60gr	5000	1	scaled_photograph	390	1340	60	10.76	0.733	4.424	1.597	11.31	225	Flor	5089.45
+Turdus_rufiventris	zor_5m_2esc_0gr	5000	2	scaled_photograph	680	1340	0	7.52	0.904	5.118	1.532	12.718	225	Flor	5043.37
+Turdus_rufiventris	zor_5m_2esc_20gr	5000	2	scaled_photograph	680	1340	20	7.52	0.838	5.064	1.585	12.519	225	Flor	5043.37
+Turdus_rufiventris	zor_5m_2esc_40gr	5000	2	scaled_photograph	680	1340	40	7.52	0.857	5.058	1.607	11.955	225	Flor	5043.37
+Turdus_rufiventris	zor_5m_2esc_60gr	5000	2	scaled_photograph	680	1340	60	7.52	0.794	3.779	1.716	10.294	225	Flor	5043.37
+Turdus_rufiventris	zor_5m_3esc_0gr	5000	3	scaled_photograph	970	1340	0	4.23	0.879	5.419	1.473	12.69	225	Flor	5013.67
+Turdus_rufiventris	zor_5m_3esc_20gr	5000	3	scaled_photograph	970	1340	20	4.23	0.805	5.005	1.568	12.31	225	Flor	5013.67
+Turdus_rufiventris	zor_5m_3esc_40gr	5000	3	scaled_photograph	970	1340	40	4.23	0.728	4.667	1.608	11.248	225	Flor	5013.67
+Turdus_rufiventris	zor_5m_3esc_60gr	5000	3	scaled_photograph	970	1340	60	4.23	0.521	4.135	1.651	10.498	225	Flor	5013.67
+Turdus_rufiventris	zor_5m_4esc_0gr	5000	4	scaled_photograph	1260	1340	0	0.92	0.866	5.215	1.473	12.366	225	Flor	5000.64
+Turdus_rufiventris	zor_5m_4esc_20gr	5000	4	scaled_photograph	1260	1340	20	0.92	0.756	4.917	1.634	11.872	225	Flor	5000.64
+Turdus_rufiventris	zor_5m_4esc_40gr	5000	4	scaled_photograph	1260	1340	40	0.92	0.768	4.476	1.719	11.382	225	Flor	5000.64
+Turdus_rufiventris	zor_5m_4esc_60gr	5000	4	scaled_photograph	1260	1340	60	0.92	0.781	4.238	1.64	10.941	225	Flor	5000.64
+Turdus_rufiventris	zor_5m_5esc_0gr	5000	5	scaled_photograph	1550	1340	0	2.41	0.86	5.246	1.62	12.655	225	Flor	5004.41
+Turdus_rufiventris	zor_5m_5esc_20gr	5000	5	scaled_photograph	1550	1340	20	2.41	0.806	4.873	1.543	12.157	225	Flor	5004.41
+Turdus_rufiventris	zor_5m_5esc_40gr	5000	5	scaled_photograph	1550	1340	40	2.41	0.701	4.651	1.573	11.535	225	Flor	5004.41
+Turdus_rufiventris	zor_5m_5esc_60gr	5000	5	scaled_photograph	1550	1340	60	2.41	0.653	3.913	1.683	10.279	225	Flor	5004.41
+Turdus_rufiventris	zor_5m_6esc_0gr	5000	6	scaled_photograph	1840	1340	0	5.71	0.837	4.952	1.549	12.578	225	Flor	5024.94
+Turdus_rufiventris	zor_5m_6esc_20gr	5000	6	scaled_photograph	1840	1340	20	5.71	0.875	4.97	1.651	12.078	225	Flor	5024.94
+Turdus_rufiventris	zor_5m_6esc_40gr	5000	6	scaled_photograph	1840	1340	40	5.71	0.79	4.502	1.535	11.249	225	Flor	5024.94
+Turdus_rufiventris	zor_5m_6esc_60gr	5000	6	scaled_photograph	1840	1340	60	5.71	0.714	4	1.608	10.383	225	Flor	5024.94
+Turdus_rufiventris	zor_5m_7esc_0gr	5000	7	scaled_photograph	2130	1340	0	8.98	0.896	5.589	1.851	13.436	250	Flor	5062.03
+Turdus_rufiventris	zor_5m_7esc_20gr	5000	7	scaled_photograph	2130	1340	20	8.98	0.981	5.332	1.848	13.107	250	Flor	5062.03
+Turdus_rufiventris	zor_5m_7esc_40gr	5000	7	scaled_photograph	2130	1340	40	8.98	0.938	5.053	1.755	12.19	250	Flor	5062.03
+Turdus_rufiventris	zor_5m_7esc_60gr	5000	7	scaled_photograph	2130	1340	60	8.98	0.877	4.248	1.89	10.953	250	Flor	5062.03
+Turdus_rufiventris	zor_5m_8esc_0gr	5000	8	scaled_photograph	2420	1340	0	12.19	0.952	5.565	NA	13.429	250	Flor	5115.31
+Turdus_rufiventris	zor_5m_8esc_20gr	5000	8	scaled_photograph	2420	1340	20	12.19	1	5.21	NA	12.62	250	Flor	5115.31
+Turdus_rufiventris	zor_5m_8esc_40gr	5000	8	scaled_photograph	2420	1340	40	12.19	0.909	4.99	1.718	11.811	250	Flor	5115.31
+Turdus_rufiventris	zor_5m_8esc_60gr	5000	8	scaled_photograph	2420	1340	60	12.19	0.936	4.681	1.558	11.435	250	Flor	5115.31
+Turdus_rufiventris	zor_5m_9esc_0gr	5000	9	scaled_photograph	2710	1340	0	15.32	0.873	5.162	NA	12.816	250	Flor	5184.29
+Turdus_rufiventris	zor_5m_9esc_20gr	5000	9	scaled_photograph	2710	1340	20	15.32	1.044	5.261	1.448	12.249	250	Flor	5184.29
+Turdus_rufiventris	zor_5m_9esc_40gr	5000	9	scaled_photograph	2710	1340	40	15.32	0.926	4.713	1.379	11.679	250	Flor	5184.29
+Turdus_rufiventris	zor_5m_9esc_60gr	5000	9	scaled_photograph	2710	1340	60	15.32	0.986	4.308	1.35	10.32	250	Flor	5184.29
+Turdus_rufiventris	zor_5m_10esc_0gr	5000	10	scaled_photograph	3000	1340	0	18.37	0.952	5.213	NA	12.748	250	Flor	5268.36
+Turdus_rufiventris	zor_5m_10esc_20gr	5000	10	scaled_photograph	3000	1340	20	18.37	1.008	5.209	1.219	12.112	250	Flor	5268.36
+Turdus_rufiventris	zor_5m_10esc_40gr	5000	10	scaled_photograph	3000	1340	40	18.37	0.957	4.891	NA	11.43	250	Flor	5268.36
+Turdus_rufiventris	zor_5m_10esc_60gr	5000	10	scaled_photograph	3000	1340	60	18.37	0.926	4.127	1.497	10.087	250	Flor	5268.36
+Turdus_rufiventris	zor_5m_11esc_0gr	5000	11	scaled_photograph	3290	1340	0	21.31	1.006	5.367	1.44	12.698	250	Flor	5366.8
+Turdus_rufiventris	zor_5m_11esc_20gr	5000	11	scaled_photograph	3290	1340	20	21.31	0.922	4.683	1.518	11.199	250	Flor	5366.8
+Turdus_rufiventris	zor_5m_11esc_40gr	5000	11	scaled_photograph	3290	1340	40	21.31	0.845	4.255	1.393	10.137	250	Flor	5366.8
+Turdus_rufiventris	zor_5m_11esc_60gr	5000	11	scaled_photograph	3290	1340	60	21.31	0.748	3.217	NA	7.865	208	Flor	5366.8
+Turdus_rufiventris	zor_7m_suelo_0gr	7000	0	scaled_photograph	0	1340	0	10.84	0.658	3.783	1.322	9.832	250	Flor	7127.1
+Turdus_rufiventris	zor_7m_suelo_20gr	7000	0	scaled_photograph	0	1340	20	10.84	0.534	3.73	1.384	9.472	250	Flor	7127.1
+Turdus_rufiventris	zor_7m_suelo_40gr	7000	0	scaled_photograph	0	1340	40	10.84	0.419	3.359	1.288	8.905	250	Flor	7127.1
+Turdus_rufiventris	zor_7m_suelo_60gr	7000	0	scaled_photograph	0	1340	60	10.84	0.262	3.053	1.105	8.765	250	Flor	7127.1
+Turdus_rufiventris	zor_7m_1esc_0gr	7000	1	scaled_photograph	390	1340	0	7.73	0.62	3.999	1.275	9.69	250	Flor	7064.17
+Turdus_rufiventris	zor_7m_1esc_20gr	7000	1	scaled_photograph	390	1340	20	7.73	0.646	4.077	1.285	9.749	250	Flor	7064.17
+Turdus_rufiventris	zor_7m_1esc_40gr	7000	1	scaled_photograph	390	1340	40	7.73	0.513	3.425	1.218	8.988	250	Flor	7064.17
+Turdus_rufiventris	zor_7m_1esc_60gr	7000	1	scaled_photograph	390	1340	60	7.73	0.402	3.071	1.155	8.431	250	Flor	7064.17
+Turdus_rufiventris	zor_7m_2esc_0gr	7000	2	scaled_photograph	680	1340	0	5.39	0.673	3.857	1.187	9.829	250	Flor	7031.05
+Turdus_rufiventris	zor_7m_2esc_20gr	7000	2	scaled_photograph	680	1340	20	5.39	0.615	3.817	1.221	9.4	250	Flor	7031.05
+Turdus_rufiventris	zor_7m_2esc_40gr	7000	2	scaled_photograph	680	1340	40	5.39	0.504	3.408	1.256	8.789	250	Flor	7031.05
+Turdus_rufiventris	zor_7m_2esc_60gr	7000	2	scaled_photograph	680	1340	60	5.39	0.423	3.11	1.211	8.533	250	Flor	7031.05
+Turdus_rufiventris	zor_7m_3esc_0gr	7000	3	scaled_photograph	970	1340	0	3.03	0.584	3.898	1.228	9.738	250	Flor	7009.77
+Turdus_rufiventris	zor_7m_3esc_20gr	7000	3	scaled_photograph	970	1340	20	3.03	0.575	3.803	1.303	9.394	250	Flor	7009.77
+Turdus_rufiventris	zor_7m_3esc_40gr	7000	3	scaled_photograph	970	1340	40	3.03	0.572	3.552	1.283	9.083	250	Flor	7009.77
+Turdus_rufiventris	zor_7m_3esc_60gr	7000	3	scaled_photograph	970	1340	60	3.03	0.403	2.919	1.315	8.289	250	Flor	7009.77
+Turdus_rufiventris	zor_7m_4esc_0gr	7000	4	scaled_photograph	1260	1340	0	0.65	0.717	3.979	1.242	9.548	250	Flor	7000.46
+Turdus_rufiventris	zor_7m_4esc_20gr	7000	4	scaled_photograph	1260	1340	20	0.65	0.686	3.86	1.157	9.221	250	Flor	7000.46
+Turdus_rufiventris	zor_7m_4esc_40gr	7000	4	scaled_photograph	1260	1340	40	0.65	0.476	3.272	1.228	8.625	250	Flor	7000.46
+Turdus_rufiventris	zor_7m_4esc_60gr	7000	4	scaled_photograph	1260	1340	60	0.65	0.397	2.731	1.232	7.983	250	Flor	7000.46
+Turdus_rufiventris	zor_7m_5esc_0gr	7000	5	scaled_photograph	1550	1340	0	1.72	0.687	3.955	1.227	9.557	250	Flor	7003.15
+Turdus_rufiventris	zor_7m_5esc_20gr	7000	5	scaled_photograph	1550	1340	20	1.72	0.66	3.869	1.243	9.396	250	Flor	7003.15
+Turdus_rufiventris	zor_7m_5esc_40gr	7000	5	scaled_photograph	1550	1340	40	1.72	0.598	3.548	1.355	9.183	250	Flor	7003.15
+Turdus_rufiventris	zor_7m_5esc_60gr	7000	5	scaled_photograph	1550	1340	60	1.72	0.495	3.101	1.2	8.259	250	Flor	7003.15
+Turdus_rufiventris	zor_7m_6esc_0gr	7000	6	scaled_photograph	1840	1340	0	4.09	0.699	4.074	1.23	9.671	250	Flor	7017.83
+Turdus_rufiventris	zor_7m_6esc_20gr	7000	6	scaled_photograph	1840	1340	20	4.09	0.66	3.925	1.27	9.613	250	Flor	7017.83
+Turdus_rufiventris	zor_7m_6esc_40gr	7000	6	scaled_photograph	1840	1340	40	4.09	0.632	3.854	1.222	9.398	250	Flor	7017.83
+Turdus_rufiventris	zor_7m_6esc_60gr	7000	6	scaled_photograph	1840	1340	60	4.09	0.576	3.451	1.279	8.805	250	Flor	7017.83
+Turdus_rufiventris	zor_7m_7esc_0gr	7000	7	scaled_photograph	2130	1340	0	6.44	0.558	3.503	1.067	8.401	214	Flor	7044.44
+Turdus_rufiventris	zor_7m_7esc_20gr	7000	7	scaled_photograph	2130	1340	20	6.44	0.523	3.143	1.2	7.955	214	Flor	7044.44
+Turdus_rufiventris	zor_7m_7esc_40gr	7000	7	scaled_photograph	2130	1340	40	6.44	0.517	3.071	1.227	7.662	214	Flor	7044.44
+Turdus_rufiventris	zor_7m_7esc_60gr	7000	7	scaled_photograph	2130	1340	60	6.44	0.393	2.547	1.093	6.873	214	Flor	7044.44
+Turdus_rufiventris	zor_7m_8esc_0gr	7000	8	scaled_photograph	2420	1340	0	8.77	0.586	3.364	0.944	8.299	214	Flor	7082.82
+Turdus_rufiventris	zor_7m_8esc_20gr	7000	8	scaled_photograph	2420	1340	20	8.77	0.605	3.248	1.054	8.035	214	Flor	7082.82
+Turdus_rufiventris	zor_7m_8esc_40gr	7000	8	scaled_photograph	2420	1340	40	8.77	0.526	2.968	1.247	7.396	214	Flor	7082.82
+Turdus_rufiventris	zor_7m_8esc_60gr	7000	8	scaled_photograph	2420	1340	60	8.77	0.471	2.317	1.117	6.219	214	Flor	7082.82
+Turdus_rufiventris	zor_7m_9esc_0gr	7000	9	scaled_photograph	2710	1340	0	11.07	0.569	3.597	1.096	8.537	214	Flor	7132.8
+Turdus_rufiventris	zor_7m_9esc_20gr	7000	9	scaled_photograph	2710	1340	20	11.07	0.639	3.437	1.089	8.25	214	Flor	7132.8
+Turdus_rufiventris	zor_7m_9esc_40gr	7000	9	scaled_photograph	2710	1340	40	11.07	0.586	3.043	1.064	7.564	214	Flor	7132.8
+Turdus_rufiventris	zor_7m_9esc_60gr	7000	9	scaled_photograph	2710	1340	60	11.07	0.555	2.623	0.861	6.372	214	Flor	7132.8
+Turdus_rufiventris	zor_7m_10esc_0gr	7000	10	scaled_photograph	3000	1340	0	13.34	0.686	3.715	0.971	9.441	250	Flor	7194.14
+Turdus_rufiventris	zor_7m_10esc_20gr	7000	10	scaled_photograph	3000	1340	20	13.34	0.719	3.587	1.027	8.558	250	Flor	7194.14
+Turdus_rufiventris	zor_7m_10esc_40gr	7000	10	scaled_photograph	3000	1340	40	13.34	0.642	3.088	1.058	7.248	250	Flor	7194.14
+Turdus_rufiventris	zor_7m_10esc_60gr	7000	10	scaled_photograph	3000	1340	60	13.34	0.627	3.148	1.272	7.772	250	Flor	7194.14
+Turdus_rufiventris	zor_7m_11esc_0gr	7000	11	scaled_photograph	3290	1340	0	15.57	0.645	3.776	1.064	9.394	250	Flor	7266.53
+Turdus_rufiventris	zor_7m_11esc_20gr	7000	11	scaled_photograph	3290	1340	20	15.57	0.679	3.781	1.179	9.352	250	Flor	7266.53
+Turdus_rufiventris	zor_7m_11esc_40gr	7000	11	scaled_photograph	3290	1340	40	15.57	0.625	3.522	1.186	8.67	250	Flor	7266.53
+Turdus_rufiventris	zor_7m_11esc_60gr	7000	11	scaled_photograph	3290	1340	60	15.57	0.634	3.303	1.034	7.883	250	Flor	7266.53

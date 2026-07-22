@@ -202,6 +202,7 @@ sum(FRic_obs>FD_avo[,1])/500
 ## Wild birds vs museum specimens
 ```{r wild vs museum}
 museum <- read.table(here("data", "museum measurements.txt"), head = T)
+
 means.museum <- museum %>% group_by(species) %>% 
   summarise(beak_length_mm = mean(bill_length_mm, na.rm = T),
             tarsus_length_mm = mean(tarsus_length_mm, na.rm = T),
@@ -373,8 +374,22 @@ length(FD[,2][FD[,2]<FDiv_obs])/nsim
 # Experimental setup: 4 species, 4 angles relative to the focal plane, 3 horizonal distances
 ```{r experiment}
 museum <- read.table(here("data", "museum experiment.txt"), head = T)
+
+# Pinhole camera model
+museum$uncorrected_bill_length_mm <- museum$bill_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+museum$bill_length_mm <- museum$uncorrected_bill_length_mm/cos(museum$angle_degrees*pi/180)
+
+museum$uncorrected_tarsus_length_mm <- museum$tarsus_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+museum$tarsus_length_mm <- museum$uncorrected_tarsus_length_mm/cos(museum$angle_degrees*pi/180)
+
+museum$uncorrected_wing_length_mm <- museum$wing_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+museum$wing_length_mm <- museum$uncorrected_wing_length_mm/cos(museum$angle_degrees*pi/180)
+
+museum$uncorrected_body_length_mm <- museum$body_length_sensor*museum$dist_bird_mm/museum$focal_dist_mm
+museum$body_length_mm <- museum$uncorrected_body_length_mm/cos(museum$angle_degrees*pi/180)
+
 museum$dist_bird_m <- museum$dist_bird_mm/1000 # in meters
-estimated <- subset(museum, measurement == "scaled_photographs")
+estimated <- subset(museum, measurement == "scaled_photograph")
 true <- subset(museum, measurement == "true")
 estimated$bird_species <- as.factor(estimated$bird_species)
 true$bird_species <- as.factor(true$bird_species)

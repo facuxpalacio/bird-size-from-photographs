@@ -1,0 +1,7 @@
+"0","# Loop for every species and trait"
+"0","gls_results <- purrr::imap_dfr(species_list, function(df, sp){"
+"0","  purrr::map_dfr(traits,"
+"0","                 function(tr){"
+"0","                   run_bias_gls(df, tr, sp)"
+"0","                 })"
+"0","})"
