@@ -201,7 +201,7 @@ sum(FRic_obs>FD_avo[,1])/500
 
 ## Wild birds vs museum specimens
 ```{r wild vs museum}
-museum <- read.table(here("data", "mounted specimens.txt"), head = T)
+museum <- read.table(here("data", "museum measurements.txt"), head = T)
 means.museum <- museum %>% group_by(species) %>% 
   summarise(beak_length_mm = mean(bill_length_mm, na.rm = T),
             tarsus_length_mm = mean(tarsus_length_mm, na.rm = T),
@@ -309,7 +309,7 @@ FDiv_obs # Functional divergence
 
 # Sample sizes per species
 sp <- sp_means$Species
-museum <- read.table(here("data", "mounted specimens.txt"), head = T)
+museum <- read.table(here("data", "museum measurements.txt"), head = T)
 museum.sp <- museum[museum$species %in% sp, ]
 museum.sp$Species <- as.factor(museum.sp$species)
 sample_sizes <- table(museum.sp$Species)
@@ -372,10 +372,10 @@ length(FD[,2][FD[,2]<FDiv_obs])/nsim
 
 # Experimental setup: 4 species, 4 angles relative to the focal plane, 3 horizonal distances
 ```{r experiment}
-museum <- read.table(here("data", "museum measurements.txt"), head = T)
+museum <- read.table(here("data", "museum experiment.txt"), head = T)
 museum$dist_bird_m <- museum$dist_bird_mm/1000 # in meters
-estimated <- subset(museum, medida == "estimada")
-true <- subset(museum, medida == "real")
+estimated <- subset(museum, measurement == "scaled_photographs")
+true <- subset(museum, measurement == "true")
 estimated$bird_species <- as.factor(estimated$bird_species)
 true$bird_species <- as.factor(true$bird_species)
 table(estimated$bird_species) # photos per species
@@ -443,12 +443,17 @@ bias <- function(obs_values, true, est){
   output <- vector("list", 7)
   
   obs <- est[[obs_values]]
-  
-  # Compute percentage error
-  bias_trait <- 100*abs((obs - true))/true
-  bias_trait[!is.finite(bias_trait)] <- NA
-  
-  est$bias_trait <- bias_trait
+
+# Absolute bias (used for models)
+bias_trait <- 100 * abs((obs - true) / true)
+bias_trait[!is.finite(bias_trait)] <- NA
+
+# Signed bias (used only for descriptive summaries)
+bias_signed <- 100 * ((obs - true) / true)
+bias_signed[!is.finite(bias_signed)] <- NA
+
+est$bias_trait  <- bias_trait
+est$bias_signed <- bias_signed
   
   # General summary
   output[[1]] <- data.frame(
@@ -483,16 +488,14 @@ bias <- function(obs_values, true, est){
   angle_df <- matrix(NA, nrow = length(angle), ncol = 2)
   
   for(i in seq_along(angle)){
-    
-    angle_subset <- subset(est, angle_degrees == angle[i])
-    angle_obs <- angle_subset[[obs_values]]
-    
-    bias_angle <- 100 * abs((angle_obs - true) / true)
-    bias_angle[!is.finite(bias_angle)] <- NA
-    
-    angle_df[i, 1] <- round(mean(bias_angle, na.rm = TRUE), 2)
-    angle_df[i, 2] <- round(sd(bias_angle, na.rm = TRUE), 2)
-  }
+
+  angle_subset <- subset(est, angle_degrees == angle[i])
+
+  bias_angle <- angle_subset$bias_signed
+
+  angle_df[i, 1] <- round(mean(bias_angle, na.rm = TRUE), 2)
+  angle_df[i, 2] <- round(sd(bias_angle, na.rm = TRUE), 2)
+}
   
   output[[4]] <- data.frame(
     angle = angle,
@@ -537,8 +540,8 @@ output[[7]] <- car::vif(lm_vif)
 # Wrapper to run bias
 run_bias <- function(df, trait, species_name){
   
-  estimated <- df[df$medida != "real", ]
-  true_val <- df[df$medida == "real", trait]
+  estimated <- df[df$measurement != "true", ]
+  true_val <- df[df$measurement == "true", trait]
   
   res <- bias(est = estimated,
               obs_values = trait,
@@ -566,8 +569,8 @@ results
 ## Check model results
 run_bias_gls <- function(df, trait, species_name){
   
-  estimated <- df[df$medida != "real", ]
-  true_val <- df[df$medida == "real", trait]
+  estimated <- df[df$measurement != "true", ]
+  true_val <- df[df$measurement == "true", trait]
   
   res <- bias(est = estimated,
               obs_values = trait,
@@ -615,8 +618,8 @@ gls_results <- purrr::imap_dfr(species_list, function(df, sp){
 # VIF values
 run_vif <- function(df, trait, species_name){
   
-  estimated <- df[df$medida != "real", ]
-  true_val <- df[df$medida == "real", trait]
+  estimated <- df[df$measurement != "true", ]
+  true_val <- df[df$measurement == "true", trait]
   
   res <- bias(est = estimated,
               obs_values = trait,
@@ -639,4 +642,5 @@ vif_results <- purrr::imap_dfr(species_list, function(df, sp){
                  })
 })
 vif_results
+range(vif_results$VIF)
 ```

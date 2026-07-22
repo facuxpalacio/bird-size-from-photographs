@@ -1,5 +1,0 @@
-"0","# Intra-class correlation coefficient for some repeated measures
-rep_photos <- read.table(here(""data"", ""C:/RD/photos icc.txt""), head = T)
-"
-"2","Error in file(file, ""rt"") : cannot open the connection
-"

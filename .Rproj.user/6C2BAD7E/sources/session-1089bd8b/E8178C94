@@ -3,7 +3,7 @@
     "path": "~/GitHub/bird-size-from-photographs/Analyses of wild bird photographs.Rmd",
     "project_path": "Analyses of wild bird photographs.Rmd",
     "type": "r_markdown",
-    "hash": "674781087",
+    "hash": "50429653",
     "contents": "",
     "dirty": false,
     "created": 1775581526835.0,
@@ -12,16 +12,16 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "565,0",
-        "scrollLine": "557",
-        "last_setup_crc32": "75e07a5774477e46"
+        "cursorPosition": "645,0",
+        "scrollLine": "629",
+        "last_setup_crc32": "1089bd8b74477e46"
     },
     "folds": "",
-    "lastKnownWriteTime": 1784608498,
+    "lastKnownWriteTime": 1784695602,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1784608498566,
+    "last_content_update": 1784695612262,
     "read_only": false,
     "read_only_alternatives": []
 }
